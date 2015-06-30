@@ -1,44 +1,38 @@
 ---
-layout: base
+layout: default
 ---
-{% if page.cover_image %}
-<div class="article-cover">
-    <div>
-        <img src="/images/{{ page.cover_image }}" class="image">
-    </div>
-</div>
-{% endif %}
+<div id="home" class="grid post">
+<div class="unit whole">
 <article>
-
-    <div class="container">
-        <header>
-            <div class="meta">
-                By <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a></address> &mdash;
-                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
-            </div>
-            <h1 class="title">{{ page.title }}</h1>
-            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-        </header>
-
-        <section>
-            {{ content }}
-            {% include _social.html %}
-        </section>
-
-        <footer>
-            <address>
-               {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
-                <p>Written by <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
-                <span class="muted">{{ page.author.bio }}</span>
-                </p>
-            </address>
-
-        </footer>
-
-        {% if site.inc.disqus.shortname %}
-        <section>
-            {% include _disqus.html %}
-        </section>
-        {% endif %}
-    </div>
+	<header>
+		<h1>{{ page.title }}</h1>
+		<p class="meta">
+			<time class="timeago postlist-meta" datetime="{{ page.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar"></i>{{ page.date | date: "%B %-d, %Y" }}</time>
+			<a class="sharer facebook" href="#" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+window.location.href,'_blank','height=300,width=600');return false;"><i class="fa fa-facebook"></i></a>
+			{% if site.twitter %}
+				<a class="sharer twitter" href="#" target="_blank" onclick="window.open('https://twitter.com/share?url='+window.location.href+'&via={{ site.twitter }}','_blank','height=300,width=600');return false;"><i class="fa fa-twitter"></i></a>
+			{% else %}
+				<a class="sharer twitter" href="#" target="_blank" onclick="window.open('https://twitter.com/share?url='+window.location.href,'_blank','height=300,width=600');return false;"><i class="fa fa-twitter"></i></a>
+			{% endif %}
+		</p>
+	</header>
+	<section>
+		{% if page.tags and page.tags.size > 0 %}
+			<div class="tags">
+				Tagged:
+				{% for tag in page.tags %}
+				<span><i class="fa fa-tag"></i>{{ tag }}</span>
+				{% endfor %}
+			</div>
+		{% endif %}
+		{{ content }}
+	</section>
+	{% if site.disqus %}
+	<footer>
+		<p><a href="#" id="showComments">Comments</a></p>
+		<div id="disqus_thread"></div>
+	</footer>
+	{% endif %}
 </article>
+</div>
+</div>
