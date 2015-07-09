@@ -20,7 +20,7 @@ into music, food (especially BBQ), craft beer, sport analytics and hanging with 
   	<h2>Things im into at the moment (added whenever...)</h2>
 	<ul>
 		<li>Adelaide brewery called <a href="http://piratelife.com.au"> Pirate Life </a>. Have a great pale ale and are a great bunch of guys </li>
-		<li>My best mate <a href="https://www.facebook.com/gusfacegrillah"> Gusface Grillah has an <a href="http://gusfacegrillah.com/"> amazing bbq blog </a> which you should definitely check out. Recently featured on buzzfeed as an Australian food blog that  <a href="http://www.buzzfeed.com/gyanyankovich/the-best-australian-food-blogs"> "will change the way you eat"</a>, which is good.....i think </li>
+		<li>My best mate <a href="https://www.facebook.com/gusfacegrillah"> Gusface Grillah</a> has an <a href="http://gusfacegrillah.com/"> amazing bbq blog </a> which you should definitely check out. Recently featured on buzzfeed as an Australian food blog that  <a href="http://www.buzzfeed.com/gyanyankovich/the-best-australian-food-blogs"> "will change the way you eat"</a>, which is good thing ..... i think </li>
   	</ul>
   	
 </div>
