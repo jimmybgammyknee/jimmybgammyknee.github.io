@@ -5,7 +5,7 @@ title: About me
 
 <div class="post">
 	<h1 class="pageTitle">About me</h1>
-	<img src="{{ '/assets/img/beach.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/me.jpg' | prepend: site.baseurl }}" alt=""> 
 	<p class="intro">My name is Jimmy Breen and Im a Bioinformatician for <a href="http://www.adelaide.edu.au/acad/">the Australian Centre for Ancient DNA (ACAD)</a> & the School of Agriculture, Food and Wine at the University of Adelaide, Australia. Professionally Im interested in Genomics, Bioinformatics and Data Science, with a background in Plant Genomics and Next Generation Sequencing Technologies. Personally, Im
 into music, food (especially BBQ), craft beer, sport analytics and hanging with my family (Wife and Dog!). Im a big fan of most sports especially  <a href="http://www.afl.com.au"> Australian Rules Football (AFL)</a></p>
 	<h2>Some extra info</h2>
