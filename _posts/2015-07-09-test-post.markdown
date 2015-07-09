@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "First Post"
+date:   2015-07-09
+---
+
+<p class="intro"><span class="dropcap">F</span>irst post on my band new blog</p>
+
+Really this has just been a chance to stuff around with Jekyll and Markdown. I'm using a lot of Markdown these days so its always good to experiment with different ways on using layouts and producing sites.  
