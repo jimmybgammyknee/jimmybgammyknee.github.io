@@ -1,25 +1,19 @@
 ---
 layout: default
-title: About Long Haul
+title: About me
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">About me</h1>
+	<img src="{{ '/assets/img/beach.jpg' | prepend: site.baseurl }}" alt=""> 
+	<p class="intro">My name is Jimmy Breen and Im a Bioinformatician for <a href="http://www.adelaide.edu.au/acad/">the Australian Centre for Ancient DNA (ACAD)</a> & the School of Agriculture, Food and Wine at the University of Adelaide, Australia. Professionally Im interested in Genomics, Bioinformatics and Data Science, with a background in Plant Genomics and Next Generation Sequencing Technologies. Personally, Im
+into music, food (especially BBQ) and sport analytics. Im a big fan of most sports especiatlly  <a href="http://www.afl.com.au"> Australian Rules Football (AFL)</a></p>
+	<h2>Some extra info</h2>
 	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>Im employed as a ARC Postdoctoral Research Associate at ACAD, working on an ancient DNA project that investigates the sequencing of ancient grains from the Near East and Transcaucasia </li>
+  		<li>My main field site is a cave in Southern Armenian called <a href="https://en.wikipedia.org/wiki/Areni-1_cave_complex"> Areni-1 </a></li>
+  		<li>I am also the main contact and curator for the <a href="https://www.oagr.org.au"> Online Ancient Genome Repository (OAGR)</a>, a data repository for ancient human and microbiome sequence data</li>
+  		<li>I have previously worked as a postoc in Professor Beat Keller's lab at the <a href="http://http://www.botinst.uzh.ch/"> Institute of Plant Biology at the University of Zurich, Switzerland</a>, and completed a PhD in Bioinformatics with Professor Matthew Bellgard and Rudi Appels at the <a href="http://ccg.murdoch.edu.au/index.php/Main_Page"> Centre for Comparative Genomics at Murdoch University in Perth, Western Australia </a></li>
   	</ul>
+  	
 </div>
