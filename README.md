@@ -1,75 +1,49 @@
-# Bitwiser Jekyll theme.
-A minimalist Jekyll theme that puts focus on content.
+![preview Long Haul](/preview.jpg)
 
-### For subdirectory blog support, checkout [subdirectory](https://github.com/brijeshb42/bitwiser/tree/subdirectory) branch.
+Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog plosts. It is meant to used as a starting point for a jekyll blog/website.
+
+If you really enjoy Long Haul and want to give me credit somewhere on the send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaier).
+
+####[View Demo](http://brianmaierjr.com/long-haul)
 
 ## Features
 
-* Clean, simple and responsive layout
-* Code formatting.
-* Sitemap included.
-* Google analytics.
-* Disqus commenting (Loaded lazily).
-* Share post to facebook and twitter.
-* Robots.txt included.
-* Custom 404 error page.
-* Clean material like layout.
-* Awesome navigation menu on small screens.
+- Minimal, Type Focused Design
+- Built with SASS + COMPASS
+- Layout with SUSY Grid
+- SVG Social Icons
+- Responsive Nav Menu
+- XML Feed for RSS Readers
+- Contact Form via Formspree
+- 5 Post Loop with excerpt on Home Page
+- Previous / Next Post Navigation
+- Estimated Reading Time for posts
+- Stylish Drop Cap on posts
+- A Better Type Scale for all devices
 
-Theme website: http://bitwiser.in/bitwiser/
+## Setup
 
-Demo post: http://bitwiser.in/bitwiser/demo.html
+1. [Install Jekyll](http://jekyllrb.com)
+2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+3. Clone it
+4. Install susy `gem install susy` 
+5. Install normalize `gem install normalize-scss`
+6. Run Jekyll `jekyll serve -w`
+7. Run `compass watch`
+8. Customize!
 
-Usage: [http://bitwiser.in/2014/09/10/bitwiser-jekyll-theme.html](http://bitwiser.in/2014/09/10/bitwiser-jekyll-theme.html)
+## Site Settings
 
-Download latest Zip: [Here](http://goo.gl/iC85jv)
+The main settings can be found inside the `_config.yml` file:
 
-Or browse releases: [Releases](https://github.com/brijeshb42/bitwiser/releases)
+- **title:** title of your site
+- **description:** description of your site
+- **url:** your url
+- **paginate:** the amount of posts displayed on homepage
+- **navigation:** these are the links in the main site navigation
+- **social** diverse social media usernames (optional)
+- **google_analytics** Google Analytics key (optional)
 
-To get started with this theme, read the [usage guide](http://bitwiser.in/2014/09/10/bitwiser-jekyll-theme.html). After that start creating post files in the ```_posts``` directory and push your changes to github.
+## License
 
-Report issues: [Issues](https://github.com/brijeshb42/bitwiser/issues/new)
-
-If you are using this theme, do not forget to :star: this repo or tweet [@brijeshb42](https://twitter.com/brijeshb42).
-
-Pull requests are also welcome :thumbsup:.
-
-
-## Getting Started
-
-(Assuming you know what Jekyll and Github pages are.)
-
-* Download this theme's zip file from [here](http://goo.gl/iC85jv) or clone the repository using ```git clone https://github.com/brijeshb42/bitwiser.git```. If you are cloning, then make sure to delete the ```gh-pages``` branch as it includes the files for the theme website.
-
-* Install ```ruby``` and then do ```gem install jekyll```. This theme uses the latest ```jekyll``` version. So if you already have it installed, then upgrade it.
-
-* ```_config.yml``` describes all the variables which you are required to set. The description begins with double hash(```##```). And the value to be set is commented below it using ```#```.
-
-* Edit ```_config.yml``` according to your requirements.
-	* ```name``` : ```Your website name```
-	* ```disqus``` : ```disqusForumName```
-		If this value is present, disqus commenting will be automatically added to all your blog posts.
-	* ```ga_id``` : ```googleAnalyticsID```
-		If this value is present, google analytics will be added to your website/blog.
-		If ```ga_id``` is present, make sure that ```ga_domain``` is also present.
-	* ```description```: ```A short description of your website to be included in meta tag of your homepage```
-	* ```keywords``` : ```a few frequently used keywords on your site```
-	* ```links``` : This variable has a few commonly used social networks' links
-		* ```facebook```: ```facebookId```
-		* ```twitter``` : ```twitterHandle```
-		* ```email```: ```email@example.com```
-		* ```github```: ```githubUsername```
-	* ```about_image```: This is a new variable introduced. If defined, make sure the image is present in ```img``` directory. If not defined, a provided placeholder image is used. ** If github link is provided in ```links``` variable, then the github profile picture will be used if ```about_image``` is not defined.
-	* ```sidebar```: This is a new variable introduced. It is used to enable/disable sidebar. If present, a sidebar will be displayed. To disable sidebar, just comment this line using ```#```.
-
-* After setting the values in ```_config.yml```, you can start adding posts in the ```_posts``` directory. Remove the example posts from the directory. The name of files in this directory should be according to specifications by ```jekyll```, i.e, ```YYYY-MM-DD-your-post-title.md```. **Note** that the file name extenion can be anything from md, markdown, mkd, textile or html.
-
-* Replace the image files ```favicon.png``` and ```sharer.png``` with images of your own.
-
-* Test the site on local machine using ```jekyll serve``` in the theme directory.
-
-* If all works well, ```git push``` your changes to your github pages repository ```https://github.com/githubUserName/githubUserName.github.io```
-
-* Then visit your blog at [http://githubUserName.github.io](http://githubUserName.github.io).
-
-* If you want to use a custom domain, then edit the ```CNAME``` file and add your own domain ```example.com```. Make sure your domain points to github ip address.
+This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.

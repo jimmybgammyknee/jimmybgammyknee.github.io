@@ -1,37 +1,27 @@
-##The website title
-name: Blog Name
-##Markdown processor
-markdown: kramdown
-##syntax highlighter. change it to pygments
+title: Long Haul
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: http://brianmaierjr.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
 highlighter: pygments
-
-##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://example.com
-sass:
-  sass_dir: _sass
-  style: :compressed
 paginate: 5
-paginate_path: "page:num"
-##The website description (to be used in meta tags)
-description: Put website description for your home page. (about 50 words or more)
-##Some frequently used keywords on your website
-keywords: some, relevant, keywords, for, usage, in metatags
 
-##define this for disqus comment support
-#disqus: forumname
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
 
-##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: analyticsDomain
+social:
+   github: brianmaierjr
+   twitter: brianmaierjr
+   facebook: brianmaierjr
+   email: brimaidesigns@gmail.com
 
-##Some commonly used links
-links:
-  facebook: username
-  twitter: username
-  email: username@gmail.com
-  github: username
-
-##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: placeholder.jpg
-##comment this if you want full width posts with no sidebar
-sidebar: on
+google_analytics: "UA-58263416-1"
