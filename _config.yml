@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Bad Knees for Dummies
+description: Personal page for Jimmy
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://jimmybgammyknee.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -19,9 +19,8 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: jimmybgammyknee
+   twitter: @wessidepraxis
+   email: jimmymbreen@gmail.com
 
-google_analytics: "UA-58263416-1"
+
