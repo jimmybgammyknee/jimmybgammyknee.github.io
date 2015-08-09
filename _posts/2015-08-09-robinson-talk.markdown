@@ -4,8 +4,6 @@ title:  "Seminar at Robinson Institute, University of Adelaide"
 date:   2015-08-09
 ---
 
-<p class="intro"><span class="dropcap">S</span>eminar at Robinson Institute, University of Adelaide</p>
-
 On Friday (2015/08/07) I had the pleasure of presenting a Bioinformatics seminar at the Robinson Institute, University of Adelaide. The talk centred mostly around my own career in Bioinformatics and how we've built up Bioinformatics at my current workplace (Australian Centre for
 Ancient DNA). The Robinson Institute is a research institute within the University that deals with human reproduction, pregnancy and child
 health. 
