@@ -8,13 +8,13 @@ title: CV
 Dr James (Jimmy) Breen
 Bioinformatics & Genomics Researcher
 
-<div id="webaddress">
 <a href="mailto:jimmymbreen@gmail.com">Email: jimmymbreen@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/jimmybgammyknee">github: jimmybgammyknee</a>
+<a href="http://github.com/jimmybgammyknee">github: jimmybgammyknee</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/wessidepraxis">Twitter: wessidepraxis</a>
-</div>
+<a href="http://twitter.com/wessidepraxis">Twitter: wessidepraxis</a>
+|
+<a href="https://bitbucket.org/gammyknee">Bitbucket: https://bitbucket.org/gammyknee</a>
 
 
 ## Academic & Professional Positions
@@ -127,9 +127,94 @@ Genome interplay in the grain transcriptome of hexaploid bread wheat. **Science*
 Contribution: Provided hexaploid wheat chromosome 1A physical mapping information and high- throughput microarray data for detailed analysis 
 
 
-## Presentations
+## Invited Presentations 
 
-Many....coming soon
+`2015`
+Ancient Plants: Adaptation to Climate Change and Domestication, University of Washington, USA (host: Jay Shedure)
+`2014`
+Next-generation sequencing of ancient grains from Armenia, University of Swansea, UK (host: Sonia Consuegra)
+`2009`
+Sequencing, Assembly and Annotation of large genomic sequences from chromosome 3B, Institut National de la Recherche Agronomique (INRA), Clermont- Ferrand, France (host: Catherine Feuillet)
+`2008`
+Wheat Genome Sequence assembly using Transposable Element Annotation, CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)
+
+## Conference submissions 
+
+`2015`
+__Breen J, Rabanus-Wallace MT, Pinhasi R, Gasparyan B, Wilkinson MJ, Cooper A__
+Ancient DNA analysis of 5,000 year old wheat and barley seeds from Armenia reveal insights into fungal pathogens and wine-making culture in the late chalcolithic
+**Plant and Animal Genome** San Diego, USA
+
+`2015`
+__Rodriguez Lopez CM, Breen J, De Bei R, Searle I, Collins C__
+We prefer them old: Epigenetic control of wine quality in response to grapevine age
+**Plant and Animal Genome** San Diego, USA
+
+`2015`
+__Rodríguez López CM, Ellison A, Moran P, Swain M, Megias M, Hegarty M, Breen J, Wilkinson MJ, Consuegra S__ 
+Can epigenetic regulation of sex-ratios explain natural variation in self-fertilization rates?
+**Plant and Animal Genome** San Diego, USA
+
+`2013`
+__Breen J, Wilkinson MJ, Cooper A__
+Ancient DNA sequencing of late chalcolithic cereal grains from Armenia
+**Wheat Bioinformatics Forum** Adelaide, South Australia
+
+`2011`
+__Breen J, Wicker T, Keller B__
+Integrating genomic resources and sequencing data of wheat chromosome 1AS
+**Plant and Animal Genome** San Diego, USA
+
+`2011`
+__Breen J, Wicker T, Shatalina M, Keller B__
+Update on the physical mapping of hexaploid wheat chromosome 1AS
+**3rd Triticeae Genome Annual Meeting** Prague and Olomouc, Czech Republic
+
+`2010`
+__Breen J, Wicker T, Keller B__ 
+Physical Map assembly of chromosome 1AS
+**2nd Triticeae Genome Annual Meeting** Sabanci University, Istanbul, Turkey
+
+`2010`
+__Wicker T, Middleton C, Breen J__ 
+Whole genome surveys of the wheat A, B and D genome donors, rye and barley provides fundamentals for a robust phylogeny of Triticeae
+**20th International Triticeae Mapping Initiative & 2nd Wheat Genomics in China Workshop** Beijing, China
+
+`2010`
+__Breen J, Wicker T, Kong XY, Zhang J, Ma W, Paux E, Feuillet C, Appels R and Bellgard M__ 
+A highly conserved gene island of three genes on chromosome 3B of hexaploid wheat: Diverse gene function and genomic structure maintained in a tightly linked block
+**2nd International Symposium on "Genomics of Plant Genetic Resources"** Bologna, Italy
+
+`2009`
+__Spielmeyer W, Mago R, Simkova H, Dolezel J, Paux E, Feuillet C, Breen J, Appels R, McIntosh R, Raja K, Wellings C and Lagudah E__
+Molecular Dissection Of Durable Stem Rust Resistance Gene Locus In Wheat
+**Plant and Animal Genome** San Diego, USA
+
+`2009`
+__Spielmeyer W, Mago R, Simkova H, Dolezel J, Krattinger S, Keller B, Paux E, Feuillet C, Breen J, Appels R, McIntosh R, Raja K, Wellings C and Lagudah E__ 
+Durable Rust Resistance In Wheat Is Effective Against Multiple Pathogens
+**Plant and Animal Genome** San Diego, USA
+
+`2008`
+__Breen J__ 
+Development of Annotation pipelines based on discussions held internationally during 2007 and 2008
+**International Wheat Genetics Symposium** Brisbane, Australia
+
+`2008`
+__Breen J, Appels R, Bellgard M__
+Update on chromosome 3B BAC sequencing
+**Molecular Plant Breeding Co-operative Research Centre (MPB-CRC) Annual Research Meeting** Creswick, VIC Australia
+
+`2007`
+__Breen J, Appels R, Bellgard M__
+Wheat Genome Sequence Assembly
+**Molecular Plant Breeding Co- operative Research Centre (MPB-CRC) Annual Research Meeting**  Barossa Valley, SA Australia
+
+`2006`
+__Breen J, Appels R, Bellgard M__
+Wheat BAC sequencing of chromosome 3B
+**Molecular Plant Breeding Co-operative Research Centre (MPB-CRC) Annual Research Meeting** Fremantle, WA Australia
+
 
 ## Non-academic
 
@@ -169,7 +254,7 @@ Completed
 
 ## Awards
 
-
+* Awarded the early career speaker award ($750) for the International Wheat Genome Sequencing Consortium (IWGSC) workshop at the Plant and Animal Genome XIX Conference, San Diego, USA. 
 
 ## Links
 
