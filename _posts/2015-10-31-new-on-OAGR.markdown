@@ -4,7 +4,7 @@ title:  "OAGR update"
 date:   2015-10-31
 ---
 
-<p class="intro"><span class="dropcap">N</span>ew ancient genomes and now available on OAGR</p>
+<p class="intro"><span class="dropcap">N</span>ew ancient genomes are now available on OAGR</p>
 
 After some personal travel commitments and technical issues, I've now been able to update the <a href="https://www.oagr.org.au"> Online Ancient Genome Repository (OAGR)</a> with some new genomes. Over the next few weeks we should be adding a few more, as the ancient DNA community continues to publish some new ancient human and microbiome data. 
 
