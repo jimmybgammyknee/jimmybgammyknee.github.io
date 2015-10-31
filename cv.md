@@ -6,6 +6,7 @@ title: CV
 # Curriculum Vitae
 
 Dr James (Jimmy) Breen
+
 * Bioinformatics & Genomics Researcher
 
 * <a href="mailto:jimmymbreen@gmail.com">Email: jimmymbreen@gmail.com</a>
@@ -18,7 +19,7 @@ Dr James (Jimmy) Breen
 
 ### Current
 
-`2016-`
+`2016-Current`
 __University of Adelaide__ Bioinformatics Leader, Robinson Research Institute (Adelaide, SA Australia)
 
 `2013-16`
