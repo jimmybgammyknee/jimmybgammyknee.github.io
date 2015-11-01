@@ -5,7 +5,7 @@ title: CV
 
 # Curriculum Vitae
 
-Dr James (Jimmy) Breen  
+Dr James (Jimmy) Breen  <br>
 Bioinformatics & Genomics Researcher  
 
 * <a href="mailto:jimmymbreen@gmail.com">Email: jimmymbreen@gmail.com</a>  
@@ -125,13 +125,13 @@ Contribution: Provided hexaploid wheat chromosome 1A physical mapping informatio
 ## Invited Presentations 
 
 `2015`
-Ancient Plants: Adaptation to Climate Change and Domestication, University of Washington, USA (host: Jay Shedure)  
+Ancient Plants: Adaptation to Climate Change and Domestication, University of Washington, USA (host: Jay Shedure)<br>  
 `2014`
-Next-generation sequencing of ancient grains from Armenia, University of Swansea, UK (host: Sonia Consuegra)  
+Next-generation sequencing of ancient grains from Armenia, University of Swansea, UK (host: Sonia Consuegra)<br>
 `2009`
-Sequencing, Assembly and Annotation of large genomic sequences from chromosome 3B, Institut National de la Recherche Agronomique (INRA), Clermont- Ferrand, France (host: Catherine Feuillet)  
+Sequencing, Assembly and Annotation of large genomic sequences from chromosome 3B, Institut National de la Recherche Agronomique (INRA), Clermont- Ferrand, France (host: Catherine Feuillet)<br>
 `2008`
-Wheat Genome Sequence assembly using Transposable Element Annotation, CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)  
+Wheat Genome Sequence assembly using Transposable Element Annotation, CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 
 ## Conference submissions 
 
