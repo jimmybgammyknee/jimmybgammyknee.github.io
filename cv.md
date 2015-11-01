@@ -17,27 +17,37 @@ Bioinformatics & Genomics Researcher
 ## Academic & Professional Positions
 
 ### Current
-
+<!---
 `2016-Current`
 __University of Adelaide__ Bioinformatics Leader, Robinson Research Institute (Adelaide, SA Australia)  
+-->
 
 `2013-16`
-__University of Adelaide__ Senior Research Associate, Australian Centre for Ancient DNA (ACAD) & School of Agriculture, Food and Wine
+__University of Adelaide__ <br>
+Senior Research Associate <br>
+Australian Centre for Ancient DNA (ACAD) & School of Agriculture, Food and Wine
 (Adelaide, SA Australia)  
 
 `2012-13`
-__Australian Genome Research Facility (AGRF)__ Bioinformatics Officer, Brisbane node (Brisbane, QLD Australia)  
+__Australian Genome Research Facility (AGRF)__ <br>
+Bioinformatics Officer <br>
+Brisbane node (Brisbane, QLD Australia)  
 
 `2009-12`
-__University of Zurich__ Postdoctoral Research Associate, Institute of Plant Biology (Zurich, Switzerland)  
+__University of Zurich__ <br>
+Postdoctoral Research Associate <br>
+Institute of Plant Biology (Zurich, Switzerland)  
 
 ## Education
 
 `2006-09`
-__Murdoch University__ Bioinformatics PhD (supervisors: Matthew Bellgard & Rudi Appels)  
+__Murdoch University__ <br>
+PhD Bioinformatics <br>
+Supervisors: Matthew Bellgard & Rudi Appels
 
 `2000-06`
-__Murdoch University__ BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)  
+__Murdoch University__ <br>
+BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)  
 
 
 ## Publications
@@ -119,78 +129,78 @@ Wheat Genome Sequence assembly using Transposable Element Annotation, CSIRO Plan
 ## Conference submissions 
 
 `2015`
-__Breen J, Rabanus-Wallace MT, Pinhasi R, Gasparyan B, Wilkinson MJ, Cooper A__
-Ancient DNA analysis of 5,000 year old wheat and barley seeds from Armenia reveal insights into fungal pathogens and wine-making culture in the late chalcolithic
+__Breen J, Rabanus-Wallace MT, Pinhasi R, Gasparyan B, Wilkinson MJ, Cooper A__<br>
+Ancient DNA analysis of 5,000 year old wheat and barley seeds from Armenia reveal insights into fungal pathogens and wine-making culture in the late chalcolithic<br>
 *Plant and Animal Genome* San Diego, USA  
 
 `2015`
-__Rodriguez Lopez CM, Breen J, De Bei R, Searle I, Collins C__
-We prefer them old: Epigenetic control of wine quality in response to grapevine age
+__Rodriguez Lopez CM, Breen J, De Bei R, Searle I, Collins C__<br>
+We prefer them old: Epigenetic control of wine quality in response to grapevine age<br>
 *Plant and Animal Genome* San Diego, USA  
 
 `2015`
-__Rodríguez López CM, Ellison A, Moran P, Swain M, Megias M, Hegarty M, Breen J, Wilkinson MJ, Consuegra S__ 
-Can epigenetic regulation of sex-ratios explain natural variation in self-fertilization rates?
+__Rodríguez López CM, Ellison A, Moran P, Swain M, Megias M, Hegarty M, Breen J, Wilkinson MJ, Consuegra S__ <br>
+Can epigenetic regulation of sex-ratios explain natural variation in self-fertilization rates?<br>
 *Plant and Animal Genome* San Diego, USA  
 
 `2013`
-__Breen J, Wilkinson MJ, Cooper A__
-Ancient DNA sequencing of late chalcolithic cereal grains from Armenia
+__Breen J, Wilkinson MJ, Cooper A__<br>
+Ancient DNA sequencing of late chalcolithic cereal grains from Armenia<br>
 *Wheat Bioinformatics Forum* Adelaide, South Australia  
 
 `2011`
-__Breen J, Wicker T, Keller B__
-Integrating genomic resources and sequencing data of wheat chromosome 1AS
+__Breen J, Wicker T, Keller B__<br>
+Integrating genomic resources and sequencing data of wheat chromosome 1AS<br>
 *Plant and Animal Genome* San Diego, USA  
 
 `2011`
-__Breen J, Wicker T, Shatalina M, Keller B__
-Update on the physical mapping of hexaploid wheat chromosome 1AS
+__Breen J, Wicker T, Shatalina M, Keller B__<br>
+Update on the physical mapping of hexaploid wheat chromosome 1AS<br>
 *3rd Triticeae Genome Annual Meeting* Prague and Olomouc, Czech Republic  
 
 `2010`
-__Breen J, Wicker T, Keller B__ 
-Physical Map assembly of chromosome 1AS
+__Breen J, Wicker T, Keller B__ <br>
+Physical Map assembly of chromosome 1AS<br>
 *2nd Triticeae Genome Annual Meeting* Sabanci University, Istanbul, Turkey  
 
 `2010`
-__Wicker T, Middleton C, Breen J__ 
-Whole genome surveys of the wheat A, B and D genome donors, rye and barley provides fundamentals for a robust phylogeny of Triticeae
+__Wicker T, Middleton C, Breen J__ <br>
+Whole genome surveys of the wheat A, B and D genome donors, rye and barley provides fundamentals for a robust phylogeny of Triticeae<br>
 *20th International Triticeae Mapping Initiative & 2nd Wheat Genomics in China Workshop* Beijing, China  
 
 `2010`
-__Breen J, Wicker T, Kong XY, Zhang J, Ma W, Paux E, Feuillet C, Appels R and Bellgard M__ 
-A highly conserved gene island of three genes on chromosome 3B of hexaploid wheat: Diverse gene function and genomic structure maintained in a tightly linked block
+__Breen J, Wicker T, Kong XY, Zhang J, Ma W, Paux E, Feuillet C, Appels R and Bellgard M__ <br>
+A highly conserved gene island of three genes on chromosome 3B of hexaploid wheat: Diverse gene function and genomic structure maintained in a tightly linked block<br>
 *2nd International Symposium on "Genomics of Plant Genetic Resources"* Bologna, Italy  
 
 `2009`
-__Spielmeyer W, Mago R, Simkova H, Dolezel J, Paux E, Feuillet C, Breen J, Appels R, McIntosh R, Raja K, Wellings C and Lagudah E__
-Molecular Dissection Of Durable Stem Rust Resistance Gene Locus In Wheat
+__Spielmeyer W, Mago R, Simkova H, Dolezel J, Paux E, Feuillet C, Breen J, Appels R, McIntosh R, Raja K, Wellings C and Lagudah E__<br>
+Molecular Dissection Of Durable Stem Rust Resistance Gene Locus In Wheat<br>
 *Plant and Animal Genome* San Diego, USA  
 
 `2009`
-__Spielmeyer W, Mago R, Simkova H, Dolezel J, Krattinger S, Keller B, Paux E, Feuillet C, Breen J, Appels R, McIntosh R, Raja K, Wellings C and Lagudah E__ 
-Durable Rust Resistance In Wheat Is Effective Against Multiple Pathogens
+__Spielmeyer W, Mago R, Simkova H, Dolezel J, Krattinger S, Keller B, Paux E, Feuillet C, Breen J, Appels R, McIntosh R, Raja K, Wellings C and Lagudah E__ <br>
+Durable Rust Resistance In Wheat Is Effective Against Multiple Pathogens<br>
 *Plant and Animal Genome* San Diego, USA  
 
 `2008`
-__Breen J__ 
-Development of Annotation pipelines based on discussions held internationally during 2007 and 2008
+__Breen J__ <br>
+Development of Annotation pipelines based on discussions held internationally during 2007 and 2008<br>
 *International Wheat Genetics Symposium* Brisbane, Australia  
 
 `2008`
-__Breen J, Appels R, Bellgard M__
-Update on chromosome 3B BAC sequencing
+__Breen J, Appels R, Bellgard M__<br>
+Update on chromosome 3B BAC sequencing<br>
 *Molecular Plant Breeding Co-operative Research Centre (MPB-CRC) Annual Research Meeting* Creswick, VIC Australia  
 
 `2007`
-__Breen J, Appels R, Bellgard M__
-Wheat Genome Sequence Assembly
+__Breen J, Appels R, Bellgard M__ <br>
+Wheat Genome Sequence Assembly <br>
 *Molecular Plant Breeding Co- operative Research Centre (MPB-CRC) Annual Research Meeting*  Barossa Valley, SA Australia  
 
 `2006`
-__Breen J, Appels R, Bellgard M__
-Wheat BAC sequencing of chromosome 3B
+__Breen J, Appels R, Bellgard M__ <br>
+Wheat BAC sequencing of chromosome 3B <br>
 *Molecular Plant Breeding Co-operative Research Centre (MPB-CRC) Annual Research Meeting* Fremantle, WA Australia  
 
 
@@ -215,12 +225,14 @@ Wheat BAC sequencing of chromosome 3B
 
 ## Supervision
 
-Current
+Current <br>
+
 * Tim Rabanus-Wallace (PhD Australian Centre for Ancient DNA, University of Adelaide)
 * Oscar Santamaria (PhD Australian Centre for Ancient DNA, University of Adelaide)
 * Ben Mayne (PhD School of Medicine, University of Adelaide)
 
-Completed
+Completed <br>
+
 * Alexandra Halliday, Tayla Page, Katherine Brown and Bridget Lindsay (Honours, Faculty of Engineering, University of Adelaide)  
 
 ## Projects
