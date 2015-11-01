@@ -8,10 +8,10 @@ title: CV
 Dr James (Jimmy) Breen  <br>
 Bioinformatics & Genomics Researcher  
 
-* <a href="mailto:jimmymbreen@gmail.com">Email: jimmymbreen@gmail.com</a>  
-* <a href="http://github.com/jimmybgammyknee">github: jimmybgammyknee</a>  
-* <a href="http://twitter.com/wessidepraxis">Twitter: wessidepraxis</a>  
-* <a href="https://bitbucket.org/gammyknee">Bitbucket: https://bitbucket.org/gammyknee</a>  
+<a href="mailto:jimmymbreen@gmail.com">Email: jimmymbreen@gmail.com</a>  
+<a href="http://github.com/jimmybgammyknee">github: jimmybgammyknee</a>  
+<a href="http://twitter.com/wessidepraxis">Twitter: wessidepraxis</a>  
+<a href="https://bitbucket.org/gammyknee">Bitbucket: https://bitbucket.org/gammyknee</a>  
 
 
 ## Academic & Professional Positions
@@ -244,10 +244,11 @@ Completed <br>
 
 ## Projects
 
-### OAGR
+...more to come...
 
-### Personal Blog
+* OAGR
 
+* Personal Blog
 
 ## Awards
 
