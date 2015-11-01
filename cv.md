@@ -118,11 +118,14 @@ Wheat genome structure and function: genome sequence data and the International 
 ## Invited Presentations 
 
 `2015`
-Ancient Plants: Adaptation to Climate Change and Domestication, University of Washington, USA (host: Jay Shedure)<br>  
+Ancient Plants: Adaptation to Climate Change and Domestication, University of Washington, USA (host: Jay Shedure)<br> 
+ 
 `2014`
 Next-generation sequencing of ancient grains from Armenia, University of Swansea, UK (host: Sonia Consuegra)<br>
+
 `2009`
 Sequencing, Assembly and Annotation of large genomic sequences from chromosome 3B, Institut National de la Recherche Agronomique (INRA), Clermont- Ferrand, France (host: Catherine Feuillet)<br>
+
 `2008`
 Wheat Genome Sequence assembly using Transposable Element Annotation, CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 
