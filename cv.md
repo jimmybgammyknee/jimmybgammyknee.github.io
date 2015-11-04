@@ -8,11 +8,11 @@ title: CV
 Dr James (Jimmy) Breen  <br>
 Bioinformatics & Genomics Researcher  
 
-<a href="mailto:jimmymbreen@gmail.com">Email: jimmymbreen@gmail.com</a>  
-<a href="http://github.com/jimmybgammyknee">github: jimmybgammyknee</a>  
-<a href="http://twitter.com/wessidepraxis">Twitter: wessidepraxis</a>  
-<a href="https://bitbucket.org/gammyknee">Bitbucket: https://bitbucket.org/gammyknee</a>  
-
+<a href="mailto:jimmymbreen@gmail.com">Email</a>  
+<a href="http://github.com/jimmybgammyknee">Github</a>  
+<a href="http://twitter.com/wessidepraxis">Twitter</a>  
+<a href="https://bitbucket.org/gammyknee">Bitbucket</a>  
+<a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en">Google Scholar</a>
 
 ## Academic & Professional Positions
 
@@ -255,17 +255,6 @@ Completed <br>
 * Inaugural committee member and communications officer of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a> 
 
 * Awarded the early career speaker award ($750) for the International Wheat Genome Sequencing Consortium (IWGSC) workshop at the Plant and Animal Genome XIX Conference, San Diego, USA  
-
-## Links
-
-* <i class="fa fa-envelope"></i> <a href="mailto:jimmymbreen@gmail.com">jimmymbreen@gmail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/jimmybgammyknee">jimmybgammyknee</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/wessidepraxis">wessidepraxis</a><br />
-* <i class="fa fa-google"></i> <a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en">scholar</a>
-
-## References
-
-Available on request.
 
 <!-- ### Footer
 
