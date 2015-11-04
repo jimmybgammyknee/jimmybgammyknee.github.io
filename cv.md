@@ -250,7 +250,9 @@ Completed <br>
 
 * Personal Blog
 
-## Awards
+## Awards & Associations
+
+* Inaugural committee member and communications officer of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a> 
 
 * Awarded the early career speaker award ($750) for the International Wheat Genome Sequencing Consortium (IWGSC) workshop at the Plant and Animal Genome XIX Conference, San Diego, USA  
 
