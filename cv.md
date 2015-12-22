@@ -54,6 +54,10 @@ BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)
 
 <!-- ### Journals -->
 
+`2016`
+__Czechowski PClarke LJ, Breen J, Cooper A, Stevens MI__
+Antarctic eukaryotic soil diversity of the Prince Charles Mountains revealed by high-throughput sequencing *Soil Biology and Biochemistry* Accepted 18/12/2015
+
 `2015`
 __Ellison A, Rodríguez López CM, Moran P, Breen J, Swain M, Megias M, Hegarty M, Wilkinson M, Pawluk R and Consuegra S__
 Epigenetic regulation of sex-ratios may explain natural variation in self-fertilisation rates. *Proceedings of the Royal Society B* Accepted 09/10/2015  
