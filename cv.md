@@ -55,7 +55,11 @@ BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)
 <!-- ### Journals -->
 
 `2016`
-__Czechowski PClarke LJ, Breen J, Cooper A, Stevens MI__
+__Bianco-Miotto T, Mayne BT, Buckberry S, Breen J, Rodriguez Lopez CM, Roberts CT__
+Recent progress towards understanding the role of DNA methylation in human placental development *Reproduction* *IN REVIEW*
+
+`2016`
+__Czechowski P, Clarke LJ, Breen J, Cooper A, Stevens MI__
 Antarctic eukaryotic soil diversity of the Prince Charles Mountains revealed by high-throughput sequencing *Soil Biology and Biochemistry* Accepted 18/12/2015
 
 `2015`
@@ -244,7 +248,7 @@ Current <br>
 
 Completed <br>
 
-* Alexandra Halliday, Tayla Page, Katherine Brown and Bridget Lindsay (Honours, Faculty of Engineering, University of Adelaide)  
+* 4 Honours students in 2014 in the Faculty of Engineering, University of Adelaide for a group project on Microbial buildup in fire-water pipe systems 
 
 ## Projects
 
