@@ -6,7 +6,6 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: redcarpet
 highlighter: rouge
 paginate: 5
 
