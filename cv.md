@@ -55,16 +55,24 @@ BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)
 <!-- ### Journals -->
 
 `2016`
+__Breen J, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ, Rodriguez Lopez CM__
+*Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation *bioRxiv (preprint)* (http://biorxiv.org/content/early/2016/08/26/059477) *IN REVIEW*
+
+`2016`
+__Mayne BT, Bianco-Miotto T, Buckberry S, Breen J, Clifton V, Shoubridge C, Roberts CT__
+Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans *Frontiers in Genetics* *ACCEPTED*
+
+`2016`
 __Bianco-Miotto T, Mayne BT, Buckberry S, Breen J, Rodriguez Lopez CM, Roberts CT__
-Recent progress towards understanding the role of DNA methylation in human placental development *Reproduction* *IN REVIEW*
+Recent progress towards understanding the role of DNA methylation in human placental development *Reproduction* 152(1): R23-30
 
 `2016`
 __Czechowski P, Clarke LJ, Breen J, Cooper A, Stevens MI__
-Antarctic eukaryotic soil diversity of the Prince Charles Mountains revealed by high-throughput sequencing *Soil Biology and Biochemistry* Accepted 18/12/2015
+Antarctic eukaryotic soil diversity of the Prince Charles Mountains revealed by high-throughput sequencing *Soil Biology and Biochemistry* 95: 112-121
 
 `2015`
 __Ellison A, Rodríguez López CM, Moran P, Breen J, Swain M, Megias M, Hegarty M, Wilkinson M, Pawluk R and Consuegra S__
-Epigenetic regulation of sex-ratios may explain natural variation in self-fertilisation rates. *Proceedings of the Royal Society B* Accepted 09/10/2015  
+Epigenetic regulation of sex-ratios may explain natural variation in self-fertilisation rates. *Proceedings of the Royal Society B* 282(1819)
 
 `2015`
 __Hurni S, Scheuermann D, Krattinger SG, Kessel B, Wicker T, Herren G, Fitze MN, Breen J, Presterl T, Ouzunova M, Keller, B__
@@ -76,7 +84,7 @@ Predicting the origin of soil evidence: high throughput eukaryote sequencing and
 
 `2015`
 __Mago R, Tabe L, Vautrin S, Simková H, Kubaláková M, Upadhyaya N, Berges H, Kong XY, Breen J, Dolezel J, Appels R, Ellis J, Spielmeyer
-W__ 
+W__
 Major haplotype divergence including multiple germin-like protein genes, at the wheat Sr2 adult plant stem rust resistance locus. *BMC Plant Biology* 14:379      
 
 `2013`
@@ -93,7 +101,7 @@ __Zhang J, Jia J, Breen J, Kong X__
 Recent insertion of a 52-kb mitochondrial DNA segment in the wheat lineage. *Functional & Integrative Genomics* 11 (4), 599-609  
 
 `2011`
-__Parlange F, Oberhaensli F, Breen J, Platzer M, Taudien S, Simkova H, Wicker T, Dolezel J and Keller B__ 
+__Parlange F, Oberhaensli F, Breen J, Platzer M, Taudien S, Simkova H, Wicker T, Dolezel J and Keller B__
 Physical mapping and BAC-end sequencing reveal the organization and composition of the Blumeria graminis f.sp. tritici genome. *Functional and Integrative Genomics* 11(4): 671-677  
 
 `2011`
@@ -111,9 +119,9 @@ Breen J, Pumphrey M, Liu S, Kong X, Jia J, Gut M, Brunel D, Anderson JA, Gill BS
 Megabase level sequencing reveals contrasted organization and evolution patterns of the wheat gene and transposable element spaces. *Plant Cell* 22(6): 1686-701  
 
 `2010`
-__Breen J, Li D, Dunn DS, Bekes F, Kong X, Zhang J, Jia J, Wicker T, Mago R, Ma W, Bellgard M and Appels R__ 
+__Breen J, Li D, Dunn DS, Bekes F, Kong X, Zhang J, Jia J, Wicker T, Mago R, Ma W, Bellgard M and Appels R__
 Wheat beta-expansin (EXPB11) genes: Identification of the expressed gene on chromosome 3BS carrying a pollen allergen domain. *BMC Plant Biology* 10: 99  
- 
+
 `2010`
 __Breen J, Wicker T, Kong X, Zhang J, Ma W, Paux E, Feuillet C, Appels R and Bellgard M__
 A highly conserved gene island of three genes on chromosome 3B of hexaploid wheat: diverse gene function and genomic structure maintained in a tightly linked block. *BMC Plant Biology* 10: 98  
@@ -123,12 +131,12 @@ __Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuille
 Wheat genome structure and function: genome sequence data and the International Wheat Genome Sequencing Consortium. *Crop & Pasture Science* 58: 470-75  
 
 
-## Invited Presentations 
+## Invited Presentations
 
 `2015`
 Ancient Plants: Adaptation to Climate Change and Domestication<br>
-University of Washington, USA (host: Jay Shedure)<br> 
- 
+University of Washington, USA (host: Jay Shedure)<br>
+
 `2014`
 Next-generation sequencing of ancient grains from Armenia<br>
 University of Swansea, UK (host: Sonia Consuegra)<br>
@@ -141,7 +149,7 @@ Clermont- Ferrand, France (host: Catherine Feuillet)<br>
 Wheat Genome Sequence assembly using Transposable Element Annotation<br>
 CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 
-## Conference submissions 
+## Conference submissions
 
 `2015`
 __Breen J, Rabanus-Wallace MT, Pinhasi R, Gasparyan B, Wilkinson MJ, Cooper A__<br>
@@ -248,7 +256,7 @@ Current <br>
 
 Completed <br>
 
-* 4 Honours students in 2014 in the Faculty of Engineering, University of Adelaide for a group project on Microbial buildup in fire-water pipe systems 
+* 4 Honours students in 2014 in the Faculty of Engineering, University of Adelaide for a group project on Microbial buildup in fire-water pipe systems
 
 ## Projects
 
@@ -260,7 +268,7 @@ Completed <br>
 
 ## Awards & Associations
 
-* Inaugural committee member and communications officer of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a> 
+* Inaugural committee member and communications officer of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
 
 * Awarded the early career speaker award ($750) for the International Wheat Genome Sequencing Consortium (IWGSC) workshop at the Plant and Animal Genome XIX Conference, San Diego, USA  
 
