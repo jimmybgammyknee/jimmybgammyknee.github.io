@@ -17,10 +17,9 @@ Bioinformatics & Genomics Researcher
 ## Academic & Professional Positions
 
 ### Current
-<!---
+
 `2016-Current`
 __University of Adelaide__ Bioinformatics Leader, Robinson Research Institute (Adelaide, SA Australia)  
--->
 
 `2013-16`
 __University of Adelaide__ <br>
