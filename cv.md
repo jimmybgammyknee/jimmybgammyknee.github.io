@@ -19,12 +19,16 @@ Bioinformatics & Genomics Researcher
 ### Current
 
 `2016-Current`
-__University of Adelaide__ Bioinformatics Leader, Robinson Research Institute (Adelaide, SA Australia)  
+__University of Adelaide__ <br>
+Bioinformatics Leader, Robinson Research Institute & <br>
+University of Adelaide Bioinformatics Hub <br>
+(Adelaide, SA Australia)  
 
 `2013-16`
 __University of Adelaide__ <br>
 Senior Research Associate <br>
-Australian Centre for Ancient DNA (ACAD) & School of Agriculture, Food and Wine
+Australian Centre for Ancient DNA (ACAD) & <br>
+School of Agriculture, Food and Wine <br>
 (Adelaide, SA Australia)  
 
 `2012-13`
