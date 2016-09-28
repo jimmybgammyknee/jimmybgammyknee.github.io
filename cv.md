@@ -19,9 +19,9 @@ Bioinformatics & Genomics Researcher
 ### Current
 
 `2016-Current`
-__University of Adelaide__ <br>
-Bioinformatics Leader, Robinson Research Institute & <br>
-University of Adelaide Bioinformatics Hub <br>
+__University of Adelaide__  
+Bioinformatics Leader, Robinson Research Institute &  
+University of Adelaide Bioinformatics Hub  
 (Adelaide, SA Australia)  
 
 `2013-16`
@@ -56,6 +56,10 @@ BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)
 ## Publications
 
 <!-- ### Journals -->
+
+`2016`
+__Mayne BT, Leemaqz SY, Smith AK, Breen J, Roberts CT, Bianco-Miotto T__
+Accelerated placental aging in early onset preeclampsia pregnancies identified by DNA methylation *Epigenomics* *IN REVIEW*
 
 `2016`
 __Breen J, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ, Rodriguez Lopez CM__
