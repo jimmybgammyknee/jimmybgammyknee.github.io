@@ -51,6 +51,7 @@ Supervisors: Matthew Bellgard & Rudi Appels
 `2000-06`
 __Murdoch University__ <br>
 BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)  
+Supervisors: Matthew Bellgard & Rudi Appels
 
 
 ## Publications
@@ -236,10 +237,13 @@ Wheat BAC sequencing of chromosome 3B <br>
 
 ## Non-academic
 
-`2015` The Sounds of Science: Open Access to Ancient DNA: _Radio Adelaide_
+`2015` DNA Database _Scope (Channel 10 Children's Science Show)_
+([Scope Season 3 Episode 073 PAST PRESENT AND FUTURE](http://tenplay.com.au/channel-eleven/scope/episode-details/past-present-and-future?_from=searchresult))
+
+`2015` The Sounds of Science: Open Access to Ancient DNA _Radio Adelaide_
 ([radio.adelaide.edu.au/open-access-to-ancient-human-dna](https://radio.adelaide.edu.au/open-access-to-ancient-human-dna))  
 
-`2015` Data bank launched for global access to ancient DNA: _University of Adelaide Media Release_
+`2015` Data bank launched for global access to ancient DNA _University of Adelaide Media Release_
 ([blogs.adelaide.edu.au/environment/2015/06/18/media-release-data-bank-launched-for-global-access-to-ancient-dna-2](https://blogs.adelaide.edu.au/environment/2015/06/18/media-release-data-bank-launched-for-global-access-to-ancient-dna-2))  
 
 `2013` Talking Research: Dr. James Breen. _Harvest: Radio Adelaide_
@@ -249,17 +253,22 @@ Wheat BAC sequencing of chromosome 3B <br>
 
 * UNIX
 * Bash
-* LaTeX
-* Git
+* LaTeX/Markdown
 * R/Python (basic)  
 
 ## Supervision
 
 Current <br>
 
-* Tim Rabanus-Wallace (PhD Australian Centre for Ancient DNA, University of Adelaide)
-* Oscar Santamaria (PhD Australian Centre for Ancient DNA, University of Adelaide)
-* Ben Mayne (PhD School of Medicine, University of Adelaide)
+* Tim Rabanus-Wallace (PhD, Australian Centre for Ancient DNA, University of Adelaide)
+* Oscar Santamaria (PhD, Australian Centre for Ancient DNA, University of Adelaide)
+* Ben Mayne (PhD, Robinson Research Institute, University of Adelaide)
+
+* Alastair Lundington (BSc hons, Robinson Research Institute, University of Adelaide)
+
+* Lakshmi Chandrapaty (MSc Biotech, Robinson Research Institute, University of Adelaide)
+* Ning Liu (MSc Biotech, Robinson Research Institute, University of Adelaide)
+* Charlotte Sai (MSc Plant Biotech, School of Agriculture, Food and Wine, University of Adelaide)
 
 Completed <br>
 
