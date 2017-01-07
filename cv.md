@@ -61,10 +61,10 @@ Supervisors: Matthew Bellgard & Rudi Appels
 Rabanus-Wallace MT, Wooller MJ, Zazula G, Shute E, Jahren H, **Breen J**, Llamas B & Cooper A. (2017). Megafaunal nitrogen isotopes reveal role of global moisture-driven decline of rangelands in Late Pleistocene extinctions. *Nature Ecology & Evolution* **In Press**  
 
 Weyrich LS, Duchene S, Soubrier J, Arriola L, Llamas B, **Breen J**, Morris AG, Alt KW, Caramelli D, Dresely V, Farrell M, Farrer AG, Francken M, Gully N,  Haak W, Hardy K, Harvati K, Held P, Holmes EC, Kaidonis J, Lalueza-Fox C, de la Rasilla M, Rosas A, Semal P, Soltysiak A, Townsend G, Usai D, Wahl J, Huson DH, Dobney K & Cooper A. (2017). Reconstructing Neandertal behavior, diet, and disease using ancient DNA from dental calculus *Nature* **In Press**  
-<ins> Data </ins>: [doi:10.4225/55/584775546a409](http://dx.doi.org/10.4225/55/584775546a409)  
+<ins> Data</ins>: [doi:10.4225/55/584775546a409](http://dx.doi.org/10.4225/55/584775546a409)  
 
 **Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2016). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. **In Review**   
-<ins> Preprint </ins>: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477)  
+<ins> Preprint</ins>: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477)  
 
 Mayne BT, Leemaqz SY, Smith AK, **Breen J**, Roberts CT & Bianco-Miotto T. (2016). Accelerated placental aging in early onset preeclampsia pregnancies identified by DNA methylation *Epigenomics*.  [doi:10.2217/epi-2016-0103](http://dx.doi.org/10.2217/epi-2016-0103)   
 
