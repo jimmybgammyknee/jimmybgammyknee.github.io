@@ -58,6 +58,8 @@ Supervisors: Matthew Bellgard & Rudi Appels
 
 <!-- ### Journals -->
 
+Hyles J, Vautrin S, Pettolino F, Macmillan C, Stachurski Z, **Breen J**, Berges H, Wicker T & Spielmeyer W. (2017). Repeat length variation in a wheat cellulose synthase-like gene is associated with altered tiller number and stem composition. *Journal of Experimental Botany* **In Review** 
+
 Rabanus-Wallace MT, Wooller MJ, Zazula G, Shute E, Jahren H, **Breen J**, Llamas B & Cooper A. (2017). Megafaunal nitrogen isotopes reveal role of global moisture-driven decline of rangelands in Late Pleistocene extinctions. *Nature Ecology & Evolution* **In Press**  
 
 Weyrich LS, Duchene S, Soubrier J, Arriola L, Llamas B, **Breen J**, Morris AG, Alt KW, Caramelli D, Dresely V, Farrell M, Farrer AG, Francken M, Gully N,  Haak W, Hardy K, Harvati K, Held P, Holmes EC, Kaidonis J, Lalueza-Fox C, de la Rasilla M, Rosas A, Semal P, Soltysiak A, Townsend G, Usai D, Wahl J, Huson DH, Dobney K & Cooper A. (2017). Reconstructing Neandertal behavior, diet, and disease using ancient DNA from dental calculus *Nature* **In Press**  
