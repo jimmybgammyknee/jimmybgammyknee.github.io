@@ -53,10 +53,30 @@ __Murdoch University__ <br>
 BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)  
 Supervisors: Matthew Bellgard & Rudi Appels
 
+## Competitive Grants & External Research Funding
+
+### Current
+
+- Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen (CIF)**. 2017 NHRMC Project Grant (APP1120543) **Cat. 1 Funding**. "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
+
+- Claire Roberts, Tina Bianco-Miotto, Gus Dekker & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy **Cat. 1 Funding**. "Maternal molecular profiles reflect placental function and development across gestation"
+
+### Completed
+
+- Cassandra Collins, Carlos Rodriguez Lopez, Roberta De Bei, **James Breen (PI)**, Timothy Cavagnaro, Matthew Gilliham & Andrew Metcalfe. 2015 AGRF Pilot program in Genomics for Agriculture and Environmental Sectors **Cat 2 Funding**. "The eco-genomics of wine terroir"
+
+- Michael J Wilkinson, **James Breen (CI)**, Thomas F Higham & Ron Pinhasi. 2013-2015 ARC Discovery Grant (DP130104227) **Cat. 1 Funding**. "Reconstructing wheat evolution using ancient DNA"
+
+- Cassandra Collins, Roberta De Bei, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 Waite Research Institute Platform Technologies. "We prefer them old: Epigenetic control of wine quality in response to grapevine age"
+
+- Iain Searle, Cassandra Collins, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 University of Adelaide Interdisciplinary Research Funding (IRF). "RNA directed epigenetics in grapevines- a paradigm sh¡ft for plant and animal breeding"
+
 
 ## Publications
 
 <!-- ### Journals -->
+
+Tikhomirova A, Standish AJ, Zhou Y, **Breen J**, Pederson S, Zilm PS & Kidd SP. (2017). Specific growth conditions induce a *Streptococcus pneumoniae* non-mucoidal, Small Colony Variant and determine the outcome of its interactions in co-culture with Haemophilus influenzae. *Frontiers in Cellular and Infection Microbiology* **In Review**
 
 Hyles J, Vautrin S, Pettolino F, Macmillan C, Stachurski Z, **Breen J**, Berges H, Wicker T & Spielmeyer W. (2017). Repeat length variation in a wheat cellulose synthase-like gene is associated with altered tiller number and stem composition. *Journal of Experimental Botany* **Accepted**
 
@@ -174,6 +194,7 @@ Spielmeyer W, Mago R, Simkova H, Dolezel J, Krattinger S, Keller B, Paux E, Feui
 `2013` Talking Research: Dr. James Breen. _Harvest: Radio Adelaide_
 ([radio.adelaide.edu.au/talking-research-dr-james-breen](https://radio.adelaide.edu.au/talking-research-dr-james-breen/))   
 
+
 ## Technical skills
 
 * UNIX/Bash
@@ -188,7 +209,8 @@ Current <br>
 * Oscar Santamaria (PhD, Australian Centre for Ancient DNA, University of Adelaide)
 * Ben Mayne (PhD, Robinson Research Institute, University of Adelaide)
 * Ning Liu (MSc Biotech, Robinson Research Institute, University of Adelaide)
-
+* Melanie Smith (BSc hons, Robinson Research Institute, University of Adelaide)
+* Awais Choudhry (BSc hons, Robinson Research Institute, University of Adelaide)
 
 Completed <br>
 
