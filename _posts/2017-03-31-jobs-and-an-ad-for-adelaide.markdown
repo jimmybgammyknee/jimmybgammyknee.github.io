@@ -34,9 +34,9 @@ If you want to stay long-term and invest in the property market, then you're goi
 
 ### **2: Live and don't commute a mile**
 
-While at some point a local will explained to you that SA is the only Australian state not established by convicts, one thing is for certain is that the city is nicely positioned between the sea (or what locals call "the bay") and the Adelaide Hills. You can live on the beach and be in the middle of the city in 20mins. You can live in the middle of the hills with your vineyard, olive grove or sheep, and still be a half an hour to the middle of the city!
+While at some point a local will explained to you that SA is the only Australian state not established by convicts, one thing is for certain is that the city is nicely positioned between the sea (or what locals call "the bay") and the Adelaide Hills. You can live on the beach and be in the middle of the city in 20mins. You can live in the middle of the hills with your vineyard, olive grove or sheep, and still be a half an hour to the middle of the city! The roads are based on a grid pattern so its easy to work your way around the city.
 
-Plus, the airport is part of the city which means it doesn't take you long to pick up family and friends! The roads are based on a grid pattern so its easy to work your way around the city
+Plus, the airport is part of the city which means it doesn't take you long to pick up family and friends! 
 
 ![](https://media.giphy.com/media/3o8doUgvKWu2JP0hvG/giphy.gif)
 
