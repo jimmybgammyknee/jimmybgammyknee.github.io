@@ -85,8 +85,6 @@ Ok so it's not like there aren't any restrictions, but if you want to drink at a
 
 ### **9: When Adelaide parties, they part hard!**
 
-![Party Hard!](http://img.youtube.com/vi/WccfbPQNMbg/0.jpg)](https://www.youtube.com/watch?v=WccfbPQNMbg "Andrew W.K. - Party Hard")
-
 Come on, [we're the FREAKING FESTIVAL STATE!](http://southaustralia.com/things-to-do/whats-on/festivals-and-celebrations). And in this case, there _is_ emphasis on the freaking...
 
 The Adelaide Fringe Festival is the largest in the Southern Hemisphere, and 2nd largest in the world after Edinburgh. Starting in mid-Feb it lasts for a month and has a massive array of acts and events. For me, the highlight is certainly the excess of carnival foods that are available at the Garden (aka the Garden of Unearthly Delights in the city's eastern parkland), Gluttony (at the end of Rundle Street) and the Royal Crochet Club (now on the banks of the Torrens, out the front of Adelaide Oval).
