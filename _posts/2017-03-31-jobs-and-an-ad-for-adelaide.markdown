@@ -15,7 +15,7 @@ Additionally, I have some really cool Bioinformatics/Reproductive Biology PhD pr
 
 ---
 
-Now as I semi-professional Western Australian you might say that I would be the worst person to promote South Australia. However, I've lived in 3 Australian cities (Brisbane, Perth and Adelaide) and one international city (Zurich, Switzerland), so I know a thing or two about urban centres. And ever since coming across from Brisbane in 2013, I am continually surprised at the quality of life here in South Australia. When friends and family come to stay, they always have a great time and can't wait to come back!
+Now as a semi-professional Western Australian you might say that I would be the worst person to promote South Australia. However, I've lived in 3 Australian cities (Brisbane, Perth and Adelaide) and one international city (Zurich, Switzerland), so I know a thing or two about urban centres. And ever since coming across from Brisbane in 2013, I am continually surprised at the quality of life here in South Australia. When friends and family come to stay, they always have a great time and can't wait to come back!
 
 So in this post I'm going to do my best to promote the great state of South Australia using the tried and tested BuzzFeed method of top 10 list and GIFs.
 
@@ -83,7 +83,7 @@ Ok so it's not like there aren't any restrictions, but if you want to drink at a
 
 ![](https://media.giphy.com/media/PwsproqCG02zu/giphy.gif)
 
-### **9: When Adelaide parties, they part hard!**
+### **9: When Adelaide parties, they pary hard!**
 
 Come on, [we're the FREAKING FESTIVAL STATE!](http://southaustralia.com/things-to-do/whats-on/festivals-and-celebrations). And in this case, there _is_ emphasis on the freaking...
 
