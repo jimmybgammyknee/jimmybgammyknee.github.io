@@ -21,73 +21,75 @@ So in this post I'm going to do my best to promote the great state of South Aust
 
 ## Top 9 reasons why you move to Adelaide for Bioinformatics
 
-### Number 1: You can afford to rent/buy real estate
+<br><br>
 
-If you read any Australian-based news website, you would know a few things. Firstly, when it rains in Sydney, we should all hear about it and, secondly the Sydney and Melbourne rental prices are out of control. Renters in Sydney are on average [spending nearly 38% of their monthly wage on rent!](http://thenewdaily.com.au/money/property/2016/02/17/rental-affordability/). This compares to 25-28% in Adelaide!
+### **1: You can afford to rent/buy real estate**
 
-![Whaaaaaaaaat?](https://media.giphy.com/media/1060QCIa82ApgY/giphy.gif)
+If you read any Australian-based news website, you would know a few things. Firstly, when it rains in Sydney we all need to hear about it, and second, rental prices in the major cities are out of control. Renters in Sydney are on average [spending nearly 38% of their monthly wage on rent!](http://thenewdaily.com.au/money/property/2016/02/17/rental-affordability/). This compares to 25-28% in Adelaide!
 
-If you want to stay long-term and invest in the property market, then you're going to get WAY more bang for your buck. The median house price for a 2 bedroom unit in the CBD is $420,000. Thats the CBD people! Equivalent in [Sydney and Melbourne is $1,190,000 and $525,000](https://www.realestate.com.au/neighbourhoods/). We own a place about 5 mins drive south of the city block and it takes me about 30mins to walk right to the middle of the city!
+![Whaaaaaaaaat?](https://media.giphy.com/media/5TC1o3oRE68Mg/giphy.gif)
 
-### Number 2: Live and don't commute a mile
+If you want to stay long-term and invest in the property market, then you're going to get WAY more bang for your buck. The median price for a 2 bedroom unit in the CBD is $420,000. Thats in the CBD people! Equivalent in [Sydney and Melbourne is $1,190,000 and $525,000](https://www.realestate.com.au/neighbourhoods/). We own a place about 5 mins drive south of the city block and it takes me about 30mins to walk right to the middle of the city!
 
-While most South Australians have at some point explained to me that they were the only colony to not be founded by convicts, one thing is for certain is that the city is nicely positioned between the sea (or what locals call "the bay") and the Adelaide Hills. You can live on the beach and be in the middle of the city in 20mins. You can live in the middle of the hills with your vineyard, olive grove or sheep, and still be a half an hour to the middle of the city!
+### **2: Live and don't commute a mile**
 
-Plus, the airport is part of the city which means it doesn't take you long to pick up family and friends!
+While at some point a local will explained to you that SA is the only Australian state not established by convicts, one thing is for certain is that the city is nicely positioned between the sea (or what locals call "the bay") and the Adelaide Hills. You can live on the beach and be in the middle of the city in 20mins. You can live in the middle of the hills with your vineyard, olive grove or sheep, and still be a half an hour to the middle of the city!
+
+Plus, the airport is part of the city which means it doesn't take you long to pick up family and friends! The roads are based on a grid pattern so its easy to work your way around the city
 
 ![](https://media.giphy.com/media/3o8doUgvKWu2JP0hvG/giphy.gif)
 
-### Number 3: It's got top-notch facilities
+### **3: It's got top-notch facilities**
 
-Ok I've convinced you, its cheap to live, but what about the work? You can't compete with the big boys on the Eastern Seaboard right?
-
-Well maybe not, but Adelaide is quietly investing in some state-of-the-art medical research facilities to go along with the already significant research institutes in wine and plant sciences. The [South Australian Medical Research Institute (SAHMRI)](https://www.sahmri.org) is located on the western end of North Terrace and has some fantastic facilities, as well as housing two EMBL Bioinformatics team leaders [A/Professor David Lynn](http://www.emblaustralia.org/about/our-people/david-lynn) and [A/Professor Ville-Petteri Mäkinen](http://www.emblaustralia.org/about/our-people/ville-petteri-makinen). The University of Adelaide has just opened the brand-new [Adelaide Health and Medical Sciences building](https://www.adelaide.edu.au/west-end/) and the University of South Australia's new [Health Innovation Building](http://www.unisa.edu.au/campus-facilities/maps-tours/health-innovation-building/) is close to finishing (and directly next door!). And of course, the new Royal Adelaide Hospital is due to open any day now!
+But what about the work? Adelaide is quietly investing in some state-of-the-art medical research facilities to go along with the already significant research institutes in wine and plant sciences. The [South Australian Medical Research Institute (SAHMRI)](https://www.sahmri.org) is located on the western end of North Terrace and has some fantastic facilities, as well as housing two EMBL Bioinformatics team leaders [A/Professor David Lynn](http://www.emblaustralia.org/about/our-people/david-lynn) and [A/Professor Ville-Petteri Mäkinen](http://www.emblaustralia.org/about/our-people/ville-petteri-makinen). The University of Adelaide has just opened the brand-new [Adelaide Health and Medical Sciences building](https://www.adelaide.edu.au/west-end/) and the University of South Australia's new [Health Innovation Building](http://www.unisa.edu.au/campus-facilities/maps-tours/health-innovation-building/) is close to finishing (and directly next door!). And of course, the new Royal Adelaide Hospital is due to open any day now!
 
 Additionally, Flinders University has the [Flinders Medical Centre](http://www.flinders.sa.gov.au) just south of the city and the University of Adelaide has the Waite research campus at the base of the hills that hosts a world-renowned plant and agricultural research program (including the [Australian Wine Research Institute](https://www.awri.com.au)).
 
 ![Science!](https://media.giphy.com/media/XkEPTETxyZDiM/giphy.gif)
 
-### Number 4: It's a beautiful place to live
+### **4: It's a beautiful place to live**
 
 The city block is surrounded by parks that are exactly [one cannon shot in length](https://en.wikipedia.org/wiki/Adelaide_Park_Lands) and these house public facilities such as [Adelaide Oval](http://www.adelaideoval.com.au) and the [Adelaide Zoo (who have the only Pandas in Australia by the way!!)](https://www.adelaidezoo.com.au). Down by the sea, there are beautiful, clean beaches, and an hour's drive from some top surfing spots!
 
 ![City Block](http://www.theplan.net.au/wp-content/uploads/2011/04/Adelaide-aerial.jpg)
 
-If you like to explore outside the city, we have Kangaroo Island, the Coorong and the Muarry Riverlands, the Limestone Coast, the Flinders Ranges, and of course the Eyre and York Peninsulas!
+If you like to explore outside the city there's Kangaroo Island, the Coorong and the Muarry Riverlands, the Limestone Coast, the Flinders Ranges, and of course the Eyre and York Peninsulas!
 
-And the climate? Adelaide is the driest capital city in Australia, and is known for its dry and clear summers, and cool winters. Bar a few storms early in the summer this year, the weather has magnificent.
+And the climate? Adelaide is the driest capital city in Australia, and is known for its dry and clear summers, and cool winters. Bar a few storms early in the summer this year, the weather has magnificent and NOT AT ALL HUMID.
 
-### Number 5: Cafe/Restaurant culture. It's chocka's
+![](https://media.giphy.com/media/bbwJaAzogpjfq/giphy.gif)
 
-What gets a Bioinformatician going more than a strong coffee? Sorry Melbourne, Adelaide is the [king of cafe culture](http://www.news.com.au/national/south-australia/international-coffee-day-statistics-show-adelaide-is-the-coffee-capital/news-story/badfb4122af1581897718f07d0de3b1d). It has [more restaurants per capita then any other Australian city](http://www.adelaideconvention.com.au/wp-content/uploads/2013/08/ACB_Planners_Guide_2013_PDF_Download_version.pdf) and has arguably the best chinatown in Australia (check out Gouger Street).
+### **5: It's got a decent cafe/restaurant culture**
+
+What gets a Bioinformatician going more than a strong coffee? Sorry Melbourne, Adelaide is the [king of cafe culture](http://www.news.com.au/national/south-australia/international-coffee-day-statistics-show-adelaide-is-the-coffee-capital/news-story/badfb4122af1581897718f07d0de3b1d). It has [more restaurants per capita then any other Australian city](http://www.adelaideconvention.com.au/wp-content/uploads/2013/08/ACB_Planners_Guide_2013_PDF_Download_version.pdf) and has arguably the best chinatown in Australia (check out Gouger Street!).
 
 Additionally, we have cool restaurant scenes evolving in Semaphore, Port Adelaide, Glenelg, North Adelaide/Prospect and further up in the hills, in Stirling and Mount Barker. If you're like me and like to BBQ, check out [Low and Slow up in Port Adelaide](http://www.lowandslowamericanbbq.com). Amazing food!
 
-### Number 6: It's flat so you can ride your bike
+### **6: It's flat so you can ride your bike**
 
 Unless you're living in the hills, its pretty easy to get around the city on your deadly treadly. Plenty of bike lanes. Hell, [they ripped up two lanes of one of Adelaide's city streets for extra bike lanes!](http://indaily.com.au/news/2016/07/27/12m-deal-to-make-adelaide-the-cycling-capital-of-australia/). For the serious riders, [we have the tour down under every year](http://tourdownunder.com.au) and the hills provide some pretty amazing cross-country and downhill mountain biking tracks.
 
 ![](https://media.giphy.com/media/JSscAbMrQ8zOU/giphy.gif)
 
-### Number 7: Who doesn't like a drink??
+### **7: Who doesn't like a drink??**
 
-Now for the stuff that South Australia is really famous for: Wine! Barossa and McLaren Valleys are essentially Northern and Southern suburbs of Adelaide and accessible via major freeways which take you between 35-60mins of driving. Shiraz is the famous drop, but Cabernet Sauvignon, Merlot and Chardonnay are widely grown. Adelaide Hills (perhaps the closest region to the city), has some beautiful cold-climate wines and are a must for any visitor. If you're a little more adventurous, you could investigate the bold terror-rossa Cabernet Sauvignon's in Coonawarra (3-4 hours East of the city), the golden, acidic Riesling wines from Clare Valley (1-2 hours North), and the cool-climate reds and whites from the Limestone coast (3 hours South-East).
+Now for the stuff that South Australia is really famous for: Wine! Barossa and McLaren Valleys are essentially Northern and Southern suburbs of Adelaide and accessible via major freeways which take you between 35-60mins of driving. Shiraz is the famous drop, but Cabernet Sauvignon, Merlot and Chardonnay are widely grown. Adelaide Hills, perhaps the closest region to the city (to the east), has some beautiful cold-climate wines and are a must for any visitor. If you're a little more adventurous, you could investigate the bold terror-rossa Cabernet Sauvignon's in Coonawarra (3-4 hours east of the city), the golden, acidic Riesling wines from Clare Valley (1-2 hours north), and the cool-climate reds and whites from the Limestone coast (3 hours south-east).
 
-For the beer drinkers, we have [Pirate Life](http://piratelife.com.au), one of the best craft-beer producers in the country. And our 'regular' local drop is [Coopers](https://coopers.com.au)! If this sort of beverage is your fancy, then feel free to join me for a drink at [the Wheatshef Hotel in Thebarton](http://wheatsheafhotel.com.au)
+For the beer drinkers, we have [Pirate Life](http://piratelife.com.au), one of the best craft-beer producers in the country. And our 'regular' local drop is [Coopers](https://coopers.com.au)! If this sort of beverage is your fancy, then feel free to join me for a drink at [the Wheatshef Hotel in Thebarton](http://wheatsheafhotel.com.au), which is one of Australia's finest craft-beer pubs.
 
-### Number 8: Lock-outs? We're open late
+### **8: Lock-outs? We're open late**
 
 Ok so it's not like there aren't any restrictions, but if you want to drink at a pub or club in Adelaide, you can still get in before 3am.
 
-![](http://gph.is/2gdwk0H)
+![](https://media.giphy.com/media/PwsproqCG02zu/giphy.gif)
 
-### Number 9: When Adelaide parties, they part hard!
+### **9: When Adelaide parties, they part hard!**
 
 ![Party Hard!](http://img.youtube.com/vi/WccfbPQNMbg/0.jpg)](https://www.youtube.com/watch?v=WccfbPQNMbg "Andrew W.K. - Party Hard")
 
 Come on, [we're the FREAKING FESTIVAL STATE!](http://southaustralia.com/things-to-do/whats-on/festivals-and-celebrations). And in this case, there _is_ emphasis on the freaking...
 
-The Adelaide Fringe Festival is the largest in the Southern Hemisphere, and 2nd largest in the world after Edinburgh. Starting in mid-Feb it lasts for a month and has a massive array of acts and events. For me, the highlight is certainly the excess of carnival foods that are available at the Garden (aka the Garden of Unearthly Delights in the city's east parkland), Gluttony (at the end of Rundle Street) and the Royal Crochet Club (now on the banks of the Torrens, out the front of Adelaide Oval).
+The Adelaide Fringe Festival is the largest in the Southern Hemisphere, and 2nd largest in the world after Edinburgh. Starting in mid-Feb it lasts for a month and has a massive array of acts and events. For me, the highlight is certainly the excess of carnival foods that are available at the Garden (aka the Garden of Unearthly Delights in the city's eastern parkland), Gluttony (at the end of Rundle Street) and the Royal Crochet Club (now on the banks of the Torrens, out the front of Adelaide Oval).
 
 Other than that we have the Adelaide Festival, WOMADelaide, food and wine festivals, the tour down under, you name it!
 
