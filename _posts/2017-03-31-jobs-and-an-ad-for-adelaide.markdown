@@ -11,11 +11,13 @@ Adelaide (*ahem* Sorry... RAdelaide) is going through a bit of a Bioinformatics 
 - [2x Postdoctoral Bioinformatics/Phylogenetics/Ancient DNA positions at the Australian Centre for Ancient DNA](http://evol.mcmaster.ca/~brian/evoldir/PostDocs/UAdelaide.PhylogeographicsBioinformatics)
 - Full-time Bioinformatician position in the Cerebral Palsy research group at the Robinson Research Institute - Details available from me!
 
-Additionally, I have really cool Bioinformatics PhD projects in Reproductive Biology in transcriptomics, epigenetic gene regulation and placental biology that I need fill and I'm trying to attract students into the area.
+Additionally, I have some really cool Bioinformatics/Reproductive Biology PhD projects (transcriptomics, epigenetic gene regulation and placental biology) that I need fill and I'm trying to attract students into the area.
 
-Now as I semi-professional Western Australian you might say that I would be the worst person to promote South Australia. However, I've lived in 3 Australian (Brisbane, Perth and Adelaide) and one international city (Zurich, Switzerland), and I know a thing or two about urban centres. And ever since coming across from Brisbane I am continually surprised at the quality of life. When friends and family come to stay, they always have a great time and can't wait to come back!
+---
 
-So in this post I'm going to do my best to promote the great state of South Australia using the tried and tested method of an oddly numbered list and GIFs
+Now as I semi-professional Western Australian you might say that I would be the worst person to promote South Australia. However, I've lived in 3 Australian cities (Brisbane, Perth and Adelaide) and one international city (Zurich, Switzerland), so I know a thing or two about urban centres. And ever since coming across from Brisbane in 2013, I am continually surprised at the quality of life here in South Australia. When friends and family come to stay, they always have a great time and can't wait to come back!
+
+So in this post I'm going to do my best to promote the great state of South Australia using the tried and tested BuzzFeed method of an oddly numbered 'top' list and GIFs.
 
 ## Top 9 reasons why you move to Adelaide for Bioinformatics
 
@@ -23,7 +25,7 @@ So in this post I'm going to do my best to promote the great state of South Aust
 
 If you read any Australian-based news website, you would know a few things. Firstly, when it rains in Sydney, we should all hear about it and, secondly the Sydney and Melbourne rental prices are out of control. Renters in Sydney are on average [spending nearly 38% of their monthly wage on rent!](http://thenewdaily.com.au/money/property/2016/02/17/rental-affordability/). This compares to 25-28% in Adelaide!
 
-![Whaaaaaaaaat?](http://gph.is/1aRtci9)
+![Whaaaaaaaaat?](https://media.giphy.com/media/1060QCIa82ApgY/giphy.gif)
 
 If you want to stay long-term and invest in the property market, then you're going to get WAY more bang for your buck. The median house price for a 2 bedroom unit in the CBD is $420,000. Thats the CBD people! Equivalent in [Sydney and Melbourne is $1,190,000 and $525,000](https://www.realestate.com.au/neighbourhoods/). We own a place about 5 mins drive south of the city block and it takes me about 30mins to walk right to the middle of the city!
 
@@ -33,7 +35,7 @@ While most South Australians have at some point explained to me that they were t
 
 Plus, the airport is part of the city which means it doesn't take you long to pick up family and friends!
 
-![We all need the Fam](http://gph.is/1QBkcmg)
+![](https://media.giphy.com/media/3o8doUgvKWu2JP0hvG/giphy.gif)
 
 ### Number 3: It's got top-notch facilities
 
@@ -43,7 +45,7 @@ Well maybe not, but Adelaide is quietly investing in some state-of-the-art medic
 
 Additionally, Flinders University has the [Flinders Medical Centre](http://www.flinders.sa.gov.au) just south of the city and the University of Adelaide has the Waite research campus at the base of the hills that hosts a world-renowned plant and agricultural research program (including the [Australian Wine Research Institute](https://www.awri.com.au)).
 
-![Science!](http://gph.is/1gNlHvm)
+![Science!](https://media.giphy.com/media/XkEPTETxyZDiM/giphy.gif)
 
 ### Number 4: It's a beautiful place to live
 
@@ -65,7 +67,7 @@ Additionally, we have cool restaurant scenes evolving in Semaphore, Port Adelaid
 
 Unless you're living in the hills, its pretty easy to get around the city on your deadly treadly. Plenty of bike lanes. Hell, [they ripped up two lanes of one of Adelaide's city streets for extra bike lanes!](http://indaily.com.au/news/2016/07/27/12m-deal-to-make-adelaide-the-cycling-capital-of-australia/). For the serious riders, [we have the tour down under every year](http://tourdownunder.com.au) and the hills provide some pretty amazing cross-country and downhill mountain biking tracks.
 
-![Who doesn't like a ride](http://gph.is/1hVGdxd)
+![](https://media.giphy.com/media/JSscAbMrQ8zOU/giphy.gif)
 
 ### Number 7: Who doesn't like a drink??
 
@@ -77,11 +79,11 @@ For the beer drinkers, we have [Pirate Life](http://piratelife.com.au), one of t
 
 Ok so it's not like there aren't any restrictions, but if you want to drink at a pub or club in Adelaide, you can still get in before 3am.
 
-![Party Time!](http://gph.is/2gdwk0H)
+![](http://gph.is/2gdwk0H)
 
 ### Number 9: When Adelaide parties, they part hard!
 
-[![Party Hard!](http://img.youtube.com/vi/WccfbPQNMbg/0.jpg)](https://www.youtube.com/watch?v=WccfbPQNMbg "Andrew W.K. - Party Hard")
+![Party Hard!](http://img.youtube.com/vi/WccfbPQNMbg/0.jpg)](https://www.youtube.com/watch?v=WccfbPQNMbg "Andrew W.K. - Party Hard")
 
 Come on, [we're the FREAKING FESTIVAL STATE!](http://southaustralia.com/things-to-do/whats-on/festivals-and-celebrations). And in this case, there _is_ emphasis on the freaking...
 
@@ -91,4 +93,6 @@ Other than that we have the Adelaide Festival, WOMADelaide, food and wine festiv
 
 ---
 
-So I've convinced you, Adelaide is a great place to live. If you're an Australian honours/MSc student, please contact me if you're interested in pursuing a PhD in Bioinformatics or Computational Biology. If you've just finished a PhD and you're starting your academic career, I would suggest applying for jobs here in RAdelaide. 
+![](https://media.giphy.com/media/ZER1aT3DjLI9a/giphy.gif)
+
+So I've convinced you, Adelaide is a great place to live. If you're an Australian honours/MSc student, please contact me if you're interested in pursuing a PhD in Bioinformatics or Computational Biology. If you've just finished a PhD and you're starting your academic career, I would suggest applying for jobs here in RAdelaide.
