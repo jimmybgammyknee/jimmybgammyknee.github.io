@@ -4,6 +4,7 @@ title:  "Jobs: An Ad for Adelaide"
 date:   2017-03-31
 ---
 
+
 Adelaide (*ahem* Sorry... RAdelaide) is going through a bit of a Bioinformatics renaissance at the moment, and catching up with the rest of the country in terms of the need for jobs in biological data science. There are quite a few positions and projects available at major university's and public institutions, such as:
 
 - [Full-time SAMHRI Bioinformatician position due May 7th](https://www.sahmriresearch.org/human-resources/careers/112)
@@ -21,7 +22,7 @@ So in this post I'm going to do my best to promote the great state of South Aust
 
 ## Top 9 reasons why you move to Adelaide for Bioinformatics
 
-<br><br>
+<br>
 
 ### **1: You can afford to rent/buy real estate**
 
