@@ -83,7 +83,7 @@ Ok so it's not like there aren't any restrictions, but if you want to drink at a
 
 ![](https://media.giphy.com/media/PwsproqCG02zu/giphy.gif)
 
-### **9: When Adelaide parties, they pary hard!**
+### **9: When Adelaide parties, they party hard!**
 
 Come on, [we're the FREAKING FESTIVAL STATE!](http://southaustralia.com/things-to-do/whats-on/festivals-and-celebrations). And in this case, there _is_ emphasis on the freaking...
 
