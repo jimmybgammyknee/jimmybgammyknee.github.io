@@ -4,7 +4,6 @@ title:  "Jobs: An Ad for Adelaide"
 date:   2017-03-31
 ---
 
-
 Adelaide (*ahem* Sorry... RAdelaide) is going through a bit of a Bioinformatics renaissance at the moment, and catching up with the rest of the country in terms of the need for jobs in biological data science. There are quite a few positions and projects available at major university's and public institutions, such as:
 
 - [Full-time SAMHRI Bioinformatician position due May 7th](https://www.sahmriresearch.org/human-resources/careers/112)
@@ -18,11 +17,11 @@ Additionally, I have some really cool Bioinformatics/Reproductive Biology PhD pr
 
 Now as I semi-professional Western Australian you might say that I would be the worst person to promote South Australia. However, I've lived in 3 Australian cities (Brisbane, Perth and Adelaide) and one international city (Zurich, Switzerland), so I know a thing or two about urban centres. And ever since coming across from Brisbane in 2013, I am continually surprised at the quality of life here in South Australia. When friends and family come to stay, they always have a great time and can't wait to come back!
 
-So in this post I'm going to do my best to promote the great state of South Australia using the tried and tested BuzzFeed method of an oddly numbered 'top' list and GIFs.
+So in this post I'm going to do my best to promote the great state of South Australia using the tried and tested BuzzFeed method of top 10 list and GIFs.
 
 ## Top 9 reasons why you move to Adelaide for Bioinformatics
 
-<br>
+<br><br>
 
 ### **1: You can afford to rent/buy real estate**
 
@@ -34,9 +33,9 @@ If you want to stay long-term and invest in the property market, then you're goi
 
 ### **2: Live and don't commute a mile**
 
-While at some point a local will explained to you that SA is the only Australian state not established by convicts, one thing is for certain is that the city is nicely positioned between the sea (or what locals call "the bay") and the Adelaide Hills. You can live on the beach and be in the middle of the city in 20mins. You can live in the middle of the hills with your vineyard, olive grove or sheep, and still be a half an hour to the middle of the city! The roads are based on a grid pattern so its easy to work your way around the city.
+While at some point a local will explained to you that SA is the only Australian state not established by convicts, one thing is for certain is that the city is nicely positioned between the sea (or what locals call "the bay") and the Adelaide Hills. You can live on the beach and be in the middle of the city in 20mins. You can live in the middle of the hills with your vineyard, olive grove or sheep, and still be a half an hour to the middle of the city!
 
-Plus, the airport is part of the city which means it doesn't take you long to pick up family and friends! 
+Plus, the airport is part of the city which means it doesn't take you long to pick up family and friends! The roads are based on a grid pattern so its easy to work your way around the city
 
 ![](https://media.giphy.com/media/3o8doUgvKWu2JP0hvG/giphy.gif)
 
@@ -91,6 +90,10 @@ Come on, [we're the FREAKING FESTIVAL STATE!](http://southaustralia.com/things-t
 The Adelaide Fringe Festival is the largest in the Southern Hemisphere, and 2nd largest in the world after Edinburgh. Starting in mid-Feb it lasts for a month and has a massive array of acts and events. For me, the highlight is certainly the excess of carnival foods that are available at the Garden (aka the Garden of Unearthly Delights in the city's eastern parkland), Gluttony (at the end of Rundle Street) and the Royal Crochet Club (now on the banks of the Torrens, out the front of Adelaide Oval).
 
 Other than that we have the Adelaide Festival, WOMADelaide, food and wine festivals, the tour down under, you name it!
+
+### **10: Adelaide is fine with being Adelaide**
+
+I've never lived in a place who is more content with it's position in the country as Adelaide. Yes, its [small (population-wise)](https://en.wikipedia.org/wiki/List_of_cities_in_Australia_by_population), [has had it's ups and downs with industry](https://thewest.com.au/business/engineering/holden-to-close-adelaide-car-plant-in-oct-ng-s-1657853), and can't compete with the large cities to the east and west, but people love it. Adelaideans will be happy that you want to come and live in their fine city, but also couldn't care less if you didn't.
 
 ---
 
