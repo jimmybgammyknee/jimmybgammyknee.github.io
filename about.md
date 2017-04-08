@@ -8,9 +8,15 @@ title: About me
 <img src="{{ '/assets/img/me.jpg' | prepend: site.baseurl }}" alt="">
 <p class="intro">My name is Jimmy Breen and I'm the Bioinformatics core-facility manager for <a href="https://www.adelaide.edu.au/robinson-research-institute/">the Robinson Research Institute</a> & member of the University of Adelaide's Bioinformatics Hub. Professionally, I'm interested in Genomics, Bioinformatics and Data Science, and I have a background in Plant Genomics and Next Generation Sequencing Technologies. Personally, I'm into sport, food, craft beer, data analytics and hanging with my family.
 
+<br>
+
 This blog is a collection of scientific ideas, thoughts and interesting topics covered by myself (in my work or personal life) or from my brilliant Bioinformatics co-workers or students.
 
-**IMPORTANT NOTE:** Topics and opinions covered on this blog may not the opinion of my employer.
+<br>
+
+<b>IMPORTANT NOTE:</b> Topics and opinions covered on this blog may not the opinion of my employer.
+
+<br>
 
 <h2>Some extra info</h2>
 
