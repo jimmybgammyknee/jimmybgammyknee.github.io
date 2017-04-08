@@ -6,16 +6,14 @@ title: About me
 <div class="post">
 <h1 class="pageTitle">About me</h1>
 <img src="{{ '/assets/img/me.jpg' | prepend: site.baseurl }}" alt="">
-<p class="intro">My name is Jimmy Breen and I'm the Bioinformatics core-facility manager for <a href="https://www.adelaide.edu.au/robinson-research-institute/">the Robinson Research Institute</a> & member of the University of Adelaide's Bioinformatics Hub. Professionally, I'm interested in Genomics, Bioinformatics and Data Science, and I have a background in Plant Genomics and Next Generation Sequencing Technologies. Personally, I'm into sport, food, craft beer, data analytics and hanging with my family.
+<p class="intro">My name is Jimmy Breen and I'm the Bioinformatics core-facility manager for <a href="https://www.adelaide.edu.au/robinson-research-institute/">the Robinson Research Institute</a> & member of the University of Adelaide's Bioinformatics Hub. Professionally, I'm interested in Genomics, Bioinformatics and Data Science, and I have a background in Plant Genomics and Next Generation Sequencing Technologies. Personally, I'm into sport, food, craft beer, data analytics and hanging with my family. This blog is a collection of scientific ideas, thoughts and interesting topics covered by myself (in my work or personal life) or from my brilliant Bioinformatics co-workers or students.
 
 <br>
-
-This blog is a collection of scientific ideas, thoughts and interesting topics covered by myself (in my work or personal life) or from my brilliant Bioinformatics co-workers or students.
-
 <br>
 
 <b>IMPORTANT NOTE:</b> Topics and opinions covered on this blog may not the opinion of my employer.
 
+<br>
 <br>
 
 <h2>Some extra info</h2>
@@ -32,5 +30,3 @@ This blog is a collection of scientific ideas, thoughts and interesting topics c
 <li>Adelaide brewery called <a href="http://piratelife.com.au"> Pirate Life </a>. Have a great pale ale and are a great bunch of guys </li>
 <li>My best mate <a href="https://www.facebook.com/gusfacegrillah"> Gusface Grillah</a> has an <a href="http://gusfacegrillah.com/"> amazing bbq blog </a> which you should definitely check out. Recently featured on buzzfeed as an Australian food blog that  <a href="http://www.buzzfeed.com/gyanyankovich/the-best-australian-food-blogs"> "will change the way you eat"</a>, which is good thing ..... i think </li>
 </ul>
-
-</div>
