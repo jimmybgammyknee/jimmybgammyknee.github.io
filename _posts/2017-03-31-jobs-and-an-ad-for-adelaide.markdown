@@ -19,7 +19,7 @@ Now as a semi-professional Western Australian you might say that I would be the 
 
 So in this post I'm going to do my best to promote the great state of South Australia using the tried and tested BuzzFeed method of top 10 list and GIFs.
 
-## Top 9 reasons why you move to Adelaide for Bioinformatics
+## Top 10 reasons why you move to Adelaide for Bioinformatics
 
 <br><br>
 
@@ -53,9 +53,9 @@ The city block is surrounded by parks that are exactly [one cannon shot in lengt
 
 ![City Block](http://www.theplan.net.au/wp-content/uploads/2011/04/Adelaide-aerial.jpg)
 
-If you like to explore outside the city there's Kangaroo Island, the Coorong and the Muarry Riverlands, the Limestone Coast, the Flinders Ranges, and of course the Eyre and York Peninsulas!
+If you like to explore outside the city there's Kangaroo Island, the Coorong and the Muarry Riverlands, the Limestone Coast, the Flinders Ranges, and of course, the Eyre and York Peninsulas!
 
-And the climate? Adelaide is the driest capital city in Australia, and is known for its dry and clear summers, and cool winters. Bar a few storms early in the summer this year, the weather has magnificent and NOT AT ALL HUMID.
+And the climate? Adelaide is the driest capital city in Australia, and is known for its dry and clear summers, and cool winters. Bar a few storms early in the summer this year, the weather has been magnificent and NOT AT ALL HUMID.
 
 ![](https://media.giphy.com/media/bbwJaAzogpjfq/giphy.gif)
 
@@ -73,9 +73,9 @@ Unless you're living in the hills, its pretty easy to get around the city on you
 
 ### **7: Who doesn't like a drink??**
 
-Now for the stuff that South Australia is really famous for: Wine! Barossa and McLaren Valleys are essentially Northern and Southern suburbs of Adelaide and accessible via major freeways which take you between 35-60mins of driving. Shiraz is the famous drop, but Cabernet Sauvignon, Merlot and Chardonnay are widely grown. Adelaide Hills, perhaps the closest region to the city (to the east), has some beautiful cold-climate wines and are a must for any visitor. If you're a little more adventurous, you could investigate the bold terror-rossa Cabernet Sauvignon's in Coonawarra (3-4 hours east of the city), the golden, acidic Riesling wines from Clare Valley (1-2 hours north), and the cool-climate reds and whites from the Limestone coast (3 hours south-east).
+Now for the stuff that South Australia is really famous for: Wine! Barossa and McLaren Valleys are essentially Northern and Southern suburbs of Adelaide and accessible via major freeways which take you between 35-60mins of driving. Shiraz is the famous drop, but Cabernet Sauvignon, Merlot and Chardonnay are widely grown. Adelaide Hills, perhaps the closest region to the city (to the east), has some beautiful cold-climate wines and are a must for any visitor. If you're a little more adventurous, you could investigate the bold '_terra rossa_' Cabernet Sauvignon's in Coonawarra (3-4 hours east of the city), the golden, acidic Riesling wines from Clare Valley (1-2 hours north), and the cool-climate reds and whites from the Limestone coast (3 hours south-east).
 
-For the beer drinkers, we have [Pirate Life](http://piratelife.com.au), one of the best craft-beer producers in the country. And our 'regular' local drop is [Coopers](https://coopers.com.au)! If this sort of beverage is your fancy, then feel free to join me for a drink at [the Wheatshef Hotel in Thebarton](http://wheatsheafhotel.com.au), which is one of Australia's finest craft-beer pubs.
+For the beer drinkers, we have [Pirate Life](http://piratelife.com.au), one of the best craft-beer producers in the country. And our 'regular' local drop is [Coopers](https://coopers.com.au)! If this sort of beverage is your fancy, then feel free to join me for a drink at [the Wheatsheaf Hotel in Thebarton](http://wheatsheafhotel.com.au), which is one of Australia's finest craft-beer pubs.
 
 ### **8: Lock-outs? We're open late**
 
@@ -93,7 +93,7 @@ Other than that we have the Adelaide Festival, WOMADelaide, food and wine festiv
 
 ### **10: Adelaide is fine with being Adelaide**
 
-I've never lived in a place who is more content with it's position in the country as Adelaide. Yes, its [small (population-wise)](https://en.wikipedia.org/wiki/List_of_cities_in_Australia_by_population), [has had it's ups and downs with industry](https://thewest.com.au/business/engineering/holden-to-close-adelaide-car-plant-in-oct-ng-s-1657853), and can't compete with the large cities to the east and west, but people love it. Adelaideans will be happy that you want to come and live in their fine city, but also couldn't care less if you didn't.
+I've never lived in a place who is more content with it's position in the country as Adelaide. Yes, its [small (population-wise)](https://en.wikipedia.org/wiki/List_of_cities_in_Australia_by_population), [has had it's ups and downs with industry](https://thewest.com.au/business/engineering/holden-to-close-adelaide-car-plant-in-oct-ng-s-1657853), and can't compete with the large cities to the east and west, but people love it. Adelaidean's will be happy that you want to come and live in their fine city, but also couldn't care less if you didn't.
 
 ---
 
