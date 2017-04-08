@@ -18,8 +18,6 @@ navigation:
    url: /cv
  - title: Contact
    url: /contact
- - title: Lab Members
-   url: /lab
 
 social:
    github: jimmybgammyknee
