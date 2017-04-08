@@ -59,7 +59,7 @@ Supervisors: Matthew Bellgard & Rudi Appels
 
 - Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen (CIF)**. 2017 NHRMC Project Grant (APP1120543) **Cat. 1 Funding**. "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
 
-- Claire Roberts, Tina Bianco-Miotto, Gus Dekker & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy **Cat. 1 Funding**. "Maternal molecular profiles reflect placental function and development across gestation"
+- Claire Roberts, Tina Bianco-Miotto, Gus Dekker & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy. "Maternal molecular profiles reflect placental function and development across gestation"
 
 ### Completed
 
@@ -205,7 +205,6 @@ Spielmeyer W, Mago R, Simkova H, Dolezel J, Krattinger S, Keller B, Paux E, Feui
 
 Current <br>
 
-* Tim Rabanus-Wallace (PhD, Australian Centre for Ancient DNA, University of Adelaide)
 * Oscar Santamaria (PhD, Australian Centre for Ancient DNA, University of Adelaide)
 * Ben Mayne (PhD, Robinson Research Institute, University of Adelaide)
 * Ning Liu (MSc Biotech, Robinson Research Institute, University of Adelaide)
@@ -214,6 +213,7 @@ Current <br>
 
 Completed <br>
 
+* Tim Rabanus-Wallace (PhD, Australian Centre for Ancient DNA, University of Adelaide) - CONGRATS TIM!
 * 4 Honours students in 2014 in the Faculty of Engineering, University of Adelaide for a group project on Microbial buildup in fire-water pipe systems
 * Alastair Lundington (BSc hons, Robinson Research Institute, University of Adelaide)
 * Lakshmi Chandrapaty (MSc Biotech, Robinson Research Institute, University of Adelaide)
@@ -226,6 +226,8 @@ Completed <br>
 * OAGR
 
 * Personal Blog
+
+* SCOPE Genomics
 
 ## Awards & Associations
 
