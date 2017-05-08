@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guest Post: Tim Rabanus-Wallace"
-date:   2016-03-01
+date:   2017-05-08
 ---
 
 *This is a guest blog post created by my wonderful (and now former) PhD student Tim Rabanus-Wallace about a recent paper that we got published in Nature Ecology & Evolution. Tim has now started a postdoc at [IPK Germany](http://www.ipk-gatersleben.de/en/), but has kindly made a informal piece for me on how the paper came about. Thanks again Tim!*
