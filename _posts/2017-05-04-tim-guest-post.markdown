@@ -20,6 +20,7 @@ The bones that provided this data were blasted from permafrost exposures with hi
 
 ![Yukon, Canada](/assets/img/Tim_pic1_DSC_4158.jpg) ![Yukon, Canada](/assets/img/Tim_pic2_DSC_4581.jpg)
 ![Yukon, Canada](/assets/img/Tim_pic3_DSC_4300.jpg) ![Yukon, Canada](/assets/img/Tim_pic4_IMG_6050.jpg)
+__Figures: Myself (and Alan) sampling in the Yukon, Canada__
 
 Alan asked me if I'd be interested, and I was. But I had other projects to work on, and I needed to know that I could apply the skills I would have to learn more generally. I offered a compromise: I would use the data as an opportunity to learn a [statistical programming language, R](https://www.youtube.com/watch?v=6S9r_YbqHy8). If I could be afforded the time to put together an analysis in a new language, then I'd look into an interpretation.
 
