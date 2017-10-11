@@ -51,7 +51,7 @@ Supervisors: Matthew Bellgard & Rudi Appels
 `2000-06`
 __Murdoch University__ <br>
 BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)
-Supervisors: Matthew Bellgard & Rudi Appels
+Supervisors: Matthew Bellgard & Rudi Appels  
 
 ## Competitive Grants & External Research Funding
 
@@ -129,7 +129,7 @@ Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet 
 
 ## Conference Proceeding
 
-Wilkinson MJ, Ronca S, Clare A, Riley MC, Young MJ, Warren J, Ford CS \& Breen J. (2017). Characterizing difference in pollen carriage by bumblebee species in unimproved pastures. *Grassland resources for extensive farming systems in marginal lands: major drivers and future scenarios. Proceedings of the 19th Symposium of the European Grassland Federation*. Alghero, Italy, 7-10 May 2017. Pages 633-635 [https://www.cabdirect.org/cabdirect/abstract/20173250776](https://www.cabdirect.org/cabdirect/abstract/20173250776)
+Wilkinson MJ, Ronca S, Clare A, Riley MC, Young MJ, Warren J, Ford CS \& Breen J. (2017). Characterizing difference in pollen carriage by bumblebee species in unimproved pastures. *Grassland resources for extensive farming systems in marginal lands: major drivers and future scenarios. Proceedings of the 19th Symposium of the European Grassland Federation*. Alghero, Italy, 7-10 May 2017. Pages 633-635   [https://www.cabdirect.org/cabdirect/abstract/20173250776](https://www.cabdirect.org/cabdirect/abstract/20173250776)
 
 ## Invited Presentations
 
