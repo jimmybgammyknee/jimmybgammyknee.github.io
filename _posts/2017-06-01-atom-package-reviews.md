@@ -16,7 +16,6 @@ If you're working in Bioinformatics you need to really love your text editor, be
 
 One such editor, the [hackable text editor "Atom"](https://atom.io), is a massive favourite my mine and my [MSc student Ning "Lucas" Liu](https://www.adelaide.edu.au/bioinformatics-hub/about/students). It's very customisable, is developed/maintained by the github guys and is free! So in this post, we're going to review our top 5 favourite packages for Atom
 
-  
 
 ## Jimmy's Top 5
 
