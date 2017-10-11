@@ -20,7 +20,7 @@ Bioinformatics & Genomics Researcher
 
 `2016-Current`
 __University of Adelaide__<br>
-Bioinformatics Leader, Robinson Research Institute \& <br>
+Bioinformatics Leader, Robinson Research Institute & <br>
 University of Adelaide Bioinformatics Hub <br>
 (Adelaide, SA Australia)
 
@@ -81,8 +81,8 @@ Tikhomirova A, Standish AJ, Zhou Y, **Breen J**, Pederson S, Zilm PS & Kidd SP. 
 **Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. **In Review** <br>
 <ins> Preprint</ins>: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477)
 
-Xie H, Konate M, Sai N, Tesfamicael KG, Cavagnaro T, Gilliham T, **Breen J**, Metcalfe A, Stephen JR, DeBei R, Collins C \& Rodriguez Lopez CM. (2017). Global DNA methylation patterns can play a role in defining terroir in grapevine (*Vitis vinifera* cv. Shiraz). *Frontiers in Plant Science*. **Accepted 12/10/2017**
-Preprint (*bioRxviv*): https://www.biorxiv.org/content/early/2017/04/29/127977
+Xie H, Konate M, Sai N, Tesfamicael KG, Cavagnaro T, Gilliham T, **Breen J**, Metcalfe A, Stephen JR, DeBei R, Collins C & Rodriguez Lopez CM. (2017). Global DNA methylation patterns can play a role in defining terroir in grapevine (*Vitis vinifera* cv. Shiraz). *Frontiers in Plant Science*. **Accepted 12/10/2017** <br>
+<ins> Preprint</ins>: *bioRxiv* [https://www.biorxiv.org/content/early/2017/04/29/127977](https://www.biorxiv.org/content/early/2017/04/29/127977)
 
 Hyles J, Vautrin S, Pettolino F, Macmillan C, Stachurski Z, **Breen J**, Berges H, Wicker T & Spielmeyer W. (2017). Repeat length variation in a wheat cellulose synthase-like gene is associated with altered tiller number and stem composition. *Journal of Experimental Botany*. 68(7): 1519-1529. [doi:10.1093/jxb/erx051](http://dx.doi.org/10.1093/jxb/erx051)
 
@@ -129,7 +129,7 @@ Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet 
 
 ## Conference Proceeding
 
-Wilkinson MJ, Ronca S, Clare A, Riley MC, Young MJ, Warren J, Ford CS \& Breen J. (2017). Characterizing difference in pollen carriage by bumblebee species in unimproved pastures. *Grassland resources for extensive farming systems in marginal lands: major drivers and future scenarios. Proceedings of the 19th Symposium of the European Grassland Federation*. Alghero, Italy, 7-10 May 2017. Pages 633-635   [https://www.cabdirect.org/cabdirect/abstract/20173250776](https://www.cabdirect.org/cabdirect/abstract/20173250776)
+Wilkinson MJ, Ronca S, Clare A, Riley MC, Young MJ, Warren J, Ford CS & Breen J. (2017). Characterizing difference in pollen carriage by bumblebee species in unimproved pastures. *Grassland resources for extensive farming systems in marginal lands: major drivers and future scenarios. Proceedings of the 19th Symposium of the European Grassland Federation*. Alghero, Italy, 7-10 May 2017. Pages 633-635   [https://www.cabdirect.org/cabdirect/abstract/20173250776](https://www.cabdirect.org/cabdirect/abstract/20173250776)
 
 ## Invited Presentations
 
