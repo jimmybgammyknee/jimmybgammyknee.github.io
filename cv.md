@@ -8,20 +8,20 @@ title: CV
 Dr James (Jimmy) Breen  <br>
 Bioinformatics & Genomics Researcher
 
-<a href="mailto:jimmymbreen@gmail.com">Email</a>
-<a href="http://github.com/jimmybgammyknee">Github</a>
-<a href="http://twitter.com/wessidepraxis">Twitter</a>
-<a href="https://bitbucket.org/gammyknee">Bitbucket</a>
-<a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en">Google Scholar</a>
+<a href="mailto:jimmymbreen@gmail.com">Email</a> <br>
+<a href="http://github.com/jimmybgammyknee">Github</a> <br>
+<a href="http://twitter.com/wessidepraxis">Twitter</a> <br>
+<a href="https://bitbucket.org/gammyknee">Bitbucket</a> <br>
+<a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en">Google Scholar</a> <br>
 
 ## Academic & Professional Positions
 
 ### Current
 
 `2016-Current`
-__University of Adelaide__
-Bioinformatics Leader, Robinson Research Institute &
-University of Adelaide Bioinformatics Hub
+__University of Adelaide__<br>
+Bioinformatics Leader, Robinson Research Institute \& <br>
+University of Adelaide Bioinformatics Hub <br>
 (Adelaide, SA Australia)
 
 `2013-16`
@@ -50,8 +50,8 @@ Supervisors: Matthew Bellgard & Rudi Appels
 
 `2000-06`
 __Murdoch University__ <br>
-BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)
-Supervisors: Matthew Bellgard & Rudi Appels  
+BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)<br>
+Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ## Competitive Grants & External Research Funding
 
@@ -78,7 +78,7 @@ Supervisors: Matthew Bellgard & Rudi Appels
 
 Tikhomirova A, Standish AJ, Zhou Y, **Breen J**, Pederson S, Zilm PS & Kidd SP. (2017). Specific growth conditions induce a *Streptococcus pneumoniae* non-mucoidal, Small Colony Variant and determine the outcome of its interactions in co-culture with Haemophilus influenzae. *Frontiers in Cellular and Infection Microbiology* **In Review**
 
-**Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. **In Review**
+**Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. **In Review** <br>
 <ins> Preprint</ins>: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477)
 
 Xie H, Konate M, Sai N, Tesfamicael KG, Cavagnaro T, Gilliham T, **Breen J**, Metcalfe A, Stephen JR, DeBei R, Collins C \& Rodriguez Lopez CM. (2017). Global DNA methylation patterns can play a role in defining terroir in grapevine (*Vitis vinifera* cv. Shiraz). *Frontiers in Plant Science*. **Accepted 12/10/2017**
@@ -88,7 +88,7 @@ Hyles J, Vautrin S, Pettolino F, Macmillan C, Stachurski Z, **Breen J**, Berges 
 
 Rabanus-Wallace MT, Wooller MJ, Zazula G, Shute E, Jahren H, **Breen J**, Llamas B & Cooper A. (2017). Megafaunal nitrogen isotopes reveal role of global moisture-driven decline of rangelands in Late Pleistocene extinctions. *Nature Ecology & Evolution*. 0125 [doi:10.1038/s41559-017-0125](http://dx.doi.org/10.1038/s41559-017-0125)
 
-Weyrich LS, Duchene S, Soubrier J, Arriola L, Llamas B, **Breen J**, Morris AG, Alt KW, Caramelli D, Dresely V, Farrell M, Farrer AG, Francken M, Gully N,  Haak W, Hardy K, Harvati K, Held P, Holmes EC, Kaidonis J, Lalueza-Fox C, de la Rasilla M, Rosas A, Semal P, Soltysiak A, Townsend G, Usai D, Wahl J, Huson DH, Dobney K & Cooper A. (2017). Reconstructing Neandertal behavior, diet, and disease using ancient DNA from dental calculus *Nature* **In Press**
+Weyrich LS, Duchene S, Soubrier J, Arriola L, Llamas B, **Breen J**, Morris AG, Alt KW, Caramelli D, Dresely V, Farrell M, Farrer AG, Francken M, Gully N,  Haak W, Hardy K, Harvati K, Held P, Holmes EC, Kaidonis J, Lalueza-Fox C, de la Rasilla M, Rosas A, Semal P, Soltysiak A, Townsend G, Usai D, Wahl J, Huson DH, Dobney K & Cooper A. (2017). Reconstructing Neandertal behavior, diet, and disease using ancient DNA from dental calculus *Nature* **In Press** <br>
 <ins> Data</ins>: [doi:10.4225/55/584775546a409](http://dx.doi.org/10.4225/55/584775546a409)
 
 Mayne BT, Leemaqz SY, Smith AK, **Breen J**, Roberts CT & Bianco-Miotto T. (2017). Accelerated placental aging in early onset preeclampsia pregnancies identified by DNA methylation *Epigenomics*. 9(3):279-289 [doi:10.2217/epi-2016-0103](http://dx.doi.org/10.2217/epi-2016-0103)
