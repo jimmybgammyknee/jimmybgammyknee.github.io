@@ -64,6 +64,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Current
 
+- Kate Sanders, Bruno Fonseca Simoes, **James Breen (CI),** David Hunt, Belinda Chang, Davide Pisani, Mark Hutchinson, Emma Teeling. 2018 ARC Discovery Grant (DP180101688) **Cat. 1 Funding**. "How are visual gene pathways lost and restored during reptile evolution?"
+
 - Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen (CIF)**. 2017 NHRMC Project Grant (APP1120543) **Cat. 1 Funding**. "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
 
 - Claire Roberts, Tina Bianco-Miotto, Gus Dekker & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy. "Maternal molecular profiles reflect placental function and development across gestation"
