@@ -14,6 +14,13 @@ Bioinformatics & Genomics Researcher
 <a href="https://bitbucket.org/gammyknee">Bitbucket</a> <br>
 <a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en">Google Scholar</a> <br>
 
+## Professional Associations & Committees
+
+* Secretary & inaugural committee member of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
+* Member of the Australian Bioinformatics & Computational Biology Scoiety (ABACBS)
+* Member of the BioinfoSummer 2016 Conference Committee (http://amsi.org.au/events/event/bioinfosummer-2016/)
+* Member of the 2017 COMBINE Symposium (https://combine.org.au/symposium-2017/) organisation committee
+
 ## Academic & Professional Positions
 
 ### Current
@@ -229,9 +236,7 @@ Completed <br>
 
 * SCOPE Genomics
 
-## Awards & Associations
-
-* Inaugural committee member and communications officer of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
+## Awards
 
 * Awarded the early career speaker award ($750) for the International Wheat Genome Sequencing Consortium (IWGSC) workshop at the Plant and Animal Genome XIX Conference, San Diego, USA
 
