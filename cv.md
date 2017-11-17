@@ -18,8 +18,8 @@ Bioinformatics & Genomics Researcher
 
 * Secretary & inaugural committee member of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
 * Member of the Australian Bioinformatics & Computational Biology Scoiety (ABACBS)
-* Member of the BioinfoSummer 2016 Conference Committee (http://amsi.org.au/events/event/bioinfosummer-2016/)
-* Member of the 2017 COMBINE Symposium (https://combine.org.au/symposium-2017/) organisation committee
+* Member of the [BioinfoSummer 2016 Conference Committee](http://amsi.org.au/events/event/bioinfosummer-2016/)
+* Member of the [2017 COMBINE Symposium](https://combine.org.au/symposium-2017/) organisation committee
 
 ## Academic & Professional Positions
 
