@@ -87,13 +87,13 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. Laboratory contamination over time during low-biomass sample analysis. **In Review**
 
-Kedzior SGE, Bianco-Miotto T, Breen J, Diener KR, Donnelley M, Dunning KR, Penno MAS, Rumbold AR, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M & Brown HM. It takes a community to conceive: Availability and accuracy of online resources for couples trying to conceive. **In Review**
+Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, Penno MAS, Rumbold AR, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M & Brown HM. It takes a community to conceive: Availability and accuracy of online resources for couples trying to conceive. **In Review**
 
-Lim M, Kind KL, Breen J, Anastasi MR, Ritter LJ, Tregoweth E, Dinh D, Thompson JG & Brown HM. Hemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. **In Review**
+Lim M, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth E, Dinh D, Thompson JG & Brown HM. Hemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. **In Review**
 
-Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, Breen J, Forrest A, Beyer M, Robertson SA and Barry SC Unravelling the molecular basis for regulatory T cell plasticity. **In Review**
+Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Forrest A, Beyer M, Robertson SA and Barry SC Unravelling the molecular basis for regulatory T cell plasticity. **In Review**
 
-Tikhomirova A, Standish AJ, Zhou Y, **Breen J**, Pederson S, Zilm PS & Kidd SP. Specific growth conditions induce a *Streptococcus pneumoniae* non-mucoidal, Small Colony Variant and determine the outcome of its interactions in co-culture with Haemophilus influenzae. *Frontiers in Cellular and Infection Microbiology* **In Review**
+Tikhomirova A, Standish AJ, Zhou Y, **Breen J**, Pederson S, Zilm PS & Kidd SP. Specific growth conditions induce a *Streptococcus pneumoniae* non-mucoidal, Small Colony Variant and determine the outcome of its interactions in co-culture with Haemophilus influenzae. **In Review**
 
 Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J.** (2018). msgbsR: an R package for analysing methylation-sensitive restriction enzyme sequencing data. *Scientific Reports*. Accepted 03/01/2018 **Corresponding/Senior Author**
 
