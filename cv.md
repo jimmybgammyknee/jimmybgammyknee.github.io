@@ -64,6 +64,12 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Current
 
+- D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, USA CF Foundation Grant. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,4912 years
+
+- Alastair MacLennan, Jozef Gecz, Mark Corbett, Clare van Eyk, **James Breen**, Christopher Barnett, S MacLennan, J Rice, R Russo. ORG3921: Cerebral Palsy Foundation Research Grant. “The genetic origins of cerebral palsy”. 4 years
+
+- Sarah Robertson, John Schjenken, Emilie Rissman, Lachlan Moldenhauer & **James Breen**. 2018 Channel 7 CRF - Research Grant. “Impact of Phthalate exposure in fathers on programming of offspring neurological phenotype”. 2 years
+
 - Kate Sanders, Bruno Fonseca Simoes, **James Breen (CI),** David Hunt, Belinda Chang, Davide Pisani, Mark Hutchinson, Emma Teeling. 2018 ARC Discovery Grant (DP180101688) **Cat. 1 Funding**. "How are visual gene pathways lost and restored during reptile evolution?"
 
 - Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen (CIF)**. 2017 NHRMC Project Grant (APP1120543) **Cat. 1 Funding**. "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
