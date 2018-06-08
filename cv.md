@@ -85,11 +85,17 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 <!-- ### Journals -->
 
-Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. Laboratory contamination over time during low-biomass sample analysis. **In Review**
+Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. **Submitted**
+
+Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. Laboratory contamination over time during low-biomass sample analysis. *Molecular Ecology Resources*. **In Review**
 
 Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, Penno MAS, Rumbold AR, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M & Brown HM. It takes a community to conceive: Availability and accuracy of online resources for couples trying to conceive. **In Review**
 
 Lim M, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth E, Dinh D, Thompson JG & Brown HM. Hemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. **In Review**
+
+Estrada O, **Breen J**, Richards SM and Cooper, A. (2018). From seeds to sequence: Ancient plant DNA in the genomic era. Nature Plants. Accepted 22/05/2018. **Corresponding/Senior Author**
+
+MacLennan A, Kruer M, Baynam G, Moreno-De-Luca A, Wilson Y, Zhu C, Wintle R, Gecz, J, **On behalf of the members of the International Cerebral Palsy Genomics Consortium**. (2018). Cerebral palsy and genomics: an international consortium. *Developmental Medicine and Child Neurology*. 60(2), 209-210. doi:10.1111/dmcn.13643
 
 Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Forrest A, Beyer M, Robertson SA and Barry SC. (2018), Unravelling the molecular basis for regulatory T cell plasticity. *Clinical & Translational Immunology*, Accepted 30/01/2018
 
