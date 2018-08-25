@@ -91,6 +91,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 <!-- ### Journals -->
 
+Crowe-Riddell J, F. Simoes B, Partridge J, Hunt D, Delean S, Schwerdt J, Breen J, Ludington A, Gower D & Sanders K. Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. **In Review**
+
 Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. **Submitted**
 
 Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. Laboratory contamination over time during low-biomass sample analysis. *Molecular Ecology Resources*. **In Review**
