@@ -25,6 +25,15 @@ Bioinformatics & Genomics Researcher
 
 ### Current
 
+`2018-Current`
+__South Australian Health & Medical Research Institute (SAHMRI)__<br>
+James & Diana Ramsay Research Fellow & <br>
+Bioinformatics Core Facility Leader <br>
+__University of Adelaide__<br>
+Research Leader in Computational Biology, Robinson Research Institute <br>
+Senior Lecturer, University of Adelaide Bioinformatics Hub <br>
+(Adelaide, SA Australia)
+
 `2016-Current`
 __University of Adelaide__<br>
 Bioinformatics Leader, Robinson Research Institute & <br>
@@ -91,7 +100,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 <!-- ### Journals -->
 
-Crowe-Riddell J, F. Simoes B, Partridge J, Hunt D, Delean S, Schwerdt J, Breen J, Ludington A, Gower D & Sanders K. Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. **In Review**
+Crowe-Riddell J, F. Simoes B, Partridge J, Hunt D, Delean S, Schwerdt J, **Breen J**, Ludington A, Gower D & Sanders K. Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. **In Review**
 
 Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. **Submitted**
 
@@ -100,6 +109,8 @@ Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M
 Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, Penno MAS, Rumbold AR, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M & Brown HM. It takes a community to conceive: Availability and accuracy of online resources for couples trying to conceive. **In Review**
 
 Lim M, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth E, Dinh D, Thompson JG & Brown HM. Hemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. **In Review**
+
+Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. Accepted 14/09/2018
 
 Estrada O, **Breen J**, Richards SM and Cooper, A. (2018). From seeds to sequence: Ancient plant DNA in the genomic era. Nature Plants. Accepted 22/05/2018. **Corresponding/Senior Author**
 
