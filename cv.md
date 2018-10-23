@@ -114,7 +114,7 @@ Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, P
 
 Lim M, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth E, Dinh D, Thompson JG & Brown HM. Hemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. **In Review**
 
-Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. Accepted 14/09/2018
+Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:10.1093/femspd/fty074
 
 Estrada O, **Breen J**, Richards SM and Cooper, A. (2018). From seeds to sequence: Ancient plant DNA in the genomic era. Nature Plants. Accepted 22/05/2018. **Corresponding/Senior Author**
 
