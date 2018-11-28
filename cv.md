@@ -112,7 +112,7 @@ Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, P
 
 ### 2018
 
-Lim M, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth E, Dinh D, Thompson JG & Brown HM. Hemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. **In Review**
+Lim M., Brown H. M., Kind K. L., Breen J., Anastasi M. R., Ritter L. J., Tregoweth E. K., Dinh D. T., Thompson J. G., Dunning K. R. (2018) Haemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. _Reproduction, Fertility and Development_, doi:10.1071/RD17321
 
 Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:10.1093/femspd/fty074
 
