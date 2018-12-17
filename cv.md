@@ -17,9 +17,9 @@ Bioinformatics & Genomics Researcher
 ## Professional Associations & Committees
 
 * Secretary & inaugural committee member of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
-* Member of the Australian Bioinformatics & Computational Biology Scoiety (ABACBS)
 * Member of the [BioinfoSummer 2016 Conference Committee](http://amsi.org.au/events/event/bioinfosummer-2016/)
 * Member of the [2017 COMBINE Symposium](https://combine.org.au/symposium-2017/) organisation committee
+* Executive Committee (Ordinary Member) of the Australian Bioinformatics & Computational Biology Scoiety (ABACBS) - Elected 2018
 
 ## Academic & Professional Positions
 
@@ -27,8 +27,8 @@ Bioinformatics & Genomics Researcher
 
 `2018-Current`
 __South Australian Health & Medical Research Institute (SAHMRI)__<br>
-James & Diana Ramsay Research Fellow & <br>
 Bioinformatics Core Facility Leader <br>
+<br>
 __University of Adelaide__<br>
 Research Leader in Computational Biology, Robinson Research Institute <br>
 Senior Lecturer, University of Adelaide Bioinformatics Hub <br>
@@ -69,6 +69,8 @@ __Murdoch University__ <br>
 BSc (hons.) Molecular Biology & Bioinformatics (_First Class Honours_)<br>
 Supervisors: Matthew Bellgard & Rudi Appels <br>
 
+---
+
 ## Competitive Grants & External Research Funding
 
 ### Current
@@ -95,14 +97,17 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 - Iain Searle, Cassandra Collins, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 University of Adelaide Interdisciplinary Research Funding (IRF). "RNA directed epigenetics in grapevines- a paradigm sh¡ft for plant and animal breeding"
 
+---
 
 ## Publications
 
 <!-- ### Journals -->
 
-Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, Breen J, Pederson SM, Hannan AJ, Baune BT. The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. **In Review**
+#### In Review
 
-Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, Breen J, Pedersen S & Baune BT. easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. **In Review**
+Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ, Baune BT. The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. **In Review**
+
+Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, **Breen J**, Pedersen S & Baune BT. easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. **In Review**
 
 Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. **In Review**
 
@@ -110,11 +115,11 @@ Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, P
 
 ### 2018
 
-Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, Breen J, Ludington A, Gower AJ, Sanders KLS. (2018). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_ **Accepted 18/12/2018**
+Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ, Sanders KLS. (2018). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_ **Accepted 18/12/2018**
 
-Lim M., Brown H. M., Kind K. L., Breen J., Anastasi M. R., Ritter L. J., Tregoweth E. K., Dinh D. T., Thompson J. G., Dunning K. R. (2018) Haemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. _Reproduction, Fertility and Development_, doi:10.1071/RD17321
+Lim M, Brown HM, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth EK, Dinh DT, Thompson JG, Dunning KR. (2018). Haemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. _Reproduction, Fertility and Development_, doi:10.1071/RD17321
 
-Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. Laboratory contamination over time during low-biomass sample analysis. _bioRxiv_ https://www.biorxiv.org/content/early/2018/11/02/460212 **In Peer Review** 
+Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. (2018). Laboratory contamination over time during low-biomass sample analysis. _bioRxiv_ https://www.biorxiv.org/content/early/2018/11/02/460212 **In Peer Review**
 
 Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:10.1093/femspd/fty074
 
