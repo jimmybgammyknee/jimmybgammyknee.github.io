@@ -111,11 +111,13 @@ Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, **Breen J**, Pedersen S 
 
 Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. **In Review**
 
-Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, Penno MAS, Rumbold AR, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M & Brown HM. It takes a community to conceive: Availability and accuracy of online resources for couples trying to conceive. **In Review**
+### 2019
+
+Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, Breen J, Perry VEA, Anderson RA & Rodgers RJ. (2019). Transcript abundance of stromal and thecal cell-related genes during bovine ovarian development. _PLOS One_ **Accepted 27/02/2019**
+
+Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ & Sanders KLS. (2019). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_ **Accepted 18/12/2018**
 
 ### 2018
-
-Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ, Sanders KLS. (2018). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_ **Accepted 18/12/2018**
 
 Lim M, Brown HM, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth EK, Dinh DT, Thompson JG, Dunning KR. (2018). Haemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. _Reproduction, Fertility and Development_, doi:10.1071/RD17321
 
