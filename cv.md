@@ -107,11 +107,11 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ, Baune BT. The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. **In Review**
 
-Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, **Breen J**, Pedersen S & Baune BT. easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. **In Review**
-
 Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. **In Review**
 
 ### 2019
+
+Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, Breen J, Pedersen S & Baune BT. Easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. _Brain Research Bulletin_. **Accepted 28/02/2019**
 
 Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, Breen J, Perry VEA, Anderson RA & Rodgers RJ. (2019). Transcript abundance of stromal and thecal cell-related genes during bovine ovarian development. _PLOS One_ **Accepted 27/02/2019**
 
