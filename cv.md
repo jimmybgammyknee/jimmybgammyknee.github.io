@@ -107,27 +107,29 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ, Baune BT. The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. **In Review**
 
-Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, **Breen J**, Pedersen S & Baune BT. easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. **In Review**
-
 Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. **In Review**
 
 ### 2019
 
-Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, Breen J, Perry VEA, Anderson RA & Rodgers RJ. (2019). Transcript abundance of stromal and thecal cell-related genes during bovine ovarian development. _PLOS One_ **Accepted 27/02/2019**
+Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. (2019). Laboratory contamination over time during low-biomass sample analysis. _Molecular Ecology_. **Accepted 09/03/2019**
 
-Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ & Sanders KLS. (2019). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_ **Accepted 18/12/2018**
+Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, **Breen J**, Pedersen S & Baune BT. (2019). Easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. _Brain Research Bulletin_. **Accepted 28/02/2019**
+
+Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, **Breen J**, Perry VEA, Anderson RA & Rodgers RJ. (2019). Transcript abundance of stromal and thecal cell-related genes during bovine ovarian development. _PLOS One_ **Accepted 27/02/2019**
+
+Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ & Sanders KLS. (2019). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_. 9(10): 2640. doi:10.1111/mec.15022
 
 ### 2018
 
 Lim M, Brown HM, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth EK, Dinh DT, Thompson JG, Dunning KR. (2018). Haemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. _Reproduction, Fertility and Development_, doi:10.1071/RD17321
-
-Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. (2018). Laboratory contamination over time during low-biomass sample analysis. _bioRxiv_ https://www.biorxiv.org/content/early/2018/11/02/460212 **In Peer Review**
 
 Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:10.1093/femspd/fty074
 
 Estrada O, **Breen J**, Richards SM and Cooper, A. (2018). From seeds to sequence: Ancient plant DNA in the genomic era. Nature Plants. Accepted 22/05/2018. **Corresponding/Senior Author**
 
 MacLennan A, Kruer M, Baynam G, Moreno-De-Luca A, Wilson Y, Zhu C, Wintle R, Gecz, J, **On behalf of the members of the International Cerebral Palsy Genomics Consortium**. (2018). Cerebral palsy and genomics: an international consortium. *Developmental Medicine and Child Neurology*. 60(2), 209-210. doi:10.1111/dmcn.13643
+
+Alaux M, Rogers J, Letellier T, Flores R, Alfama F, Pommier C, Mohellibi N, Durand S, Kimmel E, Michotey C, Guerche C, Loaec M, Lainé M, Steinbach D, Choulet F, Rimbert H, Leroy P, Guilhot N, Salse J, Feuillet C, **International Wheat Genome Sequencing Consortium**, Paux E,  Eversole K, Adam-Blondon A-F and Quesneville H. (2018). Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data. _Genome Biology_. 19: 111. doi: 10.1186/s13059-018-1491-4
 
 Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Forrest A, Beyer M, Robertson SA and Barry SC. (2018), Unravelling the molecular basis for regulatory T cell plasticity. *Clinical & Translational Immunology*, Accepted 30/01/2018
 
