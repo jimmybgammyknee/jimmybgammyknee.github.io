@@ -111,7 +111,7 @@ Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Ch
 
 ### 2019
 
-Weyrich L, Farrer A, EisenhoferR, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. (2019). Laboratory contamination over time during low-biomass sample analysis. _Molecular Ecology_. doi:10.1101/460212 **Accepted 09/03/2019** 
+Weyrich L, Farrer A, Eisenhofer R, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. (2019). Laboratory contamination over time during low-biomass sample analysis. _Molecular Ecology Resources_. doi:10.1101/460212 **Accepted 09/03/2019**
 <ins> Preprint</ins>: *bioRxiv* [https://www.biorxiv.org/content/10.1101/460212v1](https://www.biorxiv.org/content/10.1101/460212v1)
 
 Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, **Breen J**, Pedersen S & Baune BT. (2019). Easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. _Brain Research Bulletin_. **Accepted 28/02/2019**
