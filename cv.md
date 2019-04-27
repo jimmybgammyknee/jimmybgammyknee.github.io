@@ -20,6 +20,7 @@ Bioinformatics & Genomics Researcher
 * Member of the [BioinfoSummer 2016 Conference Committee](http://amsi.org.au/events/event/bioinfosummer-2016/)
 * Member of the [2017 COMBINE Symposium](https://combine.org.au/symposium-2017/) organisation committee
 * Executive Committee (Ordinary Member) of the Australian Bioinformatics & Computational Biology Scoiety (ABACBS) - Elected 2018
+* Member of the [Australian and New Zealand Placental Research Association (ANZPRA)](https://www.anzpra.org/)
 
 ## Academic & Professional Positions
 
