@@ -104,11 +104,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 <!-- ### Journals -->
 
-#### In Review
-
-Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. **In Review**
-
 ### 2019
+
+Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. _Scienific Reports_. **Accepted 09/07/2019**
 
 Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. _Behavioural Brain Research_.  **Accepted 15/04/2019**
 
