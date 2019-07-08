@@ -106,7 +106,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### 2019
 
-Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. _Scienific Reports_. **Accepted 09/07/2019**
+Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. (2019). Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. _Scienific Reports_. **Accepted 09/07/2019**
 
 Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. _Behavioural Brain Research_.  **Accepted 15/04/2019**
 
@@ -115,13 +115,14 @@ Weyrich L, Farrer A, Eisenhofer R, Arriola LA, YoungJ, Selway C, Handsley-Davis 
 
 Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, **Breen J**, Pedersen S & Baune BT. (2019). Easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. _Brain Research Bulletin_. **Accepted 28/02/2019**
 
+Lim M, Brown HM, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth EK, Dinh DT, Thompson JG, Dunning KR. (2019). Haemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. _Reproduction, Fertility and Development_, doi:10.1071/RD17321
+
 Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, **Breen J**, Perry VEA, Anderson RA & Rodgers RJ. (2019). Transcript abundance of stromal and thecal cell-related genes during bovine ovarian development. _PLOS One_ **Accepted 27/02/2019**
 
 Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ & Sanders KLS. (2019). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_. 9(10): 2640. doi:10.1111/mec.15022
 
-### 2018
 
-Lim M, Brown HM, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth EK, Dinh DT, Thompson JG, Dunning KR. (2018). Haemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. _Reproduction, Fertility and Development_, doi:10.1071/RD17321
+### 2018
 
 Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:10.1093/femspd/fty074
 
