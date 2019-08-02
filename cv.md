@@ -106,9 +106,11 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### 2019
 
+Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). Short-term environmental enrichment, and not physical exercise, alleviate cognitive decline and anxiety from middle age onwards without affecting hippocampal gene expression. _Cognitive, Affective, and Behavioral Neuroscience_. **Accepted 02/08/2019**
+
 Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. (2019). Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. _Scienific Reports_. **Accepted 09/07/2019**
 
-Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. _Behavioural Brain Research_.  **Accepted 15/04/2019**
+Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. _Behavioural Brain Research_. 368:111917. doi:10.1016/j.bbr.2019.111917
 
 Weyrich L, Farrer A, Eisenhofer R, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. (2019). Laboratory contamination over time during low-biomass sample analysis. _Molecular Ecology Resources_. doi:10.1101/460212 **Accepted 09/03/2019**
 <ins> Preprint</ins>: *bioRxiv* [https://www.biorxiv.org/content/10.1101/460212v1](https://www.biorxiv.org/content/10.1101/460212v1)
@@ -120,7 +122,6 @@ Lim M, Brown HM, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth EK, Din
 Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, **Breen J**, Perry VEA, Anderson RA & Rodgers RJ. (2019). Transcript abundance of stromal and thecal cell-related genes during bovine ovarian development. _PLOS One_ **Accepted 27/02/2019**
 
 Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ & Sanders KLS. (2019). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_. 9(10): 2640. doi:10.1111/mec.15022
-
 
 ### 2018
 
