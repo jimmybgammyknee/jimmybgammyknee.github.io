@@ -106,6 +106,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### 2019
 
+Siggs OM, Souzeau E, **Breen J**, Qassim A, Zhou T, Dubowsky A, Ruddle JB & Craig JE. (2019). Autosomal dominant nanophthalmos and high hyperopia associated with a C-terminal MYRF frameshift variant. _Molecular Vision_ **Accepted 05/08/2019**
+
 Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). Short-term environmental enrichment, and not physical exercise, alleviate cognitive decline and anxiety from middle age onwards without affecting hippocampal gene expression. _Cognitive, Affective, and Behavioral Neuroscience_. **Accepted 02/08/2019**
 
 Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. (2019). Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. _Scienific Reports_. **Accepted 09/07/2019**
