@@ -106,6 +106,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### 2019
 
+Kedzior SGE, Bianco-Miotto T, Breen J, Diener KR, Donnelley M, Dunning KR, Penno MAS, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M, Brown HM & Rumbold AR. (2019). It takes a community to conceive: An analysis of the scope, nature and accuracy of online sources of health information for couples trying to conceive. _Reproductive Biomedicine & Society_. **Accepted 06/08/2019** 
+
 Siggs OM, Souzeau E, **Breen J**, Qassim A, Zhou T, Dubowsky A, Ruddle JB & Craig JE. (2019). Autosomal dominant nanophthalmos and high hyperopia associated with a C-terminal MYRF frameshift variant. _Molecular Vision_ **Accepted 05/08/2019**
 
 Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). Short-term environmental enrichment, and not physical exercise, alleviate cognitive decline and anxiety from middle age onwards without affecting hippocampal gene expression. _Cognitive, Affective, and Behavioral Neuroscience_. **Accepted 02/08/2019**
