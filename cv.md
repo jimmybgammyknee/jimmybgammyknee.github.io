@@ -76,7 +76,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Current
 
-- D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, USA CF Foundation Grant. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,4912 years
+- Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **Jimmy Breen**. Medical Research Future Fund (MRFF). "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
+
+- D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, USA CF Foundation Grant. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,491 for 2 years
 
 - Alastair MacLennan, Jozef Gecz, Mark Corbett, Clare van Eyk, **James Breen**, Christopher Barnett, S MacLennan, J Rice, R Russo. ORG3921: Cerebral Palsy Foundation Research Grant. “The genetic origins of cerebral palsy”. 4 years
 
@@ -106,11 +108,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### 2019
 
-<<<<<<< HEAD
 Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. **Accepted 16/09/2019**
-=======
+
 Kedzior SGE, Bianco-Miotto T, Breen J, Diener KR, Donnelley M, Dunning KR, Penno MAS, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M, Brown HM & Rumbold AR. (2019). It takes a community to conceive: An analysis of the scope, nature and accuracy of online sources of health information for couples trying to conceive. _Reproductive Biomedicine & Society_. **Accepted 06/08/2019** 
->>>>>>> 17bd5b21509edc27821baa93dde23590638e053e
 
 Siggs OM, Souzeau E, **Breen J**, Qassim A, Zhou T, Dubowsky A, Ruddle JB & Craig JE. (2019). Autosomal dominant nanophthalmos and high hyperopia associated with a C-terminal MYRF frameshift variant. _Molecular Vision_ **Accepted 05/08/2019**
 
