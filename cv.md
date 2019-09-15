@@ -106,6 +106,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### 2019
 
+Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. **Accepted 16/09/2019**
+
 Siggs OM, Souzeau E, **Breen J**, Qassim A, Zhou T, Dubowsky A, Ruddle JB & Craig JE. (2019). Autosomal dominant nanophthalmos and high hyperopia associated with a C-terminal MYRF frameshift variant. _Molecular Vision_ **Accepted 05/08/2019**
 
 Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). Short-term environmental enrichment, and not physical exercise, alleviate cognitive decline and anxiety from middle age onwards without affecting hippocampal gene expression. _Cognitive, Affective, and Behavioral Neuroscience_. **Accepted 02/08/2019**
