@@ -293,31 +293,57 @@ Mayne Benjamin T, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco
 
 ## Supervision
 
-Current <br>
+### PhD
 
-* Ning Liu (PhD, Robinson Research Institute, University of Adelaide)
-* Melanie Smith (PhD, Robinson Research Institute, University of Adelaide)
-* Oscar Santamaria (PhD, Australian Centre for Ancient DNA, University of Adelaide) **Co-supervised**
-* Qianhui Wan (PhD, Robinson Research Institute, University of Adelaide) **Co-supervised**
-* Justin Bogias (PhD, Robinson Research Institute, University of Adelaide) **Co-supervised**
+#### Current
 
+- Jacqueline Rehn (SAHMRI & University of Adelaide)
+- Ning Liu (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)
+- Melanie Smith (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)
+- Qianhui Wan (PhD, Robinson Research Institute, University of Adelaide) Co-supervised
+- Justin Bogias (PhD, Robinson Research Institute, University of Adelaide) Co-supervised
+- Doan Thao Dinh (PhD, Robinson Research Institute, University of Adelaide) Co-supervised
+- Christopher Ward (PhD, Biological Sciences, University of Adelaide) Co-supervised
 
-Completed <br>
+#### Completed
 
-* Ben Mayne (PhD, Robinson Research Institute, University of Adelaide)
-* Awais Choudhry (BSc hons, Robinson Research Institute, University of Adelaide)
-* Tim Rabanus-Wallace (PhD, Australian Centre for Ancient DNA, University of Adelaide)
-* 4 Honours students in 2014 in the Faculty of Engineering, University of Adelaide for a group project on Microbial buildup in fire-water pipe systems
-* Alastair Lundington (BSc hons, Robinson Research Institute, University of Adelaide)
-* Lakshmi Chandrapaty (MSc Biotech, Robinson Research Institute, University of Adelaide)
-* Charlotte Sai (MSc Plant Biotech, School of Agriculture, Food and Wine, University of Adelaide)
+- Oscar Santamaria (PhD, Australian Centre for Ancient DNA, University of Adelaide)
+    - Now working at ACAD and University of Adelaide Bioinformatics Hub
+- Ben Mayne (PhD, Robinson Research Institute, University of Adelaide)
+    - Formerly SAHMRI Bioinformatics Offer, now working as a postdoc at CSIRO in Western Australia
+- Tim Rabanus-Wallace (PhD, Australian Centre for Ancient DNA, University of Adelaide)
+    - Currently staff scientist at Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben, Germany
 
-## Projects
+### MSc Biotechnology
 
-- University of Adelaide Genomics Repository (2018)
-    - Developed in collaboration with University of Adelaide Information Technology & Digital Services
-    - Workflow and genomic storage management system for Bioinformaticians at the University
+#### Completed
 
+- Weixiong He (MSc Biotech, Robinson Research Institute, University of Adelaide)
+    - Currently completing a PhD at the University of Queensland
+- Lakshmi Chandrapaty (MSc Biotech, Robinson Research Institute, University of Adelaide)
+- Charlotte Sai (MSc Plant Biotech, School of Agriculture, Food and Wine, University of Adelaide)
+    - Current completing a PhD with Professor Matthew Gilliham (School of Agriculture, Food and Wine, University of Adelaide)
+- Ning Liu (MSc Biotech, Robinson Research Institute, University of Adelaide)
+    - Current completing a PhD (see above)
+- Jacqueline Rehn (MSc Biotech, Bioinformatics Hub, University of Adelaide)
+    - Research Assistant at SAHMRI Bioinformatics Core
+    - Current completing a PhD (see above)
+
+### BSc (honours)
+
+#### Current
+
+- XXX (BSc hons, Biological Sciences, University of Adelaide)
+
+#### Completed
+
+- Awais Choudhry (BSc hons, Robinson Research Institute, University of Adelaide)
+    - Now working in industry
+- Melanie Smith (BSc hons, Robinson Research Institute, University of Adelaide)
+    - Current completing a PhD (see above)
+- 4 Honours students in 2014 in the Faculty of Engineering, University of Adelaide for a group project on Microbial buildup in fire-water pipe systems
+- Alastair Lundington (BSc hons, Robinson Research Institute, University of Adelaide)
+    - Now working at the SAHMRI Bioinformatics Core
 
 ## Awards
 
@@ -325,4 +351,4 @@ Completed <br>
 
 <!-- ### Footer
 
-Last updated: November 2015 -->
+Last updated: September 2019 -->
