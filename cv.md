@@ -3,7 +3,10 @@ layout: default
 title: CV
 ---
 
-# Curriculum Vitae
+* TOC
+{:toc}
+
+## Curriculum Vitae
 
 Dr James (Jimmy) Breen  <br>
 Bioinformatics & Genomics Researcher
@@ -24,7 +27,7 @@ Bioinformatics & Genomics Researcher
 
 ## Academic & Professional Positions
 
-### Current
+#### Current
 
 `2018-Current`
 __South Australian Health & Medical Research Institute (SAHMRI)__<br>
@@ -74,7 +77,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ## Competitive Grants & External Research Funding
 
-### Current
+#### Current
 
 - Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **Jimmy Breen**. Medical Research Future Fund (MRFF). "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
 
@@ -90,7 +93,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 - Claire Roberts, Tina Bianco-Miotto, Gus Dekker & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy. "Maternal molecular profiles reflect placental function and development across gestation"
 
-### Completed
+#### Completed
 
 - Cassandra Collins, Carlos Rodriguez Lopez, Roberta De Bei, **James Breen (PI)**, Timothy Cavagnaro, Matthew Gilliham & Andrew Metcalfe. 2015 AGRF Pilot program in Genomics for Agriculture and Environmental Sectors **Cat 2 Funding**. "The eco-genomics of wine terroir"
 
@@ -104,9 +107,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ## Publications
 
-<!-- ### Journals -->
+### Journal Articles
 
-### 2019
+#### 2019
 
 Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. **Accepted 16/09/2019**
 
@@ -131,7 +134,7 @@ Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, **Breen J**, Perry VEA, Anderson 
 
 Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ & Sanders KLS. (2019). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_. 9(10): 2640. doi:10.1111/mec.15022
 
-### 2018
+#### 2018
 
 Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:10.1093/femspd/fty074
 
@@ -145,7 +148,7 @@ Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Fo
 
 Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J.** (2018). msgbsR: an R package for analysing methylation-sensitive restriction enzyme sequencing data. *Scientific Reports*. Accepted 03/01/2018 **Corresponding/Senior Author**
 
-### 2017
+#### 2017
 
 **Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. **In Review** <br>
 <ins> Preprint</ins>: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477)
@@ -162,7 +165,7 @@ Weyrich LS, Duchene S, Soubrier J, Arriola L, Llamas B, **Breen J**, Morris AG, 
 
 Mayne BT, Leemaqz SY, Smith AK, **Breen J**, Roberts CT & Bianco-Miotto T. (2017). Accelerated placental aging in early onset preeclampsia pregnancies identified by DNA methylation *Epigenomics*. 9(3):279-289 [doi:10.2217/epi-2016-0103](http://dx.doi.org/10.2217/epi-2016-0103)
 
-### 2016
+#### 2016
 
 Mayne BT, Bianco-Miotto T, Buckberry S, **Breen J**, Clifton V, Shoubridge C & Roberts CT. (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans *Frontiers in Genetics*. [doi:10.3389/fgene.2016.00183](http://dx.doi.org/10.3389/fgene.2016.00183)
 
@@ -170,7 +173,7 @@ Bianco-Miotto T, Mayne BT, Buckberry S, **Breen J**, Rodriguez Lopez CM & Robert
 
 Czechowski P, Clarke LJ, **Breen J**, Cooper A & Stevens MI. (2016). Antarctic eukaryotic soil diversity of the Prince Charles Mountains revealed by high-throughput sequencing *Soil Biology and Biochemistry* 95: 112-121 [doi:10.1016/j.soilbio.2015.12.013](http://dx.doi.org/10.1016/j.soilbio.2015.12.013)
 
-### 2015
+#### 2015
 
 Ellison A, Rodríguez López CM, Moran P, **Breen J**, Swain M, Megias M, Hegarty M, Wilkinson M, Pawluk R & Consuegra S. (2015). Epigenetic regulation of sex-ratios may explain natural variation in self-fertilisation rates. *Proceedings of the Royal Society B* 282(1819). [doi:10.1098/rspb.2015.1900](http://dx.doi.org/10.1098/rspb.2015.1900)
 
@@ -180,15 +183,15 @@ Young J, Weyrich LS, **Breen J**, Macdonald LM & Cooper A. (2015). Predicting th
 
 Mago R, Tabe L, Vautrin S, Simková H, Kubaláková M, Upadhyaya N, Berges H, Kong XY, **Breen J**, Dolezel J, Appels R, Ellis J & Spielmeyer W. (2015). Major haplotype divergence including multiple germin-like protein genes, at the wheat Sr2 adult plant stem rust resistance locus. *BMC Plant Biology* 14:379 [doi:10.1186/s12870-014-0379-z](http://dx.doi.org/10.1186/s12870-014-0379-z)
 
-### 2014
+#### 2014
 
-### 2013
+#### 2013
 
 **Breen J**, Wicker T, Shatalina M, Frenkel Z, Bertin I, Phillippe R, Spielmeyer W, Doležel J, Simková H, Scalabrin S, Vautrin S, Bergès H, International Wheat Genome Sequencing Consortium, Paux E, Fahima T, Korol A, Feuillet C & Keller B. (2013). A Physical Map of the Short Arm of Wheat Chromosome 1A. *PLoS ONE* 8(11), e80272. [doi:10.1371/journal.pone.0080272](http://dx.doi.org/10.1371/journal.pone.0080272)
 
-### 2012
+#### 2012
 
-### 2011
+#### 2011
 
 Mago R, Tabe L, McIntosh RA, Pretorius Z, Kota K, Paux E, Wicker T, **Breen J**, Lagudah ES, Ellis JG & Spielmeyer W. (2011). A multiple resistance locus on chromosome arm 3BS in wheat confers resistance to stem rust (Sr2), leaf rust (Lr27) and powdery mildew. *Theoretical and Applied Genomics* 123(4): 615-23. [doi:10.1007/s00122-011-1611-y](http://dx.doi.org/10.1007/s00122-011-1611-y)
 
@@ -198,7 +201,7 @@ Parlange F, Oberhaensli F, **Breen J**, Platzer M, Taudien S, Simkova H, Wicker 
 
 Mago R, Simkova H, Brown-Guedira G, Dreisigacker S, **Breen J**, Jin Y, Singh R, Appels R, Lagudah ES, Ellis J, Dolezel J & Spielmeyer W. (2011). An accurate DNA marker assay for stem rust resistance gene Sr2 in wheat. *Theoretical and Applied Genomics* 122(4): 735-44. [doi:10.1007/s00122-010-1482-7](http://dx.doi.org/10.1007/s00122-010-1482-7)
 
-### 2010
+#### 2010
 
 **Breen, J** & Bellgard, M. (2010). Germin-like proteins (GLPs) in cereal genomes: gene clustering and dynamic roles in plant defence. *Functional and Integrative Genomics* 10(4): 463-76. [doi:10.1007/s10142-010-0184-1](http://dx.doi.org/10.1007/s10142-010-0184-1)
 
@@ -208,42 +211,19 @@ Choulet F, Wicker T, Rustenholz, C, Paux, E, Salse, J, Leroy P, Schlub S, LePasl
 
 **Breen J**, Wicker T, Kong X, Zhang J, Ma W, Paux E, Feuillet C, Appels R & Bellgard M. (2010). A highly conserved gene island of three genes on chromosome 3B of hexaploid wheat: diverse gene function and genomic structure maintained in a tightly linked block. *BMC Plant Biology* 10: 98. [doi:10.1186/1471-2229-10-98](http://dx.doi.org/10.1186/1471-2229-10-98)
 
-### 2009
+#### 2009
 
-### 2008
+#### 2008
 
-### 2007
+#### 2007
 
 Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet C, **Breen J**, Appels R. (2007). Wheat genome structure and function: genome sequence data and the International Wheat Genome Sequencing Consortium. *Crop & Pasture Science* 58: 470-75. [doi:10.1071/AR06155](http://dx.doi.org/10.1071/AR06155)
 
-## Conference Proceeding
+### Conference Proceeding
 
 Wilkinson MJ, Ronca S, Clare A, Riley MC, Young MJ, Warren J, Ford CS & Breen J. (2017). Characterizing difference in pollen carriage by bumblebee species in unimproved pastures. *Grassland resources for extensive farming systems in marginal lands: major drivers and future scenarios. Proceedings of the 19th Symposium of the European Grassland Federation*. Alghero, Italy, 7-10 May 2017. Pages 633-635   [https://www.cabdirect.org/cabdirect/abstract/20173250776](https://www.cabdirect.org/cabdirect/abstract/20173250776)
 
-## Invited Presentations
-
-`2015`
-Building Bioinformatics<br>
-Robinson Research Institute, University of Adelaide (Host: Sarah Robertson)<br>
-<ins> Data</ins>: [https://bitbucket.org/gammyknee/robinson_talk](https://bitbucket.org/gammyknee/robinson_talk)
-
-`2015`
-Ancient Plants: Adaptation to Climate Change and Domestication<br>
-University of Washington, USA (host: Jay Shedure)<br>
-
-`2014`
-Next-generation sequencing of ancient grains from Armenia<br>
-University of Swansea, UK (host: Sonia Consuegra)<br>
-
-`2009`
-Sequencing, Assembly and Annotation of large genomic sequences from chromosome 3B, Institut National de la Recherche Agronomique (INRA)<br>
-Clermont- Ferrand, France (host: Catherine Feuillet)<br>
-
-`2008`
-Wheat Genome Sequence assembly using Transposable Element Annotation<br>
-CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
-
-## Conference submissions (as presenting author)
+### Conference submissions (as presenting author)
 
 Mayne Benjamin T, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J**. (2017). msgbsR: an R package for analysing methylation-sensitive genotyping-by-sequencing data Genotyping-by-sequencing (GBS). *BioC2017: BioC 2017: Where Software and Biology Connect* Boston, USA. Poster
 
@@ -269,7 +249,30 @@ Mayne Benjamin T, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco
 
 **Breen J**, Appels R & Bellgard M. (2006). Wheat BAC sequencing of chromosome 3B. *Molecular Plant Breeding Co-operative Research Centre (MPB-CRC) Annual Research Meeting* Fremantle, WA Australia. Presentation
 
-## Non-academic
+## Invited Presentations
+
+`2015`
+Building Bioinformatics<br>
+Robinson Research Institute, University of Adelaide (Host: Sarah Robertson)<br>
+<ins> Data</ins>: [https://bitbucket.org/gammyknee/robinson_talk](https://bitbucket.org/gammyknee/robinson_talk)
+
+`2015`
+Ancient Plants: Adaptation to Climate Change and Domestication<br>
+University of Washington, USA (host: Jay Shedure)<br>
+
+`2014`
+Next-generation sequencing of ancient grains from Armenia<br>
+University of Swansea, UK (host: Sonia Consuegra)<br>
+
+`2009`
+Sequencing, Assembly and Annotation of large genomic sequences from chromosome 3B, Institut National de la Recherche Agronomique (INRA)<br>
+Clermont- Ferrand, France (host: Catherine Feuillet)<br>
+
+`2008`
+Wheat Genome Sequence assembly using Transposable Element Annotation<br>
+CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
+
+## Other Media
 
 `2015` DNA Database _Scope (Channel 10 Children's Science Show)_
 ([Scope Season 3 Episode 073 PAST PRESENT AND FUTURE](http://tenplay.com.au/channel-eleven/scope/episode-details/past-present-and-future?_from=searchresult))
@@ -284,14 +287,7 @@ Mayne Benjamin T, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco
 ([radio.adelaide.edu.au/talking-research-dr-james-breen](https://radio.adelaide.edu.au/talking-research-dr-james-breen/))
 
 
-## Technical skills
-
-* UNIX/Bash
-* LaTeX/Markdown
-* Scripting languages (R and Python)
-* Workflow languages (wdl/cwl)
-
-## Supervision
+## Student Supervision
 
 ### PhD
 
@@ -349,6 +345,3 @@ Mayne Benjamin T, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco
 
 * Awarded the early career speaker award ($750) for the International Wheat Genome Sequencing Consortium (IWGSC) workshop at the Plant and Animal Genome XIX Conference, San Diego, USA
 
-<!-- ### Footer
-
-Last updated: September 2019 -->
