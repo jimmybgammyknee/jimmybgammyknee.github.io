@@ -329,7 +329,7 @@ CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 
 #### Current
 
-- XXX (BSc hons, Biological Sciences, University of Adelaide)
+- Isaac Rossetto (BSc hons, Biological Sciences, University of Adelaide)
 
 #### Completed
 
