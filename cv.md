@@ -116,6 +116,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 #### 2019
 {:.no_toc}
 
+Kennedy S, Jarboui M-A, Srihari S, Raso C, Bryan K, Dernayka L, Charitou T, Bernal-Llinares M, Herrera-Montavez C, Krstic A, Matallanas D, Kotlyar M, Jurisica I, Curak J, Wong V, Stagljar I, LeBihan T, Imrie L, Pillai P, Lynn MA, Fasterius E, Szigyarto CA-K, **Breen J**, Kiel C, Serrano L, Rauch N, Rukhlenko O, Kholodenko BN, Iglesias-Martinez LF, Ryan C, Pilkington R, Cammareri P, Sansom O, Shave S, Auer M, Horn N, Klose F, Ueffing M, Boldt K, Lynn DJ & Kolch W. (2019). Extensive Rewiring of the the Epidermal Growth Factor Receptor EGFR Networks in Colorectal Cancer Cells Expressing Transforming Levels of Oncogenic KRAS G13D. _Nature Communications_. **Accepted 17/10/2019**
+
 Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. **Accepted 16/09/2019**
 
 Kedzior SGE, Bianco-Miotto T, Breen J, Diener KR, Donnelley M, Dunning KR, Penno MAS, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M, Brown HM & Rumbold AR. (2019). It takes a community to conceive: An analysis of the scope, nature and accuracy of online sources of health information for couples trying to conceive. _Reproductive Biomedicine & Society_. **Accepted 06/08/2019** 
