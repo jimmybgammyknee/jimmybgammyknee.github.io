@@ -113,22 +113,29 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Journal Articles
 
+#### 2020
+{:.no_toc}
+
+Kennedy S, Jarboui M-A, Srihari S, Raso C, Bryan K, Dernayka L, Charitou T, Bernal-Llinares M, Herrera-Montavez C, Krstic A, Matallanas D, Kotlyar M, Jurisica I, Curak J, Wong V, Stagljar I, LeBihan T, Imrie L, Pillai P, Lynn MA, Fasterius E, Szigyarto CA-K, **Breen J**, Kiel C, Serrano L, Rauch N, Rukhlenko O, Kholodenko BN, Iglesias-Martinez LF, Ryan C, Pilkington R, Cammareri P, Sansom O, Shave S, Auer M, Horn N, Klose F, Ueffing M, Boldt K, Lynn DJ & Kolch W. (2020). Extensive Rewiring of the the Epidermal Growth Factor Receptor EGFR Networks in Colorectal Cancer Cells Expressing Transforming Levels of Oncogenic KRAS G13D. _Nature Communications_. 11:499. doi:10.1038/s41467-019-14224-9
+
+Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Manavis J, Hannan AJ & Baune BT. (2020). Effects of aging on the motor, cognitive and affective behaviors, neuroimmune responses and hippocampal gene expression. _Behavioural Brain Research_. **Accepted 21/1/2020.**
+
 #### 2019
 {:.no_toc}
 
-Kennedy S, Jarboui M-A, Srihari S, Raso C, Bryan K, Dernayka L, Charitou T, Bernal-Llinares M, Herrera-Montavez C, Krstic A, Matallanas D, Kotlyar M, Jurisica I, Curak J, Wong V, Stagljar I, LeBihan T, Imrie L, Pillai P, Lynn MA, Fasterius E, Szigyarto CA-K, **Breen J**, Kiel C, Serrano L, Rauch N, Rukhlenko O, Kholodenko BN, Iglesias-Martinez LF, Ryan C, Pilkington R, Cammareri P, Sansom O, Shave S, Auer M, Horn N, Klose F, Ueffing M, Boldt K, Lynn DJ & Kolch W. (2019). Extensive Rewiring of the the Epidermal Growth Factor Receptor EGFR Networks in Colorectal Cancer Cells Expressing Transforming Levels of Oncogenic KRAS G13D. _Nature Communications_. **Accepted 17/10/2019**
-
 Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. 88: 8-11. doi:10.1016/j.placenta.2019.09.006.
+
+Breen J & Rabanus-Wallace MT. (2019). New tricks for old wheat. _Nature Plants_. 5:1108–1109. doi:10.1038/s41477-019-0528-3. **First Author/Invited Commentary** 
 
 Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, Penno MAS, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M, Brown HM & Rumbold AR. (2019). It takes a community to conceive: An analysis of the scope, nature and accuracy of online sources of health information for couples trying to conceive. _Reproductive Biomedicine & Society Online_. doi:10.1016/j.rbms.2019.08.004
 
-Siggs OM, Souzeau E, **Breen J**, Qassim A, Zhou T, Dubowsky A, Ruddle JB & Craig JE. (2019). Autosomal dominant nanophthalmos and high hyperopia associated with a C-terminal MYRF frameshift variant. _Molecular Vision_ **Accepted 05/08/2019**
+Siggs OM, Souzeau E, **Breen J**, Qassim A, Zhou T, Dubowsky A, Ruddle JB & Craig JE. (2019). Autosomal dominant nanophthalmos and high hyperopia associated with a C-terminal MYRF frameshift variant. _Molecular Vision_. 25:527-534. PMID:31700225
 
-Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). Short-term environmental enrichment, and not physical exercise, alleviate cognitive decline and anxiety from middle age onwards without affecting hippocampal gene expression. _Cognitive, Affective, and Behavioral Neuroscience_. 19(5): 1143-1169. doi:10.3758/s13415-019-00743-x
+Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). Short-term environmental enrichment, and not physical exercise, alleviate cognitive decline and anxiety from middle age onwards without affecting hippocampal gene expression. _Cognitive, Affective, and Behavioral Neuroscience_. 19(5): 1143-1169. doi:10.3758/s13415-019-00743-x
 
 Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. (2019). Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. _Scienific Reports_. 9: 11966. doi:10.1038/s41598-019-48333-8
 
-Singhal G, Morgan G, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. _Behavioural Brain Research_. 368:111917. doi:10.1016/j.bbr.2019.111917
+Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. _Behavioural Brain Research_. 368:111917. doi:10.1016/j.bbr.2019.111917
 
 Weyrich L, Farrer A, Eisenhofer R, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. (2019). Laboratory contamination over time during low-biomass sample analysis. _Molecular Ecology Resources_. 19(4):982-996. doi:10.1111/1755-0998.13011
 <ins> Preprint</ins>: *bioRxiv* [https://www.biorxiv.org/content/10.1101/460212v1](https://www.biorxiv.org/content/10.1101/460212v1)
@@ -146,23 +153,22 @@ Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Br
 
 Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:10.1093/femspd/fty074
 
-Estrada O, **Breen J**, Richards SM and Cooper, A. (2018). From seeds to sequence: Ancient plant DNA in the genomic era. Nature Plants. Accepted 22/05/2018. **Corresponding/Senior Author**
+Estrada O, **Breen J**, Richards SM & Cooper A. (2018). Ancient plant DNA in the genomic era. _Nature Plants_ 4:394–396. doi:10.1038/s41477-018-0187-9. **Corresponding/Senior Author**
 
 MacLennan A, Kruer M, Baynam G, Moreno-De-Luca A, Wilson Y, Zhu C, Wintle R, Gecz, J, **On behalf of the members of the International Cerebral Palsy Genomics Consortium**. (2018). Cerebral palsy and genomics: an international consortium. *Developmental Medicine and Child Neurology*. 60(2), 209-210. doi:10.1111/dmcn.13643
 
 Alaux M, Rogers J, Letellier T, Flores R, Alfama F, Pommier C, Mohellibi N, Durand S, Kimmel E, Michotey C, Guerche C, Loaec M, Lainé M, Steinbach D, Choulet F, Rimbert H, Leroy P, Guilhot N, Salse J, Feuillet C, **International Wheat Genome Sequencing Consortium**, Paux E,  Eversole K, Adam-Blondon A-F and Quesneville H. (2018). Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data. _Genome Biology_. 19: 111. doi: 10.1186/s13059-018-1491-4
 
-Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Forrest A, Beyer M, Robertson SA and Barry SC. (2018), Unravelling the molecular basis for regulatory T cell plasticity. *Clinical & Translational Immunology*, Accepted 30/01/2018
+Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Forrest A, Beyer M, Robertson SA and Barry SC. (2018), Unravelling the molecular basis for regulatory T cell plasticity. _Clinical & Translational Immunology_. 7(2):e1011. doi:10.1002/cti2.1011
 
-Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J.** (2018). msgbsR: an R package for analysing methylation-sensitive restriction enzyme sequencing data. *Scientific Reports*. Accepted 03/01/2018 **Corresponding/Senior Author**
+Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J.** (2018). msgbsR: an R package for analysing methylation-sensitive restriction enzyme sequencing data. *Scientific Reports*. 2190. doi:10.1038/s41598-018-19655-w **Corresponding/Senior Author**
 
 #### 2017
 {:.no_toc}
 
-**Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. **In Review** <br>
-<ins> Preprint</ins>: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477)
+**Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. Preprint</ins>: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477)
 
-Xie H, Konate M, Sai N, Tesfamicael KG, Cavagnaro T, Gilliham T, **Breen J**, Metcalfe A, Stephen JR, DeBei R, Collins C & Rodriguez Lopez CM. (2017). Global DNA methylation patterns can play a role in defining terroir in grapevine (*Vitis vinifera* cv. Shiraz). *Frontiers in Plant Science*. **Accepted 12/10/2017** <br>
+Xie H, Konate M, Sai N, Tesfamicael KG, Cavagnaro T, Gilliham T, **Breen J**, Metcalfe A, Stephen JR, DeBei R, Collins C & Rodriguez Lopez CM. (2017). Global DNA methylation patterns can play a role in defining terroir in grapevine (*Vitis vinifera* cv. Shiraz). *Frontiers in Plant Science*. 8:1860. doi:10.3389/fpls.2017.01860 <br>
 <ins> Preprint</ins>: *bioRxiv* [https://www.biorxiv.org/content/early/2017/04/29/127977](https://www.biorxiv.org/content/early/2017/04/29/127977)
 
 Hyles J, Vautrin S, Pettolino F, Macmillan C, Stachurski Z, **Breen J**, Berges H, Wicker T & Spielmeyer W. (2017). Repeat length variation in a wheat cellulose synthase-like gene is associated with altered tiller number and stem composition. *Journal of Experimental Botany*. 68(7): 1519-1529. [doi:10.1093/jxb/erx051](http://dx.doi.org/10.1093/jxb/erx051)
