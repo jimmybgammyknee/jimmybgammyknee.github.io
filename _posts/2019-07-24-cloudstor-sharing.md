@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Australian Academic Data Sharing from the terminal"
-date:   2017-07-24
+date:   2019-07-24
 ---
 
 **Author Preface:** Yes I know its been a while between blog posts! Just a little note to say that this site will be changing a little soon from a personal blog to a group blog. I want to promote the work of my awesome team at the SAHMRI Bioinformatics Core a bit more, so keep a look at for updates
