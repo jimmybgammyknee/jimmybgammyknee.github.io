@@ -127,7 +127,7 @@ Yeung DT, Greenwood M, Rhen J, Heatley SA, McClure B, Eadie LN, **Breen J**, Sch
 
 Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. 88: 8-11. doi:10.1016/j.placenta.2019.09.006.
 
-Breen J & Rabanus-Wallace MT. (2019). New tricks for old wheat. _Nature Plants_. 5:1108–1109. doi:10.1038/s41477-019-0528-3. **First Author/Invited Commentary** 
+**Breen J** & Rabanus-Wallace MT. (2019). New tricks for old wheat. _Nature Plants_. 5:1108–1109. doi:10.1038/s41477-019-0528-3. **First Author/Invited Commentary** 
 
 Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, Penno MAS, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M, Brown HM & Rumbold AR. (2019). It takes a community to conceive: An analysis of the scope, nature and accuracy of online sources of health information for couples trying to conceive. _Reproductive Biomedicine & Society Online_. doi:10.1016/j.rbms.2019.08.004
 
