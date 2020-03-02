@@ -118,10 +118,12 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 Kennedy S, Jarboui M-A, Srihari S, Raso C, Bryan K, Dernayka L, Charitou T, Bernal-Llinares M, Herrera-Montavez C, Krstic A, Matallanas D, Kotlyar M, Jurisica I, Curak J, Wong V, Stagljar I, LeBihan T, Imrie L, Pillai P, Lynn MA, Fasterius E, Szigyarto CA-K, **Breen J**, Kiel C, Serrano L, Rauch N, Rukhlenko O, Kholodenko BN, Iglesias-Martinez LF, Ryan C, Pilkington R, Cammareri P, Sansom O, Shave S, Auer M, Horn N, Klose F, Ueffing M, Boldt K, Lynn DJ & Kolch W. (2020). Extensive Rewiring of the the Epidermal Growth Factor Receptor EGFR Networks in Colorectal Cancer Cells Expressing Transforming Levels of Oncogenic KRAS G13D. _Nature Communications_. 11:499. doi:10.1038/s41467-019-14224-9
 
-Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Manavis J, Hannan AJ & Baune BT. (2020). Effects of aging on the motor, cognitive and affective behaviors, neuroimmune responses and hippocampal gene expression. _Behavioural Brain Research_. **Accepted 21/1/2020.**
+Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Manavis J, Hannan AJ & Baune BT. (2020). Effects of aging on the motor, cognitive and affective behaviors, neuroimmune responses and hippocampal gene expression. _Behavioural Brain Research_. 383: 112501.
 
 #### 2019
 {:.no_toc}
+
+Yeung DT, Greenwood M, Rhen J, Heatley SA, McClure B, Eadie LN, **Breen J**, Schutz C, Trahair TN, Wei AH, Dalla-Pozza L, Sutton R, Bradstock KF, Osborn MP & White CL. (2019). High Risk Genomic Alterations Identified at the Time of Diagnosis Are Strongly Associated with MRD and Subsequent Poor Outcomes in AYA ALL Patients Treated on a Pediatric Inspired Chemotherapy Regimen. _Blood_. 134(Supplement_1): 3949. doi:10.1182/blood-2019-127788
 
 Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. 88: 8-11. doi:10.1016/j.placenta.2019.09.006.
 
