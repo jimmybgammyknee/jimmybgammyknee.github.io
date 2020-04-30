@@ -334,18 +334,20 @@ CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 
 Primary supervised in **bold**
 
-- Dr Ayub Qassium MD (PhD, Flinders University/SA Pathology)
 - **Jacqueline Rehn (PhD, SAHMRI & University of Adelaide)**
 - **Ning Liu (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
 - **Melanie Smith (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
-- Qianhui Wan (PhD, Robinson Research Institute, University of Adelaide) Co-supervised
 - Justin Bogias (PhD, Robinson Research Institute, University of Adelaide) Co-supervised
-- Doan Thao Dinh (PhD, Robinson Research Institute, University of Adelaide) Co-supervised
 - Christopher Ward (PhD, Biological Sciences, University of Adelaide) Co-supervised
+- Ayub Qassium MD (PhD, Flinders University/SA Pathology) - Clinical PhD
 
 #### Completed
 {:.no_toc}
 
+- Qianhui Wan (PhD, Robinson Research Institute, University of Adelaide)
+    - Now working at Flinders University
+- Doan Thao Dinh (PhD, Robinson Research Institute, University of Adelaide)
+    - Now working at the University of Adelaide Medical School
 - Oscar Santamaria (PhD, Australian Centre for Ancient DNA, University of Adelaide)
     - Now working at ACAD and University of Adelaide Bioinformatics Hub
 - Ben Mayne (PhD, Robinson Research Institute, University of Adelaide)
