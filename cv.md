@@ -77,38 +77,6 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ---
 
-## Competitive Grants & External Research Funding
-
-#### Current
-{:.no_toc}
-
-- Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **Jimmy Breen**. Medical Research Future Fund (MRFF). "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
-
-- D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, USA CF Foundation Grant. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,491 for 2 years
-
-- Alastair MacLennan, Jozef Gecz, Mark Corbett, Clare van Eyk, **James Breen**, Christopher Barnett, S MacLennan, J Rice, R Russo. ORG3921: Cerebral Palsy Foundation Research Grant. “The genetic origins of cerebral palsy”. 4 years
-
-- Sarah Robertson, John Schjenken, Emilie Rissman, Lachlan Moldenhauer & **James Breen**. 2018 Channel 7 CRF - Research Grant. “Impact of Phthalate exposure in fathers on programming of offspring neurological phenotype”. 2 years
-
-- Kate Sanders, Bruno Fonseca Simoes, **James Breen (CI),** David Hunt, Belinda Chang, Davide Pisani, Mark Hutchinson, Emma Teeling. 2018 ARC Discovery Grant (DP180101688) **Cat. 1 Funding**. "How are visual gene pathways lost and restored during reptile evolution?"
-
-- Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen (CIF)**. 2017 NHRMC Project Grant (APP1120543) **Cat. 1 Funding**. "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
-
-- Claire Roberts, Tina Bianco-Miotto, Gus Dekker & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy. "Maternal molecular profiles reflect placental function and development across gestation"
-
-#### Completed
-{:.no_toc}
-
-- Cassandra Collins, Carlos Rodriguez Lopez, Roberta De Bei, **James Breen (PI)**, Timothy Cavagnaro, Matthew Gilliham & Andrew Metcalfe. 2015 AGRF Pilot program in Genomics for Agriculture and Environmental Sectors **Cat 2 Funding**. "The eco-genomics of wine terroir"
-
-- Michael J Wilkinson, **James Breen (CI)**, Thomas F Higham & Ron Pinhasi. 2013-2015 ARC Discovery Grant (DP130104227) **Cat. 1 Funding**. "Reconstructing wheat evolution using ancient DNA"
-
-- Cassandra Collins, Roberta De Bei, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 Waite Research Institute Platform Technologies. "We prefer them old: Epigenetic control of wine quality in response to grapevine age"
-
-- Iain Searle, Cassandra Collins, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 University of Adelaide Interdisciplinary Research Funding (IRF). "RNA directed epigenetics in grapevines- a paradigm sh¡ft for plant and animal breeding"
-
----
-
 ## Publications
 
 ### Journal Articles
@@ -116,59 +84,61 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 #### 2020
 {:.no_toc}
 
-Kennedy S, Jarboui M-A, Srihari S, Raso C, Bryan K, Dernayka L, Charitou T, Bernal-Llinares M, Herrera-Montavez C, Krstic A, Matallanas D, Kotlyar M, Jurisica I, Curak J, Wong V, Stagljar I, LeBihan T, Imrie L, Pillai P, Lynn MA, Fasterius E, Szigyarto CA-K, **Breen J**, Kiel C, Serrano L, Rauch N, Rukhlenko O, Kholodenko BN, Iglesias-Martinez LF, Ryan C, Pilkington R, Cammareri P, Sansom O, Shave S, Auer M, Horn N, Klose F, Ueffing M, Boldt K, Lynn DJ & Kolch W. (2020). Extensive Rewiring of the the Epidermal Growth Factor Receptor EGFR Networks in Colorectal Cancer Cells Expressing Transforming Levels of Oncogenic KRAS G13D. _Nature Communications_. 11:499. doi:10.1038/s41467-019-14224-9
+Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2020). Integrative analysis of mutated genes and mutational processes reveals seven colorectal cancer subtypes. _bioRxiv_. doi:[10.1101/2020.05.18.101022](https://doi.org/10.1101/2020.05.18.101022). **PREPRINT**
+
+Fabres PJ, Sai N, Pederson SM, Zheng F, **Breen J**, Gilliham M, Tricker P, Rodríguez López CM, David R. (2020). Dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) display distinct, regional expression patterns that correlate with tRNA expression. _bioRxiv_. doi:[10.1101/2020.04.13.039131](https://doi.org/10.1101/2020.04.13.039131). **PREPRINT**
+
+Kennedy S, Jarboui M-A, Srihari S, Raso C, Bryan K, Dernayka L, Charitou T, Bernal-Llinares M, Herrera-Montavez C, Krstic A, Matallanas D, Kotlyar M, Jurisica I, Curak J, Wong V, Stagljar I, LeBihan T, Imrie L, Pillai P, Lynn MA, Fasterius E, Szigyarto CA-K, **Breen J**, Kiel C, Serrano L, Rauch N, Rukhlenko O, Kholodenko BN, Iglesias-Martinez LF, Ryan C, Pilkington R, Cammareri P, Sansom O, Shave S, Auer M, Horn N, Klose F, Ueffing M, Boldt K, Lynn DJ & Kolch W. (2020). Extensive Rewiring of the the Epidermal Growth Factor Receptor EGFR Networks in Colorectal Cancer Cells Expressing Transforming Levels of Oncogenic KRAS G13D. _Nature Communications_. 11:499. doi:[10.1038/s41467-019-14224-9](https://doi.org/10.1038/s41467-019-14224-9)
 
 Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Manavis J, Hannan AJ & Baune BT. (2020). Effects of aging on the motor, cognitive and affective behaviors, neuroimmune responses and hippocampal gene expression. _Behavioural Brain Research_. 383: 112501.
 
 #### 2019
 {:.no_toc}
 
-Yeung DT, Greenwood M, Rhen J, Heatley SA, McClure B, Eadie LN, **Breen J**, Schutz C, Trahair TN, Wei AH, Dalla-Pozza L, Sutton R, Bradstock KF, Osborn MP & White CL. (2019). High Risk Genomic Alterations Identified at the Time of Diagnosis Are Strongly Associated with MRD and Subsequent Poor Outcomes in AYA ALL Patients Treated on a Pediatric Inspired Chemotherapy Regimen. _Blood_. 134(Supplement_1): 3949. doi:10.1182/blood-2019-127788
+Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. 88: 8-11. doi:[10.1016/j.placenta.2019.09.006](https://doi.org/10.1016/j.placenta.2019.09.006).
 
-Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. 88: 8-11. doi:10.1016/j.placenta.2019.09.006.
+**Breen J** & Rabanus-Wallace MT. (2019). New tricks for old wheat. _Nature Plants_. 5:1108–1109. doi:[10.1038/s41477-019-0528-3](https://doi.org/10.1038/s41477-019-0528-3). **First Author/Invited Commentary** 
 
-**Breen J** & Rabanus-Wallace MT. (2019). New tricks for old wheat. _Nature Plants_. 5:1108–1109. doi:10.1038/s41477-019-0528-3. **First Author/Invited Commentary** 
-
-Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, Penno MAS, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M, Brown HM & Rumbold AR. (2019). It takes a community to conceive: An analysis of the scope, nature and accuracy of online sources of health information for couples trying to conceive. _Reproductive Biomedicine & Society Online_. doi:10.1016/j.rbms.2019.08.004
+Kedzior SGE, Bianco-Miotto T, **Breen J**, Diener KR, Donnelley M, Dunning KR, Penno MAS, Schjenken JE, Sharkey DJ, Hodyl NA, Fullston T, Gardiner M, Brown HM & Rumbold AR. (2019). It takes a community to conceive: An analysis of the scope, nature and accuracy of online sources of health information for couples trying to conceive. _Reproductive Biomedicine & Society Online_. doi:[10.1016/j.rbms.2019.08.004](https://doi.org/10.1016/j.rbms.2019.08.004).
 
 Siggs OM, Souzeau E, **Breen J**, Qassim A, Zhou T, Dubowsky A, Ruddle JB & Craig JE. (2019). Autosomal dominant nanophthalmos and high hyperopia associated with a C-terminal MYRF frameshift variant. _Molecular Vision_. 25:527-534. PMID:31700225
 
-Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). Short-term environmental enrichment, and not physical exercise, alleviate cognitive decline and anxiety from middle age onwards without affecting hippocampal gene expression. _Cognitive, Affective, and Behavioral Neuroscience_. 19(5): 1143-1169. doi:10.3758/s13415-019-00743-x
+Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). Short-term environmental enrichment, and not physical exercise, alleviate cognitive decline and anxiety from middle age onwards without affecting hippocampal gene expression. _Cognitive, Affective, and Behavioral Neuroscience_. 19(5): 1143-1169. doi:[10.3758/s13415-019-00743-x](https://doi.org/10.3758/s13415-019-00743-x)
 
-Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. (2019). Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. _Scienific Reports_. 9: 11966. doi:10.1038/s41598-019-48333-8
+Dinh DT, **Breen J**, Akison LK, DeMayo FJ, Brown HM, Robker RL & Russell DL. (2019). Characterization of progesterone receptor-chromatin binding properties and tissue-specific gene expression in mouse reproductive tissues. _Scienific Reports_. 9: 11966. doi:[10.1038/s41598-019-48333-8](https://doi.org/10.1038/s41598-019-48333-8).
 
-Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. _Behavioural Brain Research_. 368:111917. doi:10.1016/j.bbr.2019.111917
+Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Hannan AJ & Baune BT. (2019). The effects of short-term and long-term environmental enrichment on locomotion, mood-like behavior, cognition and hippocampal gene expression. _Behavioural Brain Research_. 368:111917. doi:[10.1016/j.bbr.2019.111917](https://doi.org/10.1016/j.bbr.2019.111917).
 
-Weyrich L, Farrer A, Eisenhofer R, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. (2019). Laboratory contamination over time during low-biomass sample analysis. _Molecular Ecology Resources_. 19(4):982-996. doi:10.1111/1755-0998.13011
+Weyrich L, Farrer A, Eisenhofer R, Arriola LA, YoungJ, Selway C, Handsley-Davis M, Adler CJ, **Breen J** & Cooper A. (2019). Laboratory contamination over time during low-biomass sample analysis. _Molecular Ecology Resources_. 19(4):982-996. doi:[10.1111/1755-0998.13011](https://doi.org/10.1111/1755-0998.13011)
 <ins> Preprint</ins>: *bioRxiv* [https://www.biorxiv.org/content/10.1101/460212v1](https://www.biorxiv.org/content/10.1101/460212v1)
 
-Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, **Breen J**, Pedersen S & Baune BT. (2019). Easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. _Brain Research Bulletin_. 148:118-130. doi:10.1016/j.brainresbull.2019.02.014
+Morgan J, Singhal G, Corrigan F, Jaehne EJ, Jawahar MC, **Breen J**, Pedersen S & Baune BT. (2019). Easing exercise induces depression-like, anxiety-like, and impaired cognitive-like behaviours and hippocampal dysfunction. _Brain Research Bulletin_. 148:118-130. doi:[10.1016/j.brainresbull.2019.02.014](https://doi.org/10.1016/j.brainresbull.2019.02.014).
 
-Lim M, Brown HM, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth EK, Dinh DT, Thompson JG, Dunning KR. (2019). Haemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. _Reproduction, Fertility and Development_, doi:10.1071/RD17321
+Lim M, Brown HM, Kind KL, **Breen J**, Anastasi MR, Ritter LJ, Tregoweth EK, Dinh DT, Thompson JG, Dunning KR. (2019). Haemoglobin expression in in vivo murine preimplantation embryos suggests a role in oxygen-regulated gene expression. _Reproduction, Fertility and Development_. doi:[10.1071/RD17321](https://doi.org/10.1071/RD17321).
 
-Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, **Breen J**, Perry VEA, Anderson RA & Rodgers RJ. (2019). Transcript abundance of stromal and thecal cell-related genes during bovine ovarian development. _PLOS One_. 14(3): e0213575. doi:10.1371/journal.pone.0213575
+Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, **Breen J**, Perry VEA, Anderson RA & Rodgers RJ. (2019). Transcript abundance of stromal and thecal cell-related genes during bovine ovarian development. _PLOS One_. 14(3): e0213575. doi:[10.1371/journal.pone.0213575](https://doi.org/10.1371/journal.pone.0213575).
 
-Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ & Sanders KLS. (2019). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_. 9(10): 2640. doi:10.1111/mec.15022
+Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ & Sanders KLS. (2019). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_. 9(10): 2640. doi:[10.1111/mec.15022](https://doi.org/10.1111/mec.15022).
 
 #### 2018
 {:.no_toc}
 
-Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:10.1093/femspd/fty074
+Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:[10.1093/femspd/fty074](https://doi.org/10.1093/femspd/fty074).
 
-Estrada O, **Breen J**, Richards SM & Cooper A. (2018). Ancient plant DNA in the genomic era. _Nature Plants_ 4:394–396. doi:10.1038/s41477-018-0187-9. **Corresponding/Senior Author**
+Estrada O, **Breen J**, Richards SM & Cooper A. (2018). Ancient plant DNA in the genomic era. _Nature Plants_ 4:394–396. doi:[10.1038/s41477-018-0187-9](https://doi.org/10.1038/s41477-018-0187-9). **Corresponding/Senior Author**
 
-MacLennan A, Kruer M, Baynam G, Moreno-De-Luca A, Wilson Y, Zhu C, Wintle R, Gecz, J, **On behalf of the members of the International Cerebral Palsy Genomics Consortium**. (2018). Cerebral palsy and genomics: an international consortium. *Developmental Medicine and Child Neurology*. 60(2), 209-210. doi:10.1111/dmcn.13643
+MacLennan A, Kruer M, Baynam G, Moreno-De-Luca A, Wilson Y, Zhu C, Wintle R, Gecz, J, **On behalf of the members of the International Cerebral Palsy Genomics Consortium**. (2018). Cerebral palsy and genomics: an international consortium. *Developmental Medicine and Child Neurology*. 60(2):209-210. doi:[10.1111/dmcn.13643](https://doi.org/10.1111/dmcn.13643).
 
-Alaux M, Rogers J, Letellier T, Flores R, Alfama F, Pommier C, Mohellibi N, Durand S, Kimmel E, Michotey C, Guerche C, Loaec M, Lainé M, Steinbach D, Choulet F, Rimbert H, Leroy P, Guilhot N, Salse J, Feuillet C, **International Wheat Genome Sequencing Consortium**, Paux E,  Eversole K, Adam-Blondon A-F and Quesneville H. (2018). Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data. _Genome Biology_. 19: 111. doi: 10.1186/s13059-018-1491-4
+Alaux M, Rogers J, Letellier T, Flores R, Alfama F, Pommier C, Mohellibi N, Durand S, Kimmel E, Michotey C, Guerche C, Loaec M, Lainé M, Steinbach D, Choulet F, Rimbert H, Leroy P, Guilhot N, Salse J, Feuillet C, **International Wheat Genome Sequencing Consortium**, Paux E,  Eversole K, Adam-Blondon A-F and Quesneville H. (2018). Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data. _Genome Biology_. 19:111. doi: [10.1186/s13059-018-1491-4](https://doi.org/10.1186/s13059-018-1491-4)
 
-Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Forrest A, Beyer M, Robertson SA and Barry SC. (2018), Unravelling the molecular basis for regulatory T cell plasticity. _Clinical & Translational Immunology_. 7(2):e1011. doi:10.1002/cti2.1011
+Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Forrest A, Beyer M, Robertson SA and Barry SC. (2018), Unravelling the molecular basis for regulatory T cell plasticity. _Clinical & Translational Immunology_. 7(2):e1011. doi:[10.1002/cti2.1011](https://doi.org/10.1002/cti2.1011).
 
-Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J.** (2018). msgbsR: an R package for analysing methylation-sensitive restriction enzyme sequencing data. *Scientific Reports*. 2190. doi:10.1038/s41598-018-19655-w **Corresponding/Senior Author**
+Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J.** (2018). msgbsR: an R package for analysing methylation-sensitive restriction enzyme sequencing data. *Scientific Reports*. 2190. doi:[10.1038/s41598-018-19655-w](https://doi.org/10.1038/s41598-018-19655-w). **Corresponding/Senior Author**
 
 #### 2017
 {:.no_toc}
 
-**Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. Preprint</ins>: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477)
+**Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477). **PREPRINT**
 
 Xie H, Konate M, Sai N, Tesfamicael KG, Cavagnaro T, Gilliham T, **Breen J**, Metcalfe A, Stephen JR, DeBei R, Collins C & Rodriguez Lopez CM. (2017). Global DNA methylation patterns can play a role in defining terroir in grapevine (*Vitis vinifera* cv. Shiraz). *Frontiers in Plant Science*. 8:1860. doi:10.3389/fpls.2017.01860 <br>
 <ins> Preprint</ins>: *bioRxiv* [https://www.biorxiv.org/content/early/2017/04/29/127977](https://www.biorxiv.org/content/early/2017/04/29/127977)
@@ -246,13 +216,53 @@ Choulet F, Wicker T, Rustenholz, C, Paux, E, Salse, J, Leroy P, Schlub S, LePasl
 
 Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet C, **Breen J**, Appels R. (2007). Wheat genome structure and function: genome sequence data and the International Wheat Genome Sequencing Consortium. *Crop & Pasture Science* 58: 470-75. [doi:10.1071/AR06155](http://dx.doi.org/10.1071/AR06155)
 
+---
+
+## Competitive Grants & External Research Funding
+
+#### Current
+{:.no_toc}
+
+- Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **Jimmy Breen**. Medical Research Future Fund (MRFF). "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
+
+- D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, USA CF Foundation Grant. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,491 for 2 years
+
+- Alastair MacLennan, Jozef Gecz, Mark Corbett, Clare van Eyk, **James Breen**, Christopher Barnett, S MacLennan, J Rice, R Russo. ORG3921: Cerebral Palsy Foundation Research Grant. “The genetic origins of cerebral palsy”. 4 years
+
+- Sarah Robertson, John Schjenken, Emilie Rissman, Lachlan Moldenhauer & **James Breen**. 2018 Channel 7 CRF - Research Grant. “Impact of Phthalate exposure in fathers on programming of offspring neurological phenotype”. 2 years
+
+- Kate Sanders, Bruno Fonseca Simoes, **James Breen (CI),** David Hunt, Belinda Chang, Davide Pisani, Mark Hutchinson, Emma Teeling. 2018 ARC Discovery Grant (DP180101688) **Cat. 1 Funding**. "How are visual gene pathways lost and restored during reptile evolution?"
+
+- Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen (CIF)**. 2017 NHRMC Project Grant (APP1120543) **Cat. 1 Funding**. "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
+
+- Claire Roberts, Tina Bianco-Miotto, Gus Dekker & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy. "Maternal molecular profiles reflect placental function and development across gestation"
+
+#### Completed
+{:.no_toc}
+
+- Cassandra Collins, Carlos Rodriguez Lopez, Roberta De Bei, **James Breen (PI)**, Timothy Cavagnaro, Matthew Gilliham & Andrew Metcalfe. 2015 AGRF Pilot program in Genomics for Agriculture and Environmental Sectors **Cat 2 Funding**. "The eco-genomics of wine terroir"
+
+- Michael J Wilkinson, **James Breen (CI)**, Thomas F Higham & Ron Pinhasi. 2013-2015 ARC Discovery Grant (DP130104227) **Cat. 1 Funding**. "Reconstructing wheat evolution using ancient DNA"
+
+- Cassandra Collins, Roberta De Bei, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 Waite Research Institute Platform Technologies. "We prefer them old: Epigenetic control of wine quality in response to grapevine age"
+
+- Iain Searle, Cassandra Collins, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 University of Adelaide Interdisciplinary Research Funding (IRF). "RNA directed epigenetics in grapevines- a paradigm sh¡ft for plant and animal breeding"
+
+---
+
 ### Conference Proceeding
 
-Wilkinson MJ, Ronca S, Clare A, Riley MC, Young MJ, Warren J, Ford CS & Breen J. (2017). Characterizing difference in pollen carriage by bumblebee species in unimproved pastures. *Grassland resources for extensive farming systems in marginal lands: major drivers and future scenarios. Proceedings of the 19th Symposium of the European Grassland Federation*. Alghero, Italy, 7-10 May 2017. Pages 633-635   [https://www.cabdirect.org/cabdirect/abstract/20173250776](https://www.cabdirect.org/cabdirect/abstract/20173250776)
+**Breen J**, Smith MD, McAninch D, Jankovic-Karasoulos T, McCullough D, Pederson SM, Bogias KJ, Wan Q, Bianco-Miotto T & Roberts CT. (2020). Defining Co-expression Patterns and Molecular Pathways of the Placenta During Early Pregnancy. REPRODUCTIVE SCIENCES 27 (SUPPL 1), 251A-251A
+
+Wan Q, **Breen J**, Leemaqz SYL, Pederson SM, Jankovic-Karasoulos T, McAninch D, McCullough D, Smith MD, Bogias KJ, Roberts CT. & Bianco-Miotto T. (2020). Characterisation of Placental DNA Methylation Across Early Human Gestation. REPRODUCTIVE SCIENCES 27 (SUPPL 1), 249A-249A.
+
+Yeung DT, Greenwood M, Rhen J, Heatley SA, McClure B, Eadie LN, **Breen J**, Schutz C, Trahair TN, Wei AH, Dalla-Pozza L, Sutton R, Bradstock KF, Osborn MP & White CL. (2019). High Risk Genomic Alterations Identified at the Time of Diagnosis Are Strongly Associated with MRD and Subsequent Poor Outcomes in AYA ALL Patients Treated on a Pediatric Inspired Chemotherapy Regimen. _Blood_. 134(Supplement_1): 3949. doi:[10.1182/blood-2019-127788](https://doi.org/10.1182/blood-2019-127788).
+
+Wilkinson MJ, Ronca S, Clare A, Riley MC, Young MJ, Warren J, Ford CS & **Breen J**. (2017). Characterizing difference in pollen carriage by bumblebee species in unimproved pastures. *Grassland resources for extensive farming systems in marginal lands: major drivers and future scenarios. Proceedings of the 19th Symposium of the European Grassland Federation*. Alghero, Italy, 7-10 May 2017. Pages 633-635 [https://www.cabdirect.org/cabdirect/abstract/20173250776](https://www.cabdirect.org/cabdirect/abstract/20173250776)
 
 ### Conference submissions (as presenting author)
 
-Mayne Benjamin T, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J**. (2017). msgbsR: an R package for analysing methylation-sensitive genotyping-by-sequencing data Genotyping-by-sequencing (GBS). *BioC2017: BioC 2017: Where Software and Biology Connect* Boston, USA. Poster
+Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J**. (2017). msgbsR: an R package for analysing methylation-sensitive genotyping-by-sequencing data Genotyping-by-sequencing (GBS). *BioC2017: BioC 2017: Where Software and Biology Connect* Boston, USA. Poster
 
 **Breen J**, Rodriguez Lopez CM, De Bei R, David R, Searle I & Collins C. (2016). Whole methylome analysis of grapevine (Vitis vinifera) reveals tissue specific DNA methylation variation. *Australian Bioinformatics and Computational Biology Society (ABACBS) Annual Research Meeting 2016*. November 2016. Presentation
 
