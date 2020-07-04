@@ -84,9 +84,13 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 #### 2020
 {:.no_toc}
 
-Brown CY, Sadlon TJ, Hope CM, Wong YY, Wong SW, Liu N, Withers H, Brown KA, Bandara V,  Gundsambuu B, Pederson SM, **Breen J**, Robertson SA, Forrest A, Beyer M & Barry SC. (2020). Regulatory T cell adaptation to self, environment and host tissues. Plasticity or loss of function in disease. _Frontiers of Immunology_. Accepted May 2020
+McClure BJ, Heatley SL, Rehn J, **Breen J**, Sutton R, Hughes TP, Suppiah R, Revesz T, Osborn M, White D, Yeung DT & White DL. (2020). High-risk B-cell acute lymphoblastic leukaemia presenting with hypereosinophilia and acquiring a novel PAX5 fusion on relapse. _British Journal of Haematology_. *In Review*  
 
-Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2020). Integrative analysis of mutated genes and mutational processes reveals seven colorectal cancer subtypes. _bioRxiv_. doi:[10.1101/2020.05.18.101022](https://doi.org/10.1101/2020.05.18.101022). **PREPRINT**
+**Breen J**, McAninch D, Jankovic-Karasoulos T, McCullough D, Smith MD, Bogias KJ, Wan Q, Choudhry A, Hin N, Pederson SM, Bianco-Miotto T & Roberts CT. (2020). Temporal placental genome wide expression profiles reflect three phases of utero-placental blood flow during early to mid human gestation. _MedRxiv_. doi:[10.1101/2020.06.25.20139709](https://doi.org/10.1101/2020.06.25.20139709). **PREPRINT**  
+
+Brown CY, Sadlon TJ, Hope CM, Wong YY, Wong SW, Liu N, Withers H, Brown KA, Bandara V,  Gundsambuu B, Pederson SM, **Breen J**, Robertson SA, Forrest A, Beyer M & Barry SC. (2020). Regulatory T cell adaptation to self, environment and host tissues. Plasticity or loss of function in disease. _Frontiers of Immunology_. Accepted May 2020  
+
+Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2020). Integrative analysis of mutated genes and mutational processes reveals seven colorectal cancer subtypes. _bioRxiv_. doi:[10.1101/2020.05.18.101022](https://doi.org/10.1101/2020.05.18.101022). **PREPRINT**  
 
 Fabres PJ, Sai N, Pederson SM, Zheng F, **Breen J**, Gilliham M, Tricker P, Rodríguez López CM, David R. (2020). Dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) display distinct, regional expression patterns that correlate with tRNA expression. _bioRxiv_. doi:[10.1101/2020.04.13.039131](https://doi.org/10.1101/2020.04.13.039131). **PREPRINT**
 
