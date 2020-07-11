@@ -84,9 +84,11 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 #### 2020
 {:.no_toc}
 
+Hng CH, Camp E, Anderson P, **Breen J**, Zannettino A & Gronthos S. (2020). HOPX regulates bone marrow-derived mesenchymal stromal cell fate determination via suppression of adipogenic gene pathways. _Scientific Reports_. 10:11345. doi:[10.1038/s41598-020-68261-2](https://doi.org/10.1038/s41598-020-68261-2).
+
 McClure BJ, Heatley SL, Rehn J, **Breen J**, Sutton R, Hughes TP, Suppiah R, Revesz T, Osborn M, White D, Yeung DT & White DL. (2020). High-risk B-cell acute lymphoblastic leukaemia presenting with hypereosinophilia and acquiring a novel PAX5 fusion on relapse. _British Journal of Haematology_. *In Review*  
 
-**Breen J**, McAninch D, Jankovic-Karasoulos T, McCullough D, Smith MD, Bogias KJ, Wan Q, Choudhry A, Hin N, Pederson SM, Bianco-Miotto T & Roberts CT. (2020). Temporal placental genome wide expression profiles reflect three phases of utero-placental blood flow during early to mid human gestation. _MedRxiv_. doi:[10.1101/2020.06.25.20139709](https://doi.org/10.1101/2020.06.25.20139709). **PREPRINT**  
+**Breen J**, McAninch D, Jankovic-Karasoulos T, McCullough D, Smith MD, Bogias KJ, Wan Q, Choudhry A, Hin N, Pederson SM, Bianco-Miotto T & Roberts CT. (2020). Temporal placental genome wide expression profiles reflect three phases of utero-placental blood flow during early to mid human gestation. _MedRxiv_. [doi:10.1101/2020.06.25.20139709](https://doi.org/10.1101/2020.06.25.20139709). **PREPRINT**  
 
 Brown CY, Sadlon TJ, Hope CM, Wong YY, Wong SW, Liu N, Withers H, Brown KA, Bandara V,  Gundsambuu B, Pederson SM, **Breen J**, Robertson SA, Forrest A, Beyer M & Barry SC. (2020). Regulatory T cell adaptation to self, environment and host tissues. Plasticity or loss of function in disease. _Frontiers of Immunology_. Accepted May 2020  
 
