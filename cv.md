@@ -367,7 +367,7 @@ Primary supervised in **bold**
 - Doan Thao Dinh (PhD, Robinson Research Institute, University of Adelaide)
     - Now working at the University of Adelaide Medical School
 - Oscar Santamaria (PhD, Australian Centre for Ancient DNA, University of Adelaide)
-    - Now working at ACAD and University of Adelaide Bioinformatics Hub
+    - Currently Postdoc at Laboratoire AMIS CNRS UMR 5288, University of Toulouse, France
 - Ben Mayne (PhD, Robinson Research Institute, University of Adelaide)
     - Formerly SAHMRI Bioinformatics Offer, now working as a postdoc at CSIRO in Western Australia
 - Tim Rabanus-Wallace (PhD, Australian Centre for Ancient DNA, University of Adelaide)
