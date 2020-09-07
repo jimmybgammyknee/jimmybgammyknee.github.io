@@ -84,7 +84,10 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 #### 2020
 {:.no_toc}
 
+
 Liu N, Sadlon T, Wong YY, Pederson SM, Breen J & Barry SC. (2020). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _bioRxiv_. doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). **PREPRINT** 
+
+Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _MedRxiv_. [doi:10.1101/2020.08.19.20177873](https://doi.org/10.1101/2020.08.19.20177873). **PREPRINT**  
 
 Hng CH, Camp E, Anderson P, **Breen J**, Zannettino A & Gronthos S. (2020). HOPX regulates bone marrow-derived mesenchymal stromal cell fate determination via suppression of adipogenic gene pathways. _Scientific Reports_. 10:11345. doi:[10.1038/s41598-020-68261-2](https://doi.org/10.1038/s41598-020-68261-2).
 
@@ -369,7 +372,7 @@ Primary supervised in **bold**
 - Doan Thao Dinh (PhD, Robinson Research Institute, University of Adelaide)
     - Now working at the University of Adelaide Medical School
 - Oscar Santamaria (PhD, Australian Centre for Ancient DNA, University of Adelaide)
-    - Now working at ACAD and University of Adelaide Bioinformatics Hub
+    - Currently Postdoc at Laboratoire AMIS CNRS UMR 5288, University of Toulouse, France
 - Ben Mayne (PhD, Robinson Research Institute, University of Adelaide)
     - Formerly SAHMRI Bioinformatics Offer, now working as a postdoc at CSIRO in Western Australia
 - Tim Rabanus-Wallace (PhD, Australian Centre for Ancient DNA, University of Adelaide)
