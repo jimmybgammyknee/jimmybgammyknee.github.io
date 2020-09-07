@@ -85,7 +85,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 {:.no_toc}
 
 
-Liu N, Sadlon T, Wong YY, Pederson SM, Breen J & Barry SC. (2020). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _bioRxiv_. doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). **PREPRINT** 
+Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2020). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _bioRxiv_. doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). **PREPRINT** 
 
 Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _MedRxiv_. [doi:10.1101/2020.08.19.20177873](https://doi.org/10.1101/2020.08.19.20177873). **PREPRINT**  
 
