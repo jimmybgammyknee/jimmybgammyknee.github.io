@@ -84,6 +84,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 #### 2020
 {:.no_toc}
 
+Liu N, Sadlon T, Wong YY, Pederson SM, Breen J & Barry SC. (2020). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _bioRxiv_. doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). **PREPRINT** 
+
 Hng CH, Camp E, Anderson P, **Breen J**, Zannettino A & Gronthos S. (2020). HOPX regulates bone marrow-derived mesenchymal stromal cell fate determination via suppression of adipogenic gene pathways. _Scientific Reports_. 10:11345. doi:[10.1038/s41598-020-68261-2](https://doi.org/10.1038/s41598-020-68261-2).
 
 McClure BJ, Heatley SL, Rehn J, **Breen J**, Sutton R, Hughes TP, Suppiah R, Revesz T, Osborn M, White D, Yeung DT & White DL. (2020). High-risk B-cell acute lymphoblastic leukaemia presenting with hypereosinophilia and acquiring a novel PAX5 fusion on relapse. _British Journal of Haematology_. *Accepted 05/07/2020*  
