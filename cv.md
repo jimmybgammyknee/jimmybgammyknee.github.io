@@ -238,20 +238,20 @@ Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet 
 
 - Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **Jimmy Breen**. Medical Research Future Fund (MRFF). "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
 
-- D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, USA CF Foundation Grant. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,491 for 2 years
-
 - Alastair MacLennan, Jozef Gecz, Mark Corbett, Clare van Eyk, **James Breen**, Christopher Barnett, S MacLennan, J Rice, R Russo. ORG3921: Cerebral Palsy Foundation Research Grant. “The genetic origins of cerebral palsy”. 4 years
-
-- Sarah Robertson, John Schjenken, Emilie Rissman, Lachlan Moldenhauer & **James Breen**. 2018 Channel 7 CRF - Research Grant. “Impact of Phthalate exposure in fathers on programming of offspring neurological phenotype”. 2 years
 
 - Kate Sanders, Bruno Fonseca Simoes, **James Breen (CI),** David Hunt, Belinda Chang, Davide Pisani, Mark Hutchinson, Emma Teeling. 2018 ARC Discovery Grant (DP180101688) **Cat. 1 Funding**. "How are visual gene pathways lost and restored during reptile evolution?"
 
 - Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen (CIF)**. 2017 NHRMC Project Grant (APP1120543) **Cat. 1 Funding**. "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
 
-- Claire Roberts, Tina Bianco-Miotto, Gus Dekker & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy. "Maternal molecular profiles reflect placental function and development across gestation"
-
 #### Completed
 {:.no_toc}
+
+- D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, USA CF Foundation Grant. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,491 for 2 years
+
+- Sarah Robertson, John Schjenken, Emilie Rissman, Lachlan Moldenhauer & **James Breen**. 2018 Channel 7 CRF - Research Grant. “Impact of Phthalate exposure in fathers on programming of offspring neurological phenotype”. 2 years
+
+- Claire Roberts, Gus Dekker, Tina Bianco-Miotto & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy. "Maternal molecular profiles reflect placental function and development across gestation"
 
 - Cassandra Collins, Carlos Rodriguez Lopez, Roberta De Bei, **James Breen (PI)**, Timothy Cavagnaro, Matthew Gilliham & Andrew Metcalfe. 2015 AGRF Pilot program in Genomics for Agriculture and Environmental Sectors **Cat 2 Funding**. "The eco-genomics of wine terroir"
 
