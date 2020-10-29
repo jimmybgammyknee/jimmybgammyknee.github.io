@@ -84,6 +84,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 #### 2020
 {:.no_toc}
 
+Tangseefa P, Martin SK, Chin PY, **Breen J**, Mah CY, Baldock PA, Wittert GA, Page AJ, Proud CG, Fitter S & Zannettino ACW. (2020). The mTORC1 complex in pre-osteoblasts regulates whole-body energy metabolism independently of osteocalcin. _Bone Research_. Accepted 27/10/2020.
 
 Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2020). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _bioRxiv_. doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). **PREPRINT** 
 
