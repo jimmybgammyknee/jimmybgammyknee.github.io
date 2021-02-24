@@ -20,7 +20,7 @@ Bioinformatics & Genomics Researcher
 
 ## Professional Associations & Committees
 
-* Vice-President of the Australian Bioinformatics & Computational Biology Scoiety (ABACBS) - Elected December 2019
+* President of the Australian Bioinformatics & Computational Biology Scoiety (ABACBS) - Elected December 2019
 * Member (& Former Secretary) of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
 * Member of the [BioinfoSummer 2016 Conference Committee](http://amsi.org.au/events/event/bioinfosummer-2016/)
 * Member of the [2017 COMBINE Symposium](https://combine.org.au/symposium-2017/) organisation committee
@@ -30,6 +30,11 @@ Bioinformatics & Genomics Researcher
 
 #### Current
 {:.no_toc}
+
+`2020-Current`
+__South Australian Genomics Centre (SAGC)__<br>
+Head of Bioinformatics <br>
+<br>
 
 `2018-Current`
 __South Australian Health & Medical Research Institute (SAHMRI)__<br>
@@ -81,10 +86,14 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Journal Articles
 
+#### 2021
+
+Dini P, Kalbfleisch T, Carossino M, El-Sheikh Ali H, Loux SC, Esteller-Vico A, Norris JK, Anand L, Uribe-Salazar JM, Scoggin KM, Rodriguez Lopez CM, Breen J, Bailey E, Daels P & Ball BA. (2021). Parental bias in placental gene expression: A closer look at reciprocal paternal and maternal gene interaction in the equine placenta.  *Proceedings of the National Academy of Sciences*. Accepted 25/02/2021
+
+Tangseefa P, Martin SK, Chin PY, **Breen J**, Mah CY, Baldock PA, Wittert GA, Page AJ, Proud CG, Fitter S & Zannettino ACW. (2021). The mTORC1 complex in pre-osteoblasts regulates whole-body energy metabolism independently of osteocalcin. _Bone Research_ 9:10
+
 #### 2020
 {:.no_toc}
-
-Tangseefa P, Martin SK, Chin PY, **Breen J**, Mah CY, Baldock PA, Wittert GA, Page AJ, Proud CG, Fitter S & Zannettino ACW. (2020). The mTORC1 complex in pre-osteoblasts regulates whole-body energy metabolism independently of osteocalcin. _Bone Research_. Accepted 27/10/2020.
 
 Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2020). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _bioRxiv_. doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). **PREPRINT** 
 
