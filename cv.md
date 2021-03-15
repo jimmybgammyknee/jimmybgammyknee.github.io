@@ -88,6 +88,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
+Rodriguez Lopez CM, Fabres PJ, Pederson SM, Zheng F, Breen J, Gilliham M, Tricker P, David R, Sai N, Anand L, Stewart A, Clements B & Lampugnani E. (2021). Tissue and regional expression patterns of dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) and their evolutionary co-appearance with vasculature in land plants. *In Review*. _Horticulture Research_ 
+
 Dini P, Kalbfleisch T, Carossino M, El-Sheikh Ali H, Loux SC, Esteller-Vico A, Norris JK, Anand L, Uribe-Salazar JM, Scoggin KM, Rodriguez Lopez CM, Breen J, Bailey E, Daels P & Ball BA. (2021). Parental bias in placental gene expression: A closer look at reciprocal paternal and maternal gene interaction in the equine placenta.  *Proceedings of the National Academy of Sciences*. Accepted 25/02/2021
 
 Tangseefa P, Martin SK, Chin PY, **Breen J**, Mah CY, Baldock PA, Wittert GA, Page AJ, Proud CG, Fitter S & Zannettino ACW. (2021). The mTORC1 complex in pre-osteoblasts regulates whole-body energy metabolism independently of osteocalcin. _Bone Research_ 9:10
