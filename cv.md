@@ -88,6 +88,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
+Knight LSW, Ruddle JB, Taranath DA, Goldberg I, Smith JEH, Gole G, Chiang MY, Willett F, D’Mellow G, Breen J, Qassim A, Mullany S, Elder JE, Vincent AL, Staffieri SE, Kearns LS, Mackey DA, Luu S, Siggs OM, Souzeau E & Craig JE. (2021). Childhood and Early-Onset Glaucoma Classification and Genetic Profile in a Large Australasian Disease Registry. _Ophthalmology_. Accepted 13/04/2021 
+
 Rodriguez Lopez CM, Fabres PJ, Pederson SM, Zheng F, Breen J, Gilliham M, Tricker P, David R, Sai N, Anand L, Stewart A, Clements B & Lampugnani E. (2021). Tissue and regional expression patterns of dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) and their evolutionary co-appearance with vasculature in land plants. *In Review*. _Horticulture Research_ 
 
 Dini P, Kalbfleisch T, Carossino M, El-Sheikh Ali H, Loux SC, Esteller-Vico A, Norris JK, Anand L, Uribe-Salazar JM, Scoggin KM, Rodriguez Lopez CM, Breen J, Bailey E, Daels P & Ball BA. (2021). Parental bias in placental gene expression: A closer look at reciprocal paternal and maternal gene interaction in the equine placenta.  *Proceedings of the National Academy of Sciences*. Accepted 25/02/2021
