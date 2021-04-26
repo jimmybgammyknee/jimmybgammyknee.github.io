@@ -22,18 +22,21 @@ Bioinformatics & Genomics Researcher
 ## Academic & Professional Positions
 
 `2020-Current`
-__South Australian Genomics Centre (SAGC)__<br>
-Head of Bioinformatics <br>
+Head of Bioinformatics, <br>
+__South Australian Genomics Centre (SAGC)__ <br>
 <br>
 
-`2018-Current`
-__South Australian Health & Medical Research Institute (SAHMRI)__<br>
-Bioinformatics Core Facility Leader <br>
+`2020-Current`
+Senior Lecturer, Adelaide Medical School <br>
+__University of Adelaide__ <br>
 <br>
-__University of Adelaide__<br>
-Research Leader in Computational Biology, Robinson Research Institute <br>
-Senior Lecturer, University of Adelaide Bioinformatics Hub <br>
-(Adelaide, SA Australia)
+
+`2018-Current` 
+Research Leader in Computational Biology, <br>
+__Robinson Research Institute__, <br>
+__University of Adelaide__ <br>
+
+---
 
 `2016-2018`
 Bioinformatics Leader, Robinson Research Institute & <br>
@@ -54,6 +57,8 @@ Australian Genome Research Facility (AGRF) Brisbane node (Brisbane, QLD Australi
 Postdoctoral Research Associate <br>
 Institute of Plant Biology <br>
 University of Zurich (Zurich, Switzerland)
+
+---
 
 ## Education
 
