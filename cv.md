@@ -24,12 +24,10 @@ Bioinformatics & Genomics Researcher
 `2020-Current`
 Head of Bioinformatics, <br>
 __South Australian Genomics Centre (SAGC)__ <br>
-<br>
 
 `2020-Current`
 Senior Lecturer, Adelaide Medical School <br>
 __University of Adelaide__ <br>
-<br>
 
 `2018-Current` 
 Research Leader in Computational Biology, <br>
