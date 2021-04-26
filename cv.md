@@ -90,9 +90,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 Mullany S, Souzeau E, Klebe S, Zhou T, Knight LSW, Qassim A, Berry E, Marshall H, Hussey M, Dubowsky A, Hassall MM, Breen J, Hassall M, Mills RA, Craig JE & Siggs OM. (2021). A novel GSN variant affecting gelsolin domain 4 is associated with Familial Amyloidosis of the Finnish type. _Human Mutation_. _In review_
 
-Knight LSW, Ruddle JB, Taranath DA, Goldberg I, Smith JEH, Gole G, Chiang MY, Willett F, D’Mellow G, Breen J, Qassim A, Mullany S, Elder JE, Vincent AL, Staffieri SE, Kearns LS, Mackey DA, Luu S, Siggs OM, Souzeau E & Craig JE. (2021). Childhood and Early-Onset Glaucoma Classification and Genetic Profile in a Large Australasian Disease Registry. _Ophthalmology_. Accepted 13/04/2021 
+Rodriguez Lopez CM, Fabres PJ, Pederson SM, Zheng F, Breen J, Gilliham M, Tricker P, David R, Sai N, Anand L, Stewart A, Clements B & Lampugnani E. (2021). Tissue and regional expression patterns of dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) and their evolutionary co-appearance with vasculature in land plants. _Horticulture Research_ . Accepted 14/04/2021
 
-Rodriguez Lopez CM, Fabres PJ, Pederson SM, Zheng F, Breen J, Gilliham M, Tricker P, David R, Sai N, Anand L, Stewart A, Clements B & Lampugnani E. (2021). Tissue and regional expression patterns of dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) and their evolutionary co-appearance with vasculature in land plants. *In Review*. _Horticulture Research_ 
+Knight LSW, Ruddle JB, Taranath DA, Goldberg I, Smith JEH, Gole G, Chiang MY, Willett F, D’Mellow G, Breen J, Qassim A, Mullany S, Elder JE, Vincent AL, Staffieri SE, Kearns LS, Mackey DA, Luu S, Siggs OM, Souzeau E & Craig JE. (2021). Childhood and Early-Onset Glaucoma Classification and Genetic Profile in a Large Australasian Disease Registry. _Ophthalmology_. Accepted 13/04/2021 
 
 Dini P, Kalbfleisch T, Carossino M, El-Sheikh Ali H, Loux SC, Esteller-Vico A, Norris JK, Anand L, Uribe-Salazar JM, Scoggin KM, Rodriguez Lopez CM, Breen J, Bailey E, Daels P & Ball BA. (2021). Parental bias in placental gene expression: A closer look at reciprocal paternal and maternal gene interaction in the equine placenta.  *Proceedings of the National Academy of Sciences*. 118(16): e2006474118; https://doi.org/10.1073/pnas.2006474118
 
