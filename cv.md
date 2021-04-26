@@ -3,33 +3,23 @@ layout: default
 title: CV
 ---
 
-## Curriculum Vitae
-{:.no_toc}
-
-Dr James (Jimmy) Breen  <br>
+# Dr James (Jimmy) Breen
 Bioinformatics & Genomics Researcher
 
-<a href="mailto:jimmymbreen@gmail.com">Email</a> <br>
-<a href="http://github.com/jimmybgammyknee">Github</a> <br>
-<a href="http://twitter.com/wessidepraxis">Twitter</a> <br>
-<a href="https://bitbucket.org/gammyknee">Bitbucket</a> <br>
-<a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en">Google Scholar</a> <br>
 
-* TOC
-{:toc}
-
-## Professional Associations & Committees
-
-* President of the Australian Bioinformatics & Computational Biology Society (ABACBS) - Elected December 2019
-* Member (& Former Secretary) of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
-* Member of the [BioinfoSummer 2016 Conference Committee](http://amsi.org.au/events/event/bioinfosummer-2016/)
-* Member of the [2017 COMBINE Symposium](https://combine.org.au/symposium-2017/) organisation committee
-* Member of the [Australian and New Zealand Placental Research Association (ANZPRA)](https://www.anzpra.org/)
+<div id="webaddress">
+<a href="mailto:jimmymbreen@gmail.com">jimmymbreen@gmail.com</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/jimmybgammyknee">jimmybgammyknee</a>
+|
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/wessidepraxis">wessidepraxis</a>
+|
+<i class="fa fa-bitbucket"></i> <a href="https://bitbucket.org/gammyknee">gammyknee</a>
+|
+<span class="fab fa-scholar fa-xs"></span> <a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en">Google Schoolar</a>
+</div>
 
 ## Academic & Professional Positions
-
-#### Current
-{:.no_toc}
 
 `2020-Current`
 __South Australian Genomics Centre (SAGC)__<br>
@@ -46,27 +36,24 @@ Senior Lecturer, University of Adelaide Bioinformatics Hub <br>
 (Adelaide, SA Australia)
 
 `2016-2018`
-__University of Adelaide__<br>
 Bioinformatics Leader, Robinson Research Institute & <br>
 University of Adelaide Bioinformatics Hub <br>
-(Adelaide, SA Australia)
+University of Adelaide (Adelaide, SA Australia)
 
 `2013-16`
-__University of Adelaide__ <br>
 Senior Research Associate <br>
 Australian Centre for Ancient DNA (ACAD) & <br>
-School of Agriculture, Food and Wine <br>
-(Adelaide, SA Australia)
+School of Agriculture, Food and Wine, <br>
+University of Adelaide (Adelaide, SA Australia)
 
 `2012-13`
-__Australian Genome Research Facility (AGRF)__ <br>
 Bioinformatics Officer <br>
-Brisbane node (Brisbane, QLD Australia)
+Australian Genome Research Facility (AGRF) Brisbane node (Brisbane, QLD Australia)
 
 `2009-12`
-__University of Zurich__ <br>
 Postdoctoral Research Associate <br>
-Institute of Plant Biology (Zurich, Switzerland)
+Institute of Plant Biology <br>
+University of Zurich (Zurich, Switzerland)
 
 ## Education
 
@@ -99,7 +86,6 @@ Dini P, Kalbfleisch T, Carossino M, El-Sheikh Ali H, Loux SC, Esteller-Vico A, N
 Tangseefa P, Martin SK, Chin PY, **Breen J**, Mah CY, Baldock PA, Wittert GA, Page AJ, Proud CG, Fitter S & Zannettino ACW. (2021). The mTORC1 complex in pre-osteoblasts regulates whole-body energy metabolism independently of osteocalcin. _Bone Research_ 9:10
 
 #### 2020
-{:.no_toc}
 
 Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2020). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _bioRxiv_. doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). **PREPRINT** 
 
@@ -122,7 +108,6 @@ Kennedy S, Jarboui M-A, Srihari S, Raso C, Bryan K, Dernayka L, Charitou T, Bern
 Singhal G, Morgan J, Jawahar MC, Corrigan F, Jaehne EJ, Toben C, **Breen J**, Pederson SM, Manavis J, Hannan AJ & Baune BT. (2020). Effects of aging on the motor, cognitive and affective behaviors, neuroimmune responses and hippocampal gene expression. _Behavioural Brain Research_. 383: 112501.
 
 #### 2019
-{:.no_toc}
 
 Wan Q, Leemaqz SY, Pederson SM, McCullough D, McAninch DC, Jankovic-Karasoulos T, Smith MD, Bogias KJ, Liu N, **Breen J**, Roberts CT & Bianco-Miotto TM. (2019). Quality control measures for placental sample purity in DNA methylation array analyses. _Placenta_. 88: 8-11. doi:[10.1016/j.placenta.2019.09.006](https://doi.org/10.1016/j.placenta.2019.09.006).
 
@@ -150,7 +135,6 @@ Hatzirodos N, Hummitzsch K, Irving-Rodgers HF, **Breen J**, Perry VEA, Anderson 
 Crowe-Riddell JM, Simões BF, Partridge JC, Hunt DM, Delean S, Schwerdt JG, **Breen J**, Ludington A, Gower AJ & Sanders KLS. (2019). Phototactic tails: Evolution and molecular basis of a novel sensory trait in sea snakes. _Molecular Ecology_. 9(10): 2640. doi:[10.1111/mec.15022](https://doi.org/10.1111/mec.15022).
 
 #### 2018
-{:.no_toc}
 
 Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P, Paton JC, Kidd S. (2018). Specific growth conditions induce a _Streptococcus pneumoniae_ non-mucoidal, Small Colony Variant and determine the outcome of its co-culture with _Haemophilus influenzae_. _Pathogens and Disease_. fty074. doi:[10.1093/femspd/fty074](https://doi.org/10.1093/femspd/fty074).
 
@@ -165,7 +149,6 @@ Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Fo
 Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J.** (2018). msgbsR: an R package for analysing methylation-sensitive restriction enzyme sequencing data. *Scientific Reports*. 2190. doi:[10.1038/s41598-018-19655-w](https://doi.org/10.1038/s41598-018-19655-w). **Corresponding/Senior Author**
 
 #### 2017
-{:.no_toc}
 
 **Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477). **PREPRINT**
 
@@ -182,7 +165,6 @@ Weyrich LS, Duchene S, Soubrier J, Arriola L, Llamas B, **Breen J**, Morris AG, 
 Mayne BT, Leemaqz SY, Smith AK, **Breen J**, Roberts CT & Bianco-Miotto T. (2017). Accelerated placental aging in early onset preeclampsia pregnancies identified by DNA methylation *Epigenomics*. 9(3):279-289 [doi:10.2217/epi-2016-0103](http://dx.doi.org/10.2217/epi-2016-0103)
 
 #### 2016
-{:.no_toc}
 
 Mayne BT, Bianco-Miotto T, Buckberry S, **Breen J**, Clifton V, Shoubridge C & Roberts CT. (2016). Large scale gene expression meta-analysis reveals tissue-specific, sex-biased gene expression in humans *Frontiers in Genetics*. [doi:10.3389/fgene.2016.00183](http://dx.doi.org/10.3389/fgene.2016.00183)
 
@@ -191,7 +173,6 @@ Bianco-Miotto T, Mayne BT, Buckberry S, **Breen J**, Rodriguez Lopez CM & Robert
 Czechowski P, Clarke LJ, **Breen J**, Cooper A & Stevens MI. (2016). Antarctic eukaryotic soil diversity of the Prince Charles Mountains revealed by high-throughput sequencing *Soil Biology and Biochemistry* 95: 112-121 [doi:10.1016/j.soilbio.2015.12.013](http://dx.doi.org/10.1016/j.soilbio.2015.12.013)
 
 #### 2015
-{:.no_toc}
 
 Ellison A, Rodríguez López CM, Moran P, **Breen J**, Swain M, Megias M, Hegarty M, Wilkinson M, Pawluk R & Consuegra S. (2015). Epigenetic regulation of sex-ratios may explain natural variation in self-fertilisation rates. *Proceedings of the Royal Society B* 282(1819). [doi:10.1098/rspb.2015.1900](http://dx.doi.org/10.1098/rspb.2015.1900)
 
@@ -202,18 +183,14 @@ Young J, Weyrich LS, **Breen J**, Macdonald LM & Cooper A. (2015). Predicting th
 Mago R, Tabe L, Vautrin S, Simková H, Kubaláková M, Upadhyaya N, Berges H, Kong XY, **Breen J**, Dolezel J, Appels R, Ellis J & Spielmeyer W. (2015). Major haplotype divergence including multiple germin-like protein genes, at the wheat Sr2 adult plant stem rust resistance locus. *BMC Plant Biology* 14:379 [doi:10.1186/s12870-014-0379-z](http://dx.doi.org/10.1186/s12870-014-0379-z)
 
 #### 2014
-{:.no_toc}
 
 #### 2013
-{:.no_toc}
 
 **Breen J**, Wicker T, Shatalina M, Frenkel Z, Bertin I, Phillippe R, Spielmeyer W, Doležel J, Simková H, Scalabrin S, Vautrin S, Bergès H, International Wheat Genome Sequencing Consortium, Paux E, Fahima T, Korol A, Feuillet C & Keller B. (2013). A Physical Map of the Short Arm of Wheat Chromosome 1A. *PLoS ONE* 8(11), e80272. [doi:10.1371/journal.pone.0080272](http://dx.doi.org/10.1371/journal.pone.0080272)
 
 #### 2012
-{:.no_toc}
 
 #### 2011
-{:.no_toc}
 
 Mago R, Tabe L, McIntosh RA, Pretorius Z, Kota K, Paux E, Wicker T, **Breen J**, Lagudah ES, Ellis JG & Spielmeyer W. (2011). A multiple resistance locus on chromosome arm 3BS in wheat confers resistance to stem rust (Sr2), leaf rust (Lr27) and powdery mildew. *Theoretical and Applied Genomics* 123(4): 615-23. [doi:10.1007/s00122-011-1611-y](http://dx.doi.org/10.1007/s00122-011-1611-y)
 
@@ -224,7 +201,6 @@ Parlange F, Oberhaensli F, **Breen J**, Platzer M, Taudien S, Simkova H, Wicker 
 Mago R, Simkova H, Brown-Guedira G, Dreisigacker S, **Breen J**, Jin Y, Singh R, Appels R, Lagudah ES, Ellis J, Dolezel J & Spielmeyer W. (2011). An accurate DNA marker assay for stem rust resistance gene Sr2 in wheat. *Theoretical and Applied Genomics* 122(4): 735-44. [doi:10.1007/s00122-010-1482-7](http://dx.doi.org/10.1007/s00122-010-1482-7)
 
 #### 2010
-{:.no_toc}
 
 **Breen, J** & Bellgard, M. (2010). Germin-like proteins (GLPs) in cereal genomes: gene clustering and dynamic roles in plant defence. *Functional and Integrative Genomics* 10(4): 463-76. [doi:10.1007/s10142-010-0184-1](http://dx.doi.org/10.1007/s10142-010-0184-1)
 
@@ -235,13 +211,10 @@ Choulet F, Wicker T, Rustenholz, C, Paux, E, Salse, J, Leroy P, Schlub S, LePasl
 **Breen J**, Wicker T, Kong X, Zhang J, Ma W, Paux E, Feuillet C, Appels R & Bellgard M. (2010). A highly conserved gene island of three genes on chromosome 3B of hexaploid wheat: diverse gene function and genomic structure maintained in a tightly linked block. *BMC Plant Biology* 10: 98. [doi:10.1186/1471-2229-10-98](http://dx.doi.org/10.1186/1471-2229-10-98)
 
 #### 2009
-{:.no_toc}
 
 #### 2008
-{:.no_toc}
 
 #### 2007
-{:.no_toc}
 
 Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet C, **Breen J**, Appels R. (2007). Wheat genome structure and function: genome sequence data and the International Wheat Genome Sequencing Consortium. *Crop & Pasture Science* 58: 470-75. [doi:10.1071/AR06155](http://dx.doi.org/10.1071/AR06155)
 
@@ -250,18 +223,16 @@ Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet 
 ## Competitive Grants & External Research Funding
 
 #### Current
-{:.no_toc}
 
 - Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **Jimmy Breen**. Medical Research Future Fund (MRFF). "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
+
+#### Completed
 
 - Alastair MacLennan, Jozef Gecz, Mark Corbett, Clare van Eyk, **James Breen**, Christopher Barnett, S MacLennan, J Rice, R Russo. ORG3921: Cerebral Palsy Foundation Research Grant. “The genetic origins of cerebral palsy”. 4 years
 
 - Kate Sanders, Bruno Fonseca Simoes, **James Breen (CI),** David Hunt, Belinda Chang, Davide Pisani, Mark Hutchinson, Emma Teeling. 2018 ARC Discovery Grant (DP180101688) **Cat. 1 Funding**. "How are visual gene pathways lost and restored during reptile evolution?"
 
 - Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen (CIF)**. 2017 NHRMC Project Grant (APP1120543) **Cat. 1 Funding**. "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
-
-#### Completed
-{:.no_toc}
 
 - D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, USA CF Foundation Grant. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,491 for 2 years
 
@@ -276,6 +247,16 @@ Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet 
 - Cassandra Collins, Roberta De Bei, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 Waite Research Institute Platform Technologies. "We prefer them old: Epigenetic control of wine quality in response to grapevine age"
 
 - Iain Searle, Cassandra Collins, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 University of Adelaide Interdisciplinary Research Funding (IRF). "RNA directed epigenetics in grapevines- a paradigm sh¡ft for plant and animal breeding"
+
+---
+
+## Professional Associations & Committees
+
+* President of the Australian Bioinformatics & Computational Biology Society (ABACBS) - Elected December 2019
+* Member (& Former Secretary) of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
+* Member of the [BioinfoSummer 2016 Conference Committee](http://amsi.org.au/events/event/bioinfosummer-2016/)
+* Member of the [2017 COMBINE Symposium](https://combine.org.au/symposium-2017/) organisation committee
+* Member of the [Australian and New Zealand Placental Research Association (ANZPRA)](https://www.anzpra.org/)
 
 ---
 
@@ -366,23 +347,25 @@ CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 ## Student Supervision
 
 ### PhD
-{:.no_toc}
 
 #### Current
-{:.no_toc}
 
 Primary supervised in **bold**
 
 - **Jacqueline Rehn (PhD, SAHMRI & University of Adelaide)**
-- **Ning Liu (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
 - **Melanie Smith (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
 - Justin Bogias (PhD, Robinson Research Institute, University of Adelaide) Co-supervised
-- Christopher Ward (PhD, Biological Sciences, University of Adelaide) Co-supervised
-- Ayub Qassium MD (PhD, Flinders University/SA Pathology) - Clinical PhD
 
 #### Completed
-{:.no_toc}
 
+- Ning Liu (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)
+    - Now working at the Walter and Eliza Hall Institute of Medical Research (WEHI) Melbourne, Australia
+    - Submitted May 2021
+- Christopher Ward (PhD, Biological Sciences, University of Adelaide)
+    - Now working at the Australian Wine Research Institute (AWRI)
+    - Submitted May 2021
+- Ayub Qassium MD (PhD, Flinders University/SA Pathology)
+    - Clinical resident
 - Qianhui Wan (PhD, Robinson Research Institute, University of Adelaide)
     - Now working at Flinders University
 - Doan Thao Dinh (PhD, Robinson Research Institute, University of Adelaide)
@@ -395,10 +378,13 @@ Primary supervised in **bold**
     - Currently staff scientist at Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben, Germany
 
 ### MSc Biotechnology
-{:.no_toc}
+
+#### Current
+
+- Holly Martin (MSc Bioinformatics, University of Adelaide)
+- Karan Kariat (MSc Bioinformatics, University of Adelaide)
 
 #### Completed
-{:.no_toc}
 
 - Weixiong He (MSc Biotech, Robinson Research Institute, University of Adelaide)
     - Currently completing a PhD at the University of Queensland
@@ -412,15 +398,8 @@ Primary supervised in **bold**
     - Current completing a PhD (see above)
 
 ### BSc (honours)
-{:.no_toc}
-
-#### Current
-{:.no_toc}
-
-- Isaac Rossetto (BSc hons, Biological Sciences, University of Adelaide)
 
 #### Completed
-{:.no_toc}
 
 - Awais Choudhry (BSc hons, Robinson Research Institute, University of Adelaide)
     - Now working in industry
