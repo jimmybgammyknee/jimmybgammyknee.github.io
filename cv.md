@@ -78,7 +78,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
-Mullany S, Souzeau E, Klebe S, Zhou T, Knight LSW, Qassim A, Berry E, Marshall H, Hussey M, Dubowsky A, Hassall MM, Breen J, Hassall M, Mills RA, Craig JE & Siggs OM. (2021). A novel GSN variant affecting gelsolin domain 4 is associated with Familial Amyloidosis of the Finnish type. _Human Mutation_. _In review_
+Mullany S, Souzeau E, Klebe S, Zhou T, Knight LSW, Qassim A, Berry E, Marshall H, Hussey M, Dubowsky A, Hassall MM, Breen J, Hassall M, Mills RA, Craig JE & Siggs OM. (2021). A novel GSN variant affecting gelsolin domain 4 is associated with Familial Amyloidosis of the Finnish type. _Human Mutation_. Accepted 27/04/2021
 
 Rodriguez Lopez CM, Fabres PJ, Pederson SM, Zheng F, Breen J, Gilliham M, Tricker P, David R, Sai N, Anand L, Stewart A, Clements B & Lampugnani E. (2021). Tissue and regional expression patterns of dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) and their evolutionary co-appearance with vasculature in land plants. _Horticulture Research_ . Accepted 14/04/2021
 
