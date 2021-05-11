@@ -6,8 +6,8 @@ title: About me
 <div class="post">
 <h1 class="pageTitle">About me</h1>
 <img src="{{ '/assets/img/me.jpg' | prepend: site.baseurl }}" alt="">
-<p class="intro">My name is Jimmy Breen and I'm the Bioinformatics Core Team Leader for the <a href="https://www.sahmri.org/">South Australian Health & Medical Research Institute</a> here in Adelaide, South Australia.
-I have a few other roles as well, firstly as a Team Leader in Bioinformatics & Computational Biology at <a href="https://www.adelaide.edu.au/robinson-research-institute/">the Robinson Research Institute</a>, and a member of the <a href="https://www.adelaide.edu.au/bioinformatics-hub/">University of Adelaide's Bioinformatics Hub</a>.
+<p class="intro">My name is Jimmy Breen and I'm the Bioinformatics Team manager for the <a href="https://sa-genomics.com.au/">South Australian Genomics Centre (SAGC)</a> located at the South Australian Health & Medical Research Institute (SAHMRI) here in Adelaide, South Australia.
+I have a few other roles as well, firstly as a Team Leader in Bioinformatics & Computational Biology at <a href="https://www.adelaide.edu.au/robinson-research-institute/">the Robinson Research Institute</a>, and Senior Lecturer at Adelaide Medical School at the University of Adelaide</a>.
 I'm interested in everything associated with Genomics, Bioinformatics and Data Science.
 I have a background in Plant Genomics, Ancient DNA and Next-Generation Sequencing Technologies, and have worked across Australia and in Europe for academic and commercial institutions.
 Personally, I'm a lover of many sports (mostly Australian Rules Football), BBQ, craft beer, wine and hanging with my family.
@@ -24,7 +24,7 @@ This blog is a collection of scientific ideas, thoughts and interesting topics c
 <h2>Some extra info</h2>
 
 <ul>
-<li>I am Vice-President of the Australian Bioinformatics & Computational Biology Society (ABACBS). We aim to help promote Bioinformatics in the Australian Scientific Community</li>
+<li>I am President of the Australian Bioinformatics & Computational Biology Society (ABACBS). We aim to help promote Bioinformatics in the Australian Scientific Community</li>
 <li>In a previous life I worked as an ARC Postdoctoral Research Associate for the Australian Centre for Ancient DNA at the University of Adelaide, working on ancient plant DNA. My main field site was a cave in Southern Armenian called <a href="https://en.wikipedia.org/wiki/Areni-1_cave_complex"> Areni-1 </a></li>
 <li>I helped develop ACAD's <a href="https://www.oagr.org.au"> Online Ancient Genome Repository (OAGR)</a>, a data repository for ancient human and microbiome sequence data</li>
 
