@@ -78,7 +78,11 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
-Mullany S, Souzeau E, Klebe S, Zhou T, Knight LSW, Qassim A, Berry E, Marshall H, Hussey M, Dubowsky A, Hassall MM, Breen J, Hassall M, Mills RA, Craig JE & Siggs OM. (2021). A novel GSN variant affecting gelsolin domain 4 is associated with Familial Amyloidosis of the Finnish type. _Human Mutation_. Accepted 27/04/2021
+Liu N, Low WY, Alinejad-Rokny H, Pederson SM, Sadlon T, Barry SC & **Breen J**. (2021). Seeing the forest through the trees: Prioritising potentially functional interactions from Hi-C. _Epigenetics & Chromatin_. Provisionally Accepted 20/07/2021
+
+Downes CEJ, McClure BJ, Bruning JB, Page E, **Breen J**, Rehn J, Yeung DT & White DL. (2021). Acquired mutations within the JAK2 kinase domain confer resistance to type-I and type-II JAK inhibitors in in vitro models of a high-risk acute lymphoblastic leukemia. _NPJ Precision Oncology_. Accepted 22/07/2021
+
+Mullany S, Souzeau E, Klebe S, Zhou T, Knight LSW, Qassim A, Berry E, Marshall H, Hussey M, Dubowsky A, Hassall MM, **Breen J**, Hassall M, Mills RA, Craig JE & Siggs OM. (2021). A novel GSN variant affecting gelsolin domain 4 is associated with Familial Amyloidosis of the Finnish type. _Human Mutation_. Accepted 27/04/2021
 
 Rodriguez Lopez CM, Fabres PJ, Pederson SM, Zheng F, Breen J, Gilliham M, Tricker P, David R, Sai N, Anand L, Stewart A, Clements B & Lampugnani E. (2021). Tissue and regional expression patterns of dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) and their evolutionary co-appearance with vasculature in land plants. _Horticulture Research_ . Accepted 14/04/2021
 <ins> Preprint</ins>: *bioRxiv*. [10.1101/2020.04.13.039131](https://doi.org/10.1101/2020.04.13.039131).
@@ -379,7 +383,7 @@ Primary supervised in **bold**
 - Tim Rabanus-Wallace (PhD, Australian Centre for Ancient DNA, University of Adelaide)
     - Currently staff scientist at Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben, Germany
 
-### MSc Biotechnology
+### MSc Biotechnology (All Primary Supervised)
 
 #### Current
 
