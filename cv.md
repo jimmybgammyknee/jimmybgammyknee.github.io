@@ -78,18 +78,21 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
+Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. Accepted 29/7/2021
+Preprint: _MedRxiv_. [doi:10.1101/2020.08.19.20177873](https://doi.org/10.1101/2020.08.19.20177873). **PREPRINT**  
+
 Liu N, Low WY, Alinejad-Rokny H, Pederson SM, Sadlon T, Barry SC & **Breen J**. (2021). Seeing the forest through the trees: Prioritising potentially functional interactions from Hi-C. _Epigenetics & Chromatin_. Provisionally Accepted 20/07/2021
 
 Downes CEJ, McClure BJ, Bruning JB, Page E, **Breen J**, Rehn J, Yeung DT & White DL. (2021). Acquired mutations within the JAK2 kinase domain confer resistance to type-I and type-II JAK inhibitors in in vitro models of a high-risk acute lymphoblastic leukemia. _NPJ Precision Oncology_. Accepted 22/07/2021
 
 Mullany S, Souzeau E, Klebe S, Zhou T, Knight LSW, Qassim A, Berry E, Marshall H, Hussey M, Dubowsky A, Hassall MM, **Breen J**, Hassall M, Mills RA, Craig JE & Siggs OM. (2021). A novel GSN variant affecting gelsolin domain 4 is associated with Familial Amyloidosis of the Finnish type. _Human Mutation_. Accepted 27/04/2021
 
-Rodriguez Lopez CM, Fabres PJ, Pederson SM, Zheng F, Breen J, Gilliham M, Tricker P, David R, Sai N, Anand L, Stewart A, Clements B & Lampugnani E. (2021). Tissue and regional expression patterns of dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) and their evolutionary co-appearance with vasculature in land plants. _Horticulture Research_ . Accepted 14/04/2021
+Rodriguez Lopez CM, Fabres PJ, Pederson SM, Zheng F, **Breen J**, Gilliham M, Tricker P, David R, Sai N, Anand L, Stewart A, Clements B & Lampugnani E. (2021). Tissue and regional expression patterns of dicistronic tRNA-mRNA transcripts in grapevine (Vitis vinifera) and their evolutionary co-appearance with vasculature in land plants. _Horticulture Research_ . Accepted 14/04/2021
 <ins> Preprint</ins>: *bioRxiv*. [10.1101/2020.04.13.039131](https://doi.org/10.1101/2020.04.13.039131).
 
-Knight LSW, Ruddle JB, Taranath DA, Goldberg I, Smith JEH, Gole G, Chiang MY, Willett F, D’Mellow G, Breen J, Qassim A, Mullany S, Elder JE, Vincent AL, Staffieri SE, Kearns LS, Mackey DA, Luu S, Siggs OM, Souzeau E & Craig JE. (2021). Childhood and Early-Onset Glaucoma Classification and Genetic Profile in a Large Australasian Disease Registry. _Ophthalmology_. Accepted 13/04/2021 
+Knight LSW, Ruddle JB, Taranath DA, Goldberg I, Smith JEH, Gole G, Chiang MY, Willett F, D’Mellow G, **Breen J**, Qassim A, Mullany S, Elder JE, Vincent AL, Staffieri SE, Kearns LS, Mackey DA, Luu S, Siggs OM, Souzeau E & Craig JE. (2021). Childhood and Early-Onset Glaucoma Classification and Genetic Profile in a Large Australasian Disease Registry. _Ophthalmology_. Accepted 13/04/2021 
 
-Dini P, Kalbfleisch T, Carossino M, El-Sheikh Ali H, Loux SC, Esteller-Vico A, Norris JK, Anand L, Uribe-Salazar JM, Scoggin KM, Rodriguez Lopez CM, Breen J, Bailey E, Daels P & Ball BA. (2021). Parental bias in placental gene expression: A closer look at reciprocal paternal and maternal gene interaction in the equine placenta.  *Proceedings of the National Academy of Sciences*. 118(16): e2006474118; https://doi.org/10.1073/pnas.2006474118
+Dini P, Kalbfleisch T, Carossino M, El-Sheikh Ali H, Loux SC, Esteller-Vico A, Norris JK, Anand L, Uribe-Salazar JM, Scoggin KM, Rodriguez Lopez CM, **Breen J**, Bailey E, Daels P & Ball BA. (2021). Parental bias in placental gene expression: A closer look at reciprocal paternal and maternal gene interaction in the equine placenta.  *Proceedings of the National Academy of Sciences*. 118(16): e2006474118; https://doi.org/10.1073/pnas.2006474118
 
 Tangseefa P, Martin SK, Chin PY, **Breen J**, Mah CY, Baldock PA, Wittert GA, Page AJ, Proud CG, Fitter S & Zannettino ACW. (2021). The mTORC1 complex in pre-osteoblasts regulates whole-body energy metabolism independently of osteocalcin. _Bone Research_ 9:10
 
@@ -97,11 +100,9 @@ Tangseefa P, Martin SK, Chin PY, **Breen J**, Mah CY, Baldock PA, Wittert GA, Pa
 
 Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2020). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _bioRxiv_. doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). **PREPRINT** 
 
-Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _MedRxiv_. [doi:10.1101/2020.08.19.20177873](https://doi.org/10.1101/2020.08.19.20177873). **PREPRINT**  
-
 Hng CH, Camp E, Anderson P, **Breen J**, Zannettino A & Gronthos S. (2020). HOPX regulates bone marrow-derived mesenchymal stromal cell fate determination via suppression of adipogenic gene pathways. _Scientific Reports_. 10:11345. doi:[10.1038/s41598-020-68261-2](https://doi.org/10.1038/s41598-020-68261-2).
 
-McClure BJ, Heatley SL, Rehn J, **Breen J**, Sutton R, Hughes TP, Suppiah R, Revesz T, Osborn M, White D, Yeung DT & White DL. (2020). High-risk B-cell acute lymphoblastic leukaemia presenting with hypereosinophilia and acquiring a novel PAX5 fusion on relapse. _British Journal of Haematology_. *Accepted 05/07/2020*  
+McClure BJ, Heatley SL, Rehn J, **Breen J**, Sutton R, Hughes TP, Suppiah R, Revesz T, Osborn M, White D, Yeung DT & White DL. (2020). High-risk B-cell acute lymphoblastic leukaemia presenting with hypereosinophilia and acquiring a novel PAX5 fusion on relapse. _British Journal of Haematology_. Accepted 05/07/2020  
 
 **Breen J**, McAninch D, Jankovic-Karasoulos T, McCullough D, Smith MD, Bogias KJ, Wan Q, Choudhry A, Hin N, Pederson SM, Bianco-Miotto T & Roberts CT. (2020). Temporal placental genome wide expression profiles reflect three phases of utero-placental blood flow during early to mid human gestation. _MedRxiv_. [doi:10.1101/2020.06.25.20139709](https://doi.org/10.1101/2020.06.25.20139709). **PREPRINT**  
 
