@@ -78,7 +78,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
-Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. Accepted 29/7/2021
+Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. Accepted 29/7/2021  
 Preprint: _MedRxiv_. [doi:10.1101/2020.08.19.20177873](https://doi.org/10.1101/2020.08.19.20177873). **PREPRINT**  
 
 Liu N, Low WY, Alinejad-Rokny H, Pederson SM, Sadlon T, Barry SC & **Breen J**. (2021). Seeing the forest through the trees: Prioritising potentially functional interactions from Hi-C. _Epigenetics & Chromatin_. Provisionally Accepted 20/07/2021
