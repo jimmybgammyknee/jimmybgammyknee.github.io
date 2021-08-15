@@ -78,6 +78,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
+Skerrett-Byrne DA, Nixon B, Bromfield EG, **Breen J**, Trigg NA, Stanger SJ, Bernstein IR, Anderson AL, Lord T, Aitken RJ, Roman SD,  Robertson SA & Schjenken JE. (2021). Transcriptomic analysis of the seminal vesicle response to the reproductive toxicant acrylamide. _BMC Genomics_. Accepted 15/08/2021.  
+
 Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. Accepted 29/7/2021  
 Preprint: _MedRxiv_. [doi:10.1101/2020.08.19.20177873](https://doi.org/10.1101/2020.08.19.20177873). **PREPRINT**  
 
