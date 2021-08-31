@@ -83,7 +83,7 @@ Skerrett-Byrne DA, Nixon B, Bromfield EG, **Breen J**, Trigg NA, Stanger SJ, Ber
 Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. Accepted 29/7/2021  
 <ins> Preprint</ins>: *MedRxiv*. [doi:10.1101/2020.08.19.20177873](https://doi.org/10.1101/2020.08.19.20177873). **Joint Corresponding Author**
 
-Liu N, Low WY, Alinejad-Rokny H, Pederson SM, Sadlon T, Barry SC & **Breen J**. (2021). Seeing the forest through the trees: Prioritising potentially functional interactions from Hi-C. _Epigenetics & Chromatin_. Provisionally Accepted 20/07/2021 **Corresponding Author**
+Liu N, Low WY, Alinejad-Rokny H, Pederson SM, Sadlon T, Barry SC & **Breen J**. (2021). Seeing the forest through the trees: Prioritising potentially functional interactions from Hi-C. _Epigenetics & Chromatin_ 14:41. [doi:10.1186/s13072-021-00417-4](https://doi.org/10.1186/s13072-021-00417-4) **Corresponding Author**
 
 Downes CEJ, McClure BJ, Bruning JB, Page E, **Breen J**, Rehn J, Yeung DT & White DL. (2021). Acquired mutations within the JAK2 kinase domain confer resistance to type-I and type-II JAK inhibitors in in vitro models of a high-risk acute lymphoblastic leukemia. _NPJ Precision Oncology_. 5:75 [doi:10.1038/s41698-021-00215-x](https://doi.org/10.1038/s41698-021-00215-x)
 
