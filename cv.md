@@ -78,12 +78,17 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
-Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. Accepted 29/7/2021  
-Preprint: _MedRxiv_. [doi:10.1101/2020.08.19.20177873](https://doi.org/10.1101/2020.08.19.20177873). **PREPRINT**  
+Dinh DT, **Breen J**, Nicol B, Smith KM, Nicholls M, Emery A, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor-A isoform interaction with RUNX transcription factors controls chromatin remodelling at promoters during ovulation. _bioRxiv_. doi:10.1101/2021.06.17.448908. **PREPRINT** 
 
-Liu N, Low WY, Alinejad-Rokny H, Pederson SM, Sadlon T, Barry SC & **Breen J**. (2021). Seeing the forest through the trees: Prioritising potentially functional interactions from Hi-C. _Epigenetics & Chromatin_. Provisionally Accepted 20/07/2021
+Richards SM, Li L, **Breen J**, Hovhannisyan N, Estrada O, Gasparyan B, Gilliham M, Smith A, Cooper A & Zhang H. (2021). Recovery of Chloroplast Genomes from Medieval Millet Grains Excavated from the Areni-1 Cave in Southern Armenia. _Research Square_. doi:10.21203/rs.3.rs-959635/v1. **PREPRINT** 
 
-Downes CEJ, McClure BJ, Bruning JB, Page E, **Breen J**, Rehn J, Yeung DT & White DL. (2021). Acquired mutations within the JAK2 kinase domain confer resistance to type-I and type-II JAK inhibitors in in vitro models of a high-risk acute lymphoblastic leukemia. _NPJ Precision Oncology_. Accepted 22/07/2021
+Skerrett-Byrne DA, Nixon B, Bromfield EG, Breen J, Trigg NA, Stanger SJ, Bernstein IR, Anderson AL, Lord T, Aitken RJ, Roman SD, Robertson SA & Schjenken JE. (2021). Transcriptomic analysis of the seminal vesicle response to the reproductive toxicant acrylamide. _BMC Genomics_ 22:728. doi:10.1186/s12864-021-07951-1
+
+Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. 1-14 doi:10.1080/15476286.2021.1963105 
+
+Liu N, Low WY, Alinejad-Rokny H, Pederson SM, Sadlon T, Barry SC & **Breen J**. (2021). Seeing the forest through the trees: Prioritising potentially functional interactions from Hi-C. _Epigenetics & Chromatin_. 14(1): 1-17. doi:10.1186/s13072-021-00417-4
+
+Downes CEJ, McClure BJ, Bruning JB, Page E, **Breen J**, Rehn J, Yeung DT & White DL. (2021). Acquired mutations within the JAK2 kinase domain confer resistance to type-I and type-II JAK inhibitors in in vitro models of a high-risk acute lymphoblastic leukemia. _NPJ Precision Oncology_. 5(1): 1-13. doi:10.1038/s41698-021-00215-x
 
 Mullany S, Souzeau E, Klebe S, Zhou T, Knight LSW, Qassim A, Berry E, Marshall H, Hussey M, Dubowsky A, Hassall MM, **Breen J**, Hassall M, Mills RA, Craig JE & Siggs OM. (2021). A novel GSN variant affecting gelsolin domain 4 is associated with Familial Amyloidosis of the Finnish type. _Human Mutation_. Accepted 27/04/2021
 
@@ -231,7 +236,9 @@ Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet 
 
 #### Current
 
-- Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **Jimmy Breen**. Medical Research Future Fund (MRFF). "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
+- Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **James Breen**. Medical Research Future Fund (MRFF). "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
+
+- Simon Barry, Ying Ying Wong, Timothy Sadlon, Megan Penno, Helena Oakey, **James Breen** and Jenny Couper. JDRF Innovation Award (2-SRA-2022-1100-M-B). "Connecting genetic risk to genes: Turning targets into new interventions". $505,085 for 2 years 
 
 #### Completed
 
