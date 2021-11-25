@@ -6,7 +6,6 @@ title: CV
 # Dr James (Jimmy) Breen
 Bioinformatics & Genomics Researcher
 
-
 <div id="webaddress">
 <a href="mailto:jimmymbreen@gmail.com">jimmymbreen@gmail.com</a>
 |
@@ -21,25 +20,27 @@ Bioinformatics & Genomics Researcher
 
 ## Academic & Professional Positions
 
-`2020-Current`
+### Current
+
+`2022-`
+Chief Data Scientist (Indigenous Genomics), <br>
+__Telethon Kids Institute__ (Adelaide Node) & <br>
+__Australian National University__, Canberra <br>
+
+### Former
+
+`2020-21`
 Head of Bioinformatics, <br>
-__South Australian Genomics Centre (SAGC)__ <br>
+South Australian Genomics Centre (SAGC) <br>
 
-`2020-Current`
+`2020-21`
 Senior Lecturer, Adelaide Medical School <br>
-__University of Adelaide__ <br>
+University of Adelaide <br>
 
-`2018-Current` 
+`2016-21` 
 Research Leader in Computational Biology, <br>
-__Robinson Research Institute__, <br>
-__University of Adelaide__ <br>
-
----
-
-`2016-2018`
-Bioinformatics Leader, Robinson Research Institute & <br>
-University of Adelaide Bioinformatics Hub <br>
-University of Adelaide (Adelaide, SA Australia)
+Robinson Research Institute, <br>
+University of Adelaide <br>
 
 `2013-16`
 Senior Research Associate <br>
@@ -78,11 +79,13 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
+Paule SG, Heng S, Samarajeewa N, Li Y, Wang Y, Webb AI, Young SL, Lessey BA, Hull ML, **Breen J**, Van de Velde H, Scelwyn M, Vollenhoven B, Rombauts LK & Nie G. (2021). Podocalyxin governs the barrier function of human endometrial epithelium and critically regulates receptivity for embryo implantation. _Scientific Reports_. Accepted 25/11/2021
+
 Dinh DT, **Breen J**, Nicol B, Smith KM, Nicholls M, Emery A, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor-A isoform interaction with RUNX transcription factors controls chromatin remodelling at promoters during ovulation. _bioRxiv_. doi:10.1101/2021.06.17.448908. **PREPRINT** 
 
 Richards SM, Li L, **Breen J**, Hovhannisyan N, Estrada O, Gasparyan B, Gilliham M, Smith A, Cooper A & Zhang H. (2021). Recovery of Chloroplast Genomes from Medieval Millet Grains Excavated from the Areni-1 Cave in Southern Armenia. _Research Square_. doi:10.21203/rs.3.rs-959635/v1. **PREPRINT** 
 
-Skerrett-Byrne DA, Nixon B, Bromfield EG, Breen J, Trigg NA, Stanger SJ, Bernstein IR, Anderson AL, Lord T, Aitken RJ, Roman SD, Robertson SA & Schjenken JE. (2021). Transcriptomic analysis of the seminal vesicle response to the reproductive toxicant acrylamide. _BMC Genomics_ 22:728. doi:10.1186/s12864-021-07951-1
+Skerrett-Byrne DA, Nixon B, Bromfield EG, **Breen J**, Trigg NA, Stanger SJ, Bernstein IR, Anderson AL, Lord T, Aitken RJ, Roman SD, Robertson SA & Schjenken JE. (2021). Transcriptomic analysis of the seminal vesicle response to the reproductive toxicant acrylamide. _BMC Genomics_ 22:728. doi:10.1186/s12864-021-07951-1
 
 Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. 1-14 doi:10.1080/15476286.2021.1963105 
 
