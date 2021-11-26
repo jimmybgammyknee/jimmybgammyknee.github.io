@@ -27,9 +27,10 @@ Chief Data Scientist (Indigenous Genomics), <br>
 __Telethon Kids Institute - Adelaide Node__ (Adelaide, SA, Australia) & <br>
 __Australian National University__, Canberra
 
-                           |                        
-:-------------------------:|:-------------------------:
-![](https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg) | ![](https://marketing-pages.anu.edu.au/_anu/4/images/logos/2x_anu_logo_small.svg)
+<p float="left">
+  <img src="https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg" width="150" />
+  <img src="https://marketing-pages.anu.edu.au/_anu/4/images/logos/2x_anu_logo_small.svg" width="150" /> 
+</p>
 
 ### Former
 
