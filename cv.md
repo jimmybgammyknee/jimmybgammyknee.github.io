@@ -22,40 +22,23 @@ Bioinformatics & Genomics Researcher
 
 ### Current
 
-`2022-`
+`2022-` <br>
 Chief Data Scientist (Indigenous Genomics), <br>
-__Telethon Kids Institute__ (Adelaide Node) & <br>
-__Australian National University__, Canberra <br>
+__Telethon Kids Institute - Adelaide Node__ (Adelaide, SA, Australia) & <br>
+__Australian National University__, Canberra
+
+                           |                        
+:-------------------------:|:-------------------------:
+![](https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg) | ![](https://marketing-pages.anu.edu.au/_anu/4/images/logos/2x_anu_logo_small.svg)
 
 ### Former
 
-`2020-21`
-Head of Bioinformatics, <br>
-South Australian Genomics Centre (SAGC) <br>
-
-`2020-21`
-Senior Lecturer, Adelaide Medical School <br>
-University of Adelaide <br>
-
-`2016-21` 
-Research Leader in Computational Biology, <br>
-Robinson Research Institute, <br>
-University of Adelaide <br>
-
-`2013-16`
-Senior Research Associate <br>
-Australian Centre for Ancient DNA (ACAD) & <br>
-School of Agriculture, Food and Wine, <br>
-University of Adelaide (Adelaide, SA Australia)
-
-`2012-13`
-Bioinformatics Officer <br>
-Australian Genome Research Facility (AGRF) Brisbane node (Brisbane, QLD Australia)
-
-`2009-12`
-Postdoctoral Research Associate <br>
-Institute of Plant Biology <br>
-University of Zurich (Zurich, Switzerland)
+- `2020-21` Head of Bioinformatics, South Australian Genomics Centre (Adelaide, SA, Australia) 
+- `2020-21` Senior Lecturer, Adelaide Medical School, University of Adelaide (Adelaide, SA, Australia)
+- `2016-21` Lab Head, Robinson Research Institute, University of Adelaide (Adelaide, SA, Australia)
+- `2013-16` Senior Research Associate, Australian Centre for Ancient DNA (ACAD) & School of Agriculture, Food and Wine, University of Adelaide (Adelaide, SA Australia) 
+- `2012-13` Bioinformatics Officer, Australian Genome Research Facility (AGRF) Brisbane node (Brisbane, QLD Australia)
+- `2009-12` Postdoctoral Research Associate, Institute of Plant Biology, University of Zurich (Zurich, Switzerland)
 
 ---
 
