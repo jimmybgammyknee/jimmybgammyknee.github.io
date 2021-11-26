@@ -28,7 +28,8 @@ __Telethon Kids Institute - Adelaide Node__ (Adelaide, SA, Australia) & <br>
 __Australian National University__, Canberra
 
 <p float="center">
-  <img src="https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg" width="150" />
+  <img src="https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg" width="150" alt="" hspace="20" />
+  <>
   <img src="https://marketing-pages.anu.edu.au/_anu/4/images/logos/2x_anu_logo_small.svg" width="250" /> 
 </p>
 
