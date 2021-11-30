@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CV
-geometry: margin=2cm
+geometry: margin=1cm
 ---
 
 # Dr James (Jimmy) Breen
