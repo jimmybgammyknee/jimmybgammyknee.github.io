@@ -63,6 +63,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2021
 
+McClure BJ, Pal M, Heatley SL, Rehn J, Schutz C, **Breen J**, Venn NC, Sutton R, Khaw SL, Yeung DT & White DL. (2021). Two novel cases of NUTM1-rearranged B-cell acute lymphoblastic leukemia presenting with high-risk features. _British Journal of Haematology_. Accepted 30/11/2021
+
 Paule SG, Heng S, Samarajeewa N, Li Y, Wang Y, Webb AI, Young SL, Lessey BA, Hull ML, **Breen J**, Van de Velde H, Scelwyn M, Vollenhoven B, Rombauts LK & Nie G. (2021). Podocalyxin governs the barrier function of human endometrial epithelium and critically regulates receptivity for embryo implantation. _Scientific Reports_. Accepted 25/11/2021
 
 Dinh DT, **Breen J**, Nicol B, Smith KM, Nicholls M, Emery A, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor-A isoform interaction with RUNX transcription factors controls chromatin remodelling at promoters during ovulation. _bioRxiv_. doi:10.1101/2021.06.17.448908. **PREPRINT** 
