@@ -230,6 +230,10 @@ Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet 
 
 - Simon Barry, Ying Ying Wong, Timothy Sadlon, Megan Penno, Helena Oakey, **James Breen** and Jenny Couper. JDRF Innovation Award (2-SRA-2022-1100-M-B). "Connecting genetic risk to genes: Turning targets into new interventions". $505,085 for 2 years 
 
+- Lisa Nicholas, Louise Maple-Brown, Elizabeth Barr, **James Breen**. 2022 The Hospital Research Foundation Women's Health Grant. "The role of epigenetics in mediating future metabolic risk in Aboriginal children exposed to gestational diabetes". $150,000 for 2 years
+
+- 
+
 #### Completed
 
 - Alastair MacLennan, Jozef Gecz, Mark Corbett, Clare van Eyk, **James Breen**, Christopher Barnett, S MacLennan, J Rice, R Russo. ORG3921: Cerebral Palsy Foundation Research Grant. “The genetic origins of cerebral palsy”. 4 years
