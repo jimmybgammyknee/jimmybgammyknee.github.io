@@ -232,7 +232,9 @@ Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet 
 
 - Lisa Nicholas, Louise Maple-Brown, Elizabeth Barr, **James Breen**. 2022 The Hospital Research Foundation Women's Health Grant. "The role of epigenetics in mediating future metabolic risk in Aboriginal children exposed to gestational diabetes". $150,000 for 2 years
 
-- 
+- Clara Chow, Steve Nicholls ... Alex Brown, **James Breen**... 2022 MTPConnect: Targeted Translation Research Accelerator (TTRA). "The Australian Stroke and Heart Research Accelerator (ASHRA)". $10M
+
+- Raymond Thomas, Kelly Hawboldt (Co-Principal Investigators), Lord Abbey, Jacqueline Blundell, **Jimmy Breen**, Ken Carter, Mumtaz Cheema, Sukhinder Cheema, Leo DANA, Nicoletta Del Buono, Karen Doody, Flavia, Esposito, Lakshman Galagedara, Heather Hall, Bohdan Luhovyy, Stephanie MacQuarrie, Atsushi Miyawaki, William Newell, Christopher Parrish, Mery Perez, Matthew Rise, Javier Santander, Alexandros Tsoupras, Kelly Vodden, Svetlana Yurgel, Ioannis Zabetakis. 2020 New Frontier Research Funding: Transformation. "Repurposing Marine By-Products or raw Materials for the Development and Production of Functional Foods and Bioactives to Improve Human Health and Coastal Community Sustainability". $14,961,023 for 5 years
 
 #### Completed
 
@@ -361,13 +363,20 @@ CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 Primary supervised in **bold**
 
 - **Jacqueline Rehn (PhD, SAHMRI & University of Adelaide)**
-- **Melanie Smith (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
-- Justin Bogias (PhD, Robinson Research Institute, University of Adelaide) Co-supervised
-
+- Justin Bogias (PhD, Robinson Research Institute, University of Adelaide)
+- Alastair Lundington (PhD, University of Adelaide)
+- Sam Godwin (PhD, University of Adelaide)
+- Rebecca Simpson (PhD, University of Adelaide)
+- Madyson Colton (PhD, University of Adelaide)
+- Ashlee Thompson (MPhil, University of Adelaide)
+  
 #### Completed
 
-- Ning Liu (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)
-    - Now working at the Walter and Eliza Hall Institute of Medical Research (WEHI) Melbourne, Australia
+- **Melanie Smith (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
+    - Now working as a Postdoc at Flinders University, Adelaide, Australia
+    - Submitted August 2021
+- **Ning Liu (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
+    - Now working as a Postdoc at the Walter and Eliza Hall Institute of Medical Research (WEHI) Melbourne, Australia
     - Submitted May 2021
 - Christopher Ward (PhD, Biological Sciences, University of Adelaide)
     - Now working at the Australian Wine Research Institute (AWRI)
@@ -386,14 +395,10 @@ Primary supervised in **bold**
     - Currently staff scientist at Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben, Germany
 
 ### MSc Biotechnology (All Primary Supervised)
-
-#### Current
+#### Completed
 
 - Holly Martin (MSc Bioinformatics, University of Adelaide)
 - Karan Kariat (MSc Bioinformatics, University of Adelaide)
-
-#### Completed
-
 - Weixiong He (MSc Biotech, Robinson Research Institute, University of Adelaide)
     - Currently completing a PhD at the University of Queensland
 - Lakshmi Chandrapaty (MSc Biotech, Robinson Research Institute, University of Adelaide)
