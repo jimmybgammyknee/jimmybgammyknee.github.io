@@ -64,25 +64,27 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+Arthurs AL, Smith MD, Hintural MD, **Breen J**, McCullough D, Thornton F, Leemaqz S, Dekker GA, Jankovic-Karasoulos T & Roberts CT. (2022). Parturition: the end of tolerance in pregnancy. _Frontiers in Immunology_. Accepted 22/02/2022
+
 Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _medRxiv_. [doi:10.1101/2022.02.17.22270919](https://doi.org/10.1101/2022.02.17.22270919). **PREPRINT**
 
 #### 2021
 
-McClure BJ, Pal M, Heatley SL, Rehn J, Schutz C, **Breen J**, Venn NC, Sutton R, Khaw SL, Yeung DT & White DL. (2021). Two novel cases of NUTM1-rearranged B-cell acute lymphoblastic leukemia presenting with high-risk features. _British Journal of Haematology_. Accepted 30/11/2021
+McClure BJ, Pal M, Heatley SL, Rehn J, Schutz C, **Breen J**, Venn NC, Sutton R, Khaw SL, Yeung DT & White DL. (2021). Two novel cases of NUTM1-rearranged B-cell acute lymphoblastic leukemia presenting with high-risk features. _British Journal of Haematology_. Dec 12. [doi:10.1111/bjh.17995](https://doi.org/10.1111/bjh.17995).
 
-Paule SG, Heng S, Samarajeewa N, Li Y, Wang Y, Webb AI, Young SL, Lessey BA, Hull ML, **Breen J**, Van de Velde H, Scelwyn M, Vollenhoven B, Rombauts LK & Nie G. (2021). Podocalyxin governs the barrier function of human endometrial epithelium and critically regulates receptivity for embryo implantation. _Scientific Reports_. Accepted 25/11/2021
+Paule SG, Heng S, Samarajeewa N, Li Y, Wang Y, Webb AI, Young SL, Lessey BA, Hull ML, **Breen J**, Van de Velde H, Scelwyn M, Vollenhoven B, Rombauts LK & Nie G. (2021). Podocalyxin governs the barrier function of human endometrial epithelium and critically regulates receptivity for embryo implantation. _Scientific Reports_. 11, 24016. [doi:10.1038/s41598-021-03425-2](https://doi.org/10.1038/s41598-021-03425-2).
 
-Dinh DT, **Breen J**, Nicol B, Smith KM, Nicholls M, Emery A, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor-A isoform interaction with RUNX transcription factors controls chromatin remodelling at promoters during ovulation. _bioRxiv_. doi:10.1101/2021.06.17.448908. **PREPRINT** 
+Dinh DT, **Breen J**, Nicol B, Smith KM, Nicholls M, Emery A, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor-A isoform interaction with RUNX transcription factors controls chromatin remodelling at promoters during ovulation. _bioRxiv_. [doi:10.1101/2021.06.17.448908](https://doi.org/10.1101/2021.06.17.448908). **PREPRINT** 
 
-Richards SM, Li L, **Breen J**, Hovhannisyan N, Estrada O, Gasparyan B, Gilliham M, Smith A, Cooper A & Zhang H. (2021). Recovery of Chloroplast Genomes from Medieval Millet Grains Excavated from the Areni-1 Cave in Southern Armenia. _Research Square_. doi:10.21203/rs.3.rs-959635/v1. **PREPRINT** 
+Richards SM, Li L, **Breen J**, Hovhannisyan N, Estrada O, Gasparyan B, Gilliham M, Smith A, Cooper A & Zhang H. (2021). Recovery of Chloroplast Genomes from Medieval Millet Grains Excavated from the Areni-1 Cave in Southern Armenia. _Research Square_. [doi:10.21203/rs.3.rs-959635/v1](https://doi.org/10.21203/rs.3.rs-959635/v1). **PREPRINT** 
 
-Skerrett-Byrne DA, Nixon B, Bromfield EG, **Breen J**, Trigg NA, Stanger SJ, Bernstein IR, Anderson AL, Lord T, Aitken RJ, Roman SD, Robertson SA & Schjenken JE. (2021). Transcriptomic analysis of the seminal vesicle response to the reproductive toxicant acrylamide. _BMC Genomics_ 22:728. doi:10.1186/s12864-021-07951-1
+Skerrett-Byrne DA, Nixon B, Bromfield EG, **Breen J**, Trigg NA, Stanger SJ, Bernstein IR, Anderson AL, Lord T, Aitken RJ, Roman SD, Robertson SA & Schjenken JE. (2021). Transcriptomic analysis of the seminal vesicle response to the reproductive toxicant acrylamide. _BMC Genomics_ 22:728. [doi:10.1186/s12864-021-07951-1](https://doi.org/10.1186/s12864-021-07951-1).
 
-Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. 1-14 doi:10.1080/15476286.2021.1963105 
+Smith MD, Pillman K, Jankovic-Karasoulos T, McAninch D, Wan Q, Bogias KJ, McCullough D, Bianco-Miotto T, **Breen J** & Roberts CT. (2020). Large-scale transcriptome-wide profiling of microRNAs in human placenta and maternal plasma at early to mid gestation. _RNA Biology_. 1-14. [doi:10.1080/15476286.2021.1963105](https://doi.org/10.1080/15476286.2021.1963105).
 
-Liu N, Low WY, Alinejad-Rokny H, Pederson SM, Sadlon T, Barry SC & **Breen J**. (2021). Seeing the forest through the trees: Prioritising potentially functional interactions from Hi-C. _Epigenetics & Chromatin_. 14(1): 1-17. doi:10.1186/s13072-021-00417-4
+Liu N, Low WY, Alinejad-Rokny H, Pederson SM, Sadlon T, Barry SC & **Breen J**. (2021). Seeing the forest through the trees: Prioritising potentially functional interactions from Hi-C. _Epigenetics & Chromatin_. 14(1): 1-17. [doi:10.1186/s13072-021-00417-4](https://doi.org/10.1186/s13072-021-00417-4).
 
-Downes CEJ, McClure BJ, Bruning JB, Page E, **Breen J**, Rehn J, Yeung DT & White DL. (2021). Acquired mutations within the JAK2 kinase domain confer resistance to type-I and type-II JAK inhibitors in in vitro models of a high-risk acute lymphoblastic leukemia. _NPJ Precision Oncology_. 5(1): 1-13. doi:10.1038/s41698-021-00215-x
+Downes CEJ, McClure BJ, Bruning JB, Page E, **Breen J**, Rehn J, Yeung DT & White DL. (2021). Acquired mutations within the JAK2 kinase domain confer resistance to type-I and type-II JAK inhibitors in in vitro models of a high-risk acute lymphoblastic leukemia. _NPJ Precision Oncology_. 5(1): 1-13. [doi:10.1038/s41698-021-00215-x](https://doi.org/10.1038/s41698-021-00215-x).
 
 Mullany S, Souzeau E, Klebe S, Zhou T, Knight LSW, Qassim A, Berry E, Marshall H, Hussey M, Dubowsky A, Hassall MM, **Breen J**, Hassall M, Mills RA, Craig JE & Siggs OM. (2021). A novel GSN variant affecting gelsolin domain 4 is associated with Familial Amyloidosis of the Finnish type. _Human Mutation_. 42(7): 818-826. [doi:10.1002/humu.24214](https://doi-org.proxy.library.adelaide.edu.au/10.1002/humu.24214)
 
