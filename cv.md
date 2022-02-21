@@ -62,6 +62,10 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Journal Articles
 
+#### 2022
+
+Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _medRxiv_. [doi:10.1101/2022.02.17.22270919](https://doi.org/10.1101/2022.02.17.22270919). **PREPRINT**
+
 #### 2021
 
 McClure BJ, Pal M, Heatley SL, Rehn J, Schutz C, **Breen J**, Venn NC, Sutton R, Khaw SL, Yeung DT & White DL. (2021). Two novel cases of NUTM1-rearranged B-cell acute lymphoblastic leukemia presenting with high-risk features. _British Journal of Haematology_. Accepted 30/11/2021
