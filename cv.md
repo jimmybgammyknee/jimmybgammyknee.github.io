@@ -375,14 +375,14 @@ Primary supervised in **bold**
 - Alastair Lundington (PhD, University of Adelaide)
 - Sam Godwin (PhD, University of Adelaide)
 - Rebecca Simpson (PhD, University of Adelaide)
-- Madyson Colton (PhD, University of Adelaide)
-- Ashlee Thompson (MPhil, University of Adelaide)
+- Madyson Colton (PhD, SAHMRI & University of Adelaide)
+- Ashlee Thompson (MPhil, SAHMRI & University of Adelaide & SAHMRI)
   
 #### Completed
 
 - **Melanie Smith (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
     - Now working as a Postdoc at Flinders University, Adelaide, Australia
-    - Submitted August 2021
+    - Conferral February 2022
 - **Ning Liu (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
     - Now working as a Postdoc at the Walter and Eliza Hall Institute of Medical Research (WEHI) Melbourne, Australia
     - Submitted May 2021
