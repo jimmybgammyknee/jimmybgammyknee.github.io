@@ -64,6 +64,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+Kimura S, Montefiori L, Iacobucci I, Zhao Y, Gao Q, Paietta EM, Haferlach C, Laird AD, Mead PE, Gu Z, Stock W, Litzow MR, Rowe JM, Luger SM, Hunger SP, Ryland G, Schmidt BM, Ekert PG, Oshlack A, Grimmond S, Rehn J, Breen J, Yeung DT, White DL, Aldoss I, Jabbour EJ, Pui C-H, Meggendorfer M, Walter W, Kern W, Haferlach T, Brady SW, Zhang J, Roberts KG, Blombery P & Mullighan CG. (2022). Enhancer retargeting of CDX2 and UBTF::ATXN7L3 define a subtype of high-risk B-progenitor acute lymphoblastic leukemia. _Blood_. blood.2022015444. [doi:10.1182/blood.2022015444](https://doi.org/10.1182/blood.2022015444).
+
 Okada T, McIlfatrick S, Hin N, Aryamanesh N, **Breen J** & St. John JC. (2022). Mitochondrial supplementation of Sus scrofa metaphase II oocytes alters DNA methylation and gene expression profiles of blastocysts. _Epigenetics & Chromatin_. Accepted 22/02/2022
 
 Arthurs AL, Smith MD, Hintural MD, **Breen J**, McCullough D, Thornton F, Leemaqz S, Dekker GA, Jankovic-Karasoulos T & Roberts CT. (2022). Parturition: the end of tolerance in pregnancy. _Frontiers in Immunology_. Accepted 22/02/2022
