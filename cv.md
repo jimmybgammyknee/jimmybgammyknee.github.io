@@ -64,7 +64,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
-Kimura S, Montefiori L, Iacobucci I, Zhao Y, Gao Q, Paietta EM, Haferlach C, Laird AD, Mead PE, Gu Z, Stock W, Litzow MR, Rowe JM, Luger SM, Hunger SP, Ryland G, Schmidt BM, Ekert PG, Oshlack A, Grimmond S, Rehn J, Breen J, Yeung DT, White DL, Aldoss I, Jabbour EJ, Pui C-H, Meggendorfer M, Walter W, Kern W, Haferlach T, Brady SW, Zhang J, Roberts KG, Blombery P & Mullighan CG. (2022). Enhancer retargeting of CDX2 and UBTF::ATXN7L3 define a subtype of high-risk B-progenitor acute lymphoblastic leukemia. _Blood_. blood.2022015444. [doi:10.1182/blood.2022015444](https://doi.org/10.1182/blood.2022015444).
+Mullany S, Marshall H, Zhou T, Thomson D, Schmidt JM, Qassim A, Knight LSW, Hollitt G, Berry EC, Nguyen T, To M-S, Dimasi D, Kuot A, Dubowsky J, Fogarty R, Sun M, Chehade L, Kuruvilla S, Supramaniam D, Hussey M, **Breen J**, Sharma S, Landers J, Lake S, Mills RA, Hassall MM, Chan WO, Klebe S, Souzeau E, Siggs OM & Craig JE. (2022). RNA sequencing of lens capsular epithelium implicates novel pathways in pseudoexfoliation syndrome. _Investigative Ophthalmology & Visual Science_. Accepted 2/3/2022
+
+Kimura S, Montefiori L, Iacobucci I, Zhao Y, Gao Q, Paietta EM, Haferlach C, Laird AD, Mead PE, Gu Z, Stock W, Litzow MR, Rowe JM, Luger SM, Hunger SP, Ryland G, Schmidt BM, Ekert PG, Oshlack A, Grimmond S, Rehn J, **Breen J**, Yeung DT, White DL, Aldoss I, Jabbour EJ, Pui C-H, Meggendorfer M, Walter W, Kern W, Haferlach T, Brady SW, Zhang J, Roberts KG, Blombery P & Mullighan CG. (2022). Enhancer retargeting of CDX2 and UBTF::ATXN7L3 define a subtype of high-risk B-progenitor acute lymphoblastic leukemia. _Blood_. blood.2022015444. [doi:10.1182/blood.2022015444](https://doi.org/10.1182/blood.2022015444).
 
 Okada T, McIlfatrick S, Hin N, Aryamanesh N, **Breen J** & St. John JC. (2022). Mitochondrial supplementation of Sus scrofa metaphase II oocytes alters DNA methylation and gene expression profiles of blastocysts. _Epigenetics & Chromatin_. Accepted 22/02/2022
 
