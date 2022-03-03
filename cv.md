@@ -64,6 +64,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+**Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2022). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. _International Journal of Molecular Sciences_. Accepted 03/03/2021.  
+Preprint version: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477). 
+
 Mullany S, Marshall H, Zhou T, Thomson D, Schmidt JM, Qassim A, Knight LSW, Hollitt G, Berry EC, Nguyen T, To M-S, Dimasi D, Kuot A, Dubowsky J, Fogarty R, Sun M, Chehade L, Kuruvilla S, Supramaniam D, Hussey M, **Breen J**, Sharma S, Landers J, Lake S, Mills RA, Hassall MM, Chan WO, Klebe S, Souzeau E, Siggs OM & Craig JE. (2022). RNA sequencing of lens capsular epithelium implicates novel pathways in pseudoexfoliation syndrome. _Investigative Ophthalmology & Visual Science_. Accepted 2/3/2022
 
 Kimura S, Montefiori L, Iacobucci I, Zhao Y, Gao Q, Paietta EM, Haferlach C, Laird AD, Mead PE, Gu Z, Stock W, Litzow MR, Rowe JM, Luger SM, Hunger SP, Ryland G, Schmidt BM, Ekert PG, Oshlack A, Grimmond S, Rehn J, **Breen J**, Yeung DT, White DL, Aldoss I, Jabbour EJ, Pui C-H, Meggendorfer M, Walter W, Kern W, Haferlach T, Brady SW, Zhang J, Roberts KG, Blombery P & Mullighan CG. (2022). Enhancer retargeting of CDX2 and UBTF::ATXN7L3 define a subtype of high-risk B-progenitor acute lymphoblastic leukemia. _Blood_. blood.2022015444. [doi:10.1182/blood.2022015444](https://doi.org/10.1182/blood.2022015444).
@@ -163,8 +166,6 @@ Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Fo
 Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J.** (2018). msgbsR: an R package for analysing methylation-sensitive restriction enzyme sequencing data. *Scientific Reports*. 2190. doi:[10.1038/s41598-018-19655-w](https://doi.org/10.1038/s41598-018-19655-w). **Corresponding/Senior Author**
 
 #### 2017
-
-**Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2017). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477). **PREPRINT**
 
 Xie H, Konate M, Sai N, Tesfamicael KG, Cavagnaro T, Gilliham T, **Breen J**, Metcalfe A, Stephen JR, DeBei R, Collins C & Rodriguez Lopez CM. (2017). Global DNA methylation patterns can play a role in defining terroir in grapevine (*Vitis vinifera* cv. Shiraz). *Frontiers in Plant Science*. 8:1860. doi:10.3389/fpls.2017.01860 <br>
 <ins> Preprint</ins>: *bioRxiv* [https://www.biorxiv.org/content/early/2017/04/29/127977](https://www.biorxiv.org/content/early/2017/04/29/127977)
