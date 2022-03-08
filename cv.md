@@ -64,6 +64,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+Bogias KJ, Pederson SM, Leemaqz S, Smith MD, McAninch D, Jankovic-Karasoulos T, McCullough D, Wan Q, Bianco-Miotto T, **Breen J** & Roberts CT. (2022). Placental transcription profiling in 6-23 weeks' gestation reveals differential transcript usage in early development. _medRxiv_ [doi:10.1101/2022.03.03.22271882](https://doi.org/10.1101/2022.03.03.22271882).
+
 **Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2022). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. _International Journal of Molecular Sciences_. Accepted 03/03/2021.  
 Preprint version: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477). 
 
