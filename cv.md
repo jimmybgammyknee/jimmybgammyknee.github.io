@@ -81,7 +81,7 @@ Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcr
 
 #### 2021
 
-McClure BJ, Pal M, Heatley SL, Rehn J, Schutz C, **Breen J**, Venn NC, Sutton R, Khaw SL, Yeung DT & White DL. (2021). Two novel cases of NUTM1-rearranged B-cell acute lymphoblastic leukemia presenting with high-risk features. _British Journal of Haematology_. Dec 12. [doi:10.1111/bjh.17995](https://doi.org/10.1111/bjh.17995).
+McClure BJ, Pal M, Heatley SL, Rehn J, Schutz C, **Breen J**, Venn NC, Sutton R, Khaw SL, Yeung DT & White DL. (2021). Two novel cases of NUTM1-rearranged B-cell acute lymphoblastic leukemia presenting with high-risk features. _British Journal of Haematology_. 196(6): 1407-1411 [doi:10.1111/bjh.17995](https://doi.org/10.1111/bjh.17995).
 
 Paule SG, Heng S, Samarajeewa N, Li Y, Wang Y, Webb AI, Young SL, Lessey BA, Hull ML, **Breen J**, Van de Velde H, Scelwyn M, Vollenhoven B, Rombauts LK & Nie G. (2021). Podocalyxin governs the barrier function of human endometrial epithelium and critically regulates receptivity for embryo implantation. _Scientific Reports_. 11, 24016. [doi:10.1038/s41598-021-03425-2](https://doi.org/10.1038/s41598-021-03425-2).
 
