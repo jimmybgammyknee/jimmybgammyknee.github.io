@@ -64,6 +64,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2020). Integrative analysis of mutated genes and mutational processes reveals seven colorectal cancer subtypes. _BMC Bioinformatics_. Accepted 24/03/2022  
+
 Rezaei N, Bayati M, Tahaei MS, Khorasani S, Hamidi N, Lovell N, Breen J, Rabiee H & Alinejad Rokny H. (2022). Somatic point mutations are enriched in long non-coding RNAs with possible regulatory function in breast cancer. _Communications Biology_. Accepted 23/03/2022
 
 Bogias KJ, Pederson SM, Leemaqz S, Smith MD, McAninch D, Jankovic-Karasoulos T, McCullough D, Wan Q, Bianco-Miotto T, **Breen J** & Roberts CT. (2022). Placental transcription profiling in 6-23 weeks' gestation reveals differential transcript usage in early development. _medRxiv_ [doi:10.1101/2022.03.03.22271882](https://doi.org/10.1101/2022.03.03.22271882).
@@ -121,8 +123,6 @@ McClure BJ, Heatley SL, Rehn J, **Breen J**, Sutton R, Hughes TP, Suppiah R, Rev
 **Breen J**, McAninch D, Jankovic-Karasoulos T, McCullough D, Smith MD, Bogias KJ, Wan Q, Choudhry A, Hin N, Pederson SM, Bianco-Miotto T & Roberts CT. (2020). Temporal placental genome wide expression profiles reflect three phases of utero-placental blood flow during early to mid human gestation. _MedRxiv_. [doi:10.1101/2020.06.25.20139709](https://doi.org/10.1101/2020.06.25.20139709). **PREPRINT**  
 
 Brown CY, Sadlon TJ, Hope CM, Wong YY, Wong SW, Liu N, Withers H, Brown KA, Bandara V,  Gundsambuu B, Pederson SM, **Breen J**, Robertson SA, Forrest A, Beyer M & Barry SC. (2020). Molecular Insights Into Regulatory T-Cell Adaptation to Self, Environment, and Host Tissues: Plasticity or Loss of Function in Autoimmune Disease. _Frontiers of Immunology_. 11:1269. [doi:10.3389/fimmu.2020.01269](https://doi.org/10.3389/fimmu.2020.01269)
-
-Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2020). Integrative analysis of mutated genes and mutational processes reveals seven colorectal cancer subtypes. _bioRxiv_. doi:[10.1101/2020.05.18.101022](https://doi.org/10.1101/2020.05.18.101022). **PREPRINT**  
 
 Kennedy S, Jarboui M-A, Srihari S, Raso C, Bryan K, Dernayka L, Charitou T, Bernal-Llinares M, Herrera-Montavez C, Krstic A, Matallanas D, Kotlyar M, Jurisica I, Curak J, Wong V, Stagljar I, LeBihan T, Imrie L, Pillai P, Lynn MA, Fasterius E, Szigyarto CA-K, **Breen J**, Kiel C, Serrano L, Rauch N, Rukhlenko O, Kholodenko BN, Iglesias-Martinez LF, Ryan C, Pilkington R, Cammareri P, Sansom O, Shave S, Auer M, Horn N, Klose F, Ueffing M, Boldt K, Lynn DJ & Kolch W. (2020). Extensive Rewiring of the the Epidermal Growth Factor Receptor EGFR Networks in Colorectal Cancer Cells Expressing Transforming Levels of Oncogenic KRAS G13D. _Nature Communications_. 11:499. doi:[10.1038/s41467-019-14224-9](https://doi.org/10.1038/s41467-019-14224-9)
 
