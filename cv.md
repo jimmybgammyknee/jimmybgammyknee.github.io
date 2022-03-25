@@ -66,7 +66,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2020). Integrative analysis of mutated genes and mutational processes reveals seven colorectal cancer subtypes. _BMC Bioinformatics_. Accepted 24/03/2022  
 
-Rezaei N, Bayati M, Tahaei MS, Khorasani S, Hamidi N, Lovell N, Breen J, Rabiee H & Alinejad Rokny H. (2022). Somatic point mutations are enriched in long non-coding RNAs with possible regulatory function in breast cancer. _Communications Biology_. Accepted 23/03/2022
+Rezaei N, Bayati M, Tahaei MS, Khorasani S, Hamidi N, Lovell N, **Breen J**, Rabiee H & Alinejad Rokny H. (2022). Somatic point mutations are enriched in long non-coding RNAs with possible regulatory function in breast cancer. _Communications Biology_. Accepted 23/03/2022
 
 Bogias KJ, Pederson SM, Leemaqz S, Smith MD, McAninch D, Jankovic-Karasoulos T, McCullough D, Wan Q, Bianco-Miotto T, **Breen J** & Roberts CT. (2022). Placental transcription profiling in 6-23 weeks' gestation reveals differential transcript usage in early development. _medRxiv_ [doi:10.1101/2022.03.03.22271882](https://doi.org/10.1101/2022.03.03.22271882).
 
