@@ -79,7 +79,7 @@ Kimura S, Montefiori L, Iacobucci I, Zhao Y, Gao Q, Paietta EM, Haferlach C, Lai
 
 Okada T, McIlfatrick S, Hin N, Aryamanesh N, **Breen J** & St. John JC. (2022). Mitochondrial supplementation of Sus scrofa metaphase II oocytes alters DNA methylation and gene expression profiles of blastocysts. _Epigenetics & Chromatin_. Accepted 22/02/2022
 
-Arthurs AL, Smith MD, Hintural MD, **Breen J**, McCullough D, Thornton F, Leemaqz S, Dekker GA, Jankovic-Karasoulos T & Roberts CT. (2022). Parturition: the end of tolerance in pregnancy. _Frontiers in Immunology_. Accepted 22/02/2022
+Arthurs AL, Smith MD, Hintural MD, **Breen J**, McCullough D, Thornton F, Leemaqz S, Dekker GA, Jankovic-Karasoulos T & Roberts CT. (2022). Parturition: the end of tolerance in pregnancy. _Frontiers in Immunology_. 13: Online 25 Mar 2022 [doi:10.3389/fimmu.2022.807750](https://doi.org/10.3389/fimmu.2022.807750)
 
 Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _medRxiv_. [doi:10.1101/2022.02.17.22270919](https://doi.org/10.1101/2022.02.17.22270919). **PREPRINT**
 
