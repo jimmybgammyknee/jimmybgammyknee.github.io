@@ -161,10 +161,6 @@ Tikhomirova A, Trappetti C, Standish A, Zhou Y, **Breen J**, Pederson S, Zilm P,
 
 Estrada O, **Breen J**, Richards SM & Cooper A. (2018). Ancient plant DNA in the genomic era. _Nature Plants_ 4:394–396. doi:[10.1038/s41477-018-0187-9](https://doi.org/10.1038/s41477-018-0187-9). **Corresponding/Senior Author**
 
-MacLennan A, Kruer M, Baynam G, Moreno-De-Luca A, Wilson Y, Zhu C, Wintle R, Gecz, J, **On behalf of the members of the International Cerebral Palsy Genomics Consortium**. (2018). Cerebral palsy and genomics: an international consortium. *Developmental Medicine and Child Neurology*. 60(2):209-210. doi:[10.1111/dmcn.13643](https://doi.org/10.1111/dmcn.13643).
-
-Alaux M, Rogers J, Letellier T, Flores R, Alfama F, Pommier C, Mohellibi N, Durand S, Kimmel E, Michotey C, Guerche C, Loaec M, Lainé M, Steinbach D, Choulet F, Rimbert H, Leroy P, Guilhot N, Salse J, Feuillet C, **International Wheat Genome Sequencing Consortium**, Paux E,  Eversole K, Adam-Blondon A-F and Quesneville H. (2018). Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data. _Genome Biology_. 19:111. doi: [10.1186/s13059-018-1491-4](https://doi.org/10.1186/s13059-018-1491-4)
-
 Sadlon T, Brown CY, Bandara V, Hope CM, Schjenken J, Pederson S, **Breen J**, Forrest A, Beyer M, Robertson SA and Barry SC. (2018), Unravelling the molecular basis for regulatory T cell plasticity. _Clinical & Translational Immunology_. 7(2):e1011. doi:[10.1002/cti2.1011](https://doi.org/10.1002/cti2.1011).
 
 Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto T & **Breen J.** (2018). msgbsR: an R package for analysing methylation-sensitive restriction enzyme sequencing data. *Scientific Reports*. 2190. doi:[10.1038/s41598-018-19655-w](https://doi.org/10.1038/s41598-018-19655-w). **Corresponding/Senior Author**
@@ -236,6 +232,14 @@ Choulet F, Wicker T, Rustenholz, C, Paux, E, Salse, J, Leroy P, Schlub S, LePasl
 #### 2007
 
 Moolhuijzen P, Dunn DS, Bellgard M, Carter M, Jia J, Kong XY, Gill BS, Feuillet C, **Breen J**, Appels R. (2007). Wheat genome structure and function: genome sequence data and the International Wheat Genome Sequencing Consortium. *Crop & Pasture Science* 58: 470-75. [doi:10.1071/AR06155](http://dx.doi.org/10.1071/AR06155)
+
+### Consortium papers
+
+Bournazos AM, Riley LG, Bommireddipalli S, Ades L, Akesson LS, Al-Shinnag M, Alexander SI, Archibald AD, Balasubramaniam S, Berman Y, et al. (2022). Standardized practices for RNA diagnostics using clinically accessible specimens reclassifies 75% of putative splicing variants. _Genetics in Medicine_. 24:130–145.
+
+MacLennan A, Kruer M, Baynam G, Moreno-De-Luca A, Wilson Y, Zhu C, Wintle R, Gecz, J, **On behalf of the members of the International Cerebral Palsy Genomics Consortium**. (2018). Cerebral palsy and genomics: an international consortium. *Developmental Medicine and Child Neurology*. 60(2):209-210. doi:[10.1111/dmcn.13643](https://doi.org/10.1111/dmcn.13643).
+
+Alaux M, Rogers J, Letellier T, Flores R, Alfama F, Pommier C, Mohellibi N, Durand S, Kimmel E, Michotey C, Guerche C, Loaec M, Lainé M, Steinbach D, Choulet F, Rimbert H, Leroy P, Guilhot N, Salse J, Feuillet C, **International Wheat Genome Sequencing Consortium**, Paux E,  Eversole K, Adam-Blondon A-F and Quesneville H. (2018). Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data. _Genome Biology_. 19:111. doi: [10.1186/s13059-018-1491-4](https://doi.org/10.1186/s13059-018-1491-4)
 
 ---
 
