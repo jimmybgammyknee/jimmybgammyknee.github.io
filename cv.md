@@ -241,6 +241,10 @@ MacLennan A, Kruer M, Baynam G, Moreno-De-Luca A, Wilson Y, Zhu C, Wintle R, Gec
 
 Alaux M, Rogers J, Letellier T, Flores R, Alfama F, Pommier C, Mohellibi N, Durand S, Kimmel E, Michotey C, Guerche C, Loaec M, Lainé M, Steinbach D, Choulet F, Rimbert H, Leroy P, Guilhot N, Salse J, Feuillet C, **International Wheat Genome Sequencing Consortium**, Paux E,  Eversole K, Adam-Blondon A-F and Quesneville H. (2018). Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data. _Genome Biology_. 19:111. doi: [10.1186/s13059-018-1491-4](https://doi.org/10.1186/s13059-018-1491-4)
 
+### Book chapters
+
+Estrada O, Richards SM & Breen J. (2021). Discovering the Secrets of Ancient Plants: Recovery of DNA from Museum and Archaeological Plant Specimens. In Pereira-Santana A, Gamboa-Tuz SD & Rodriguez-Zapata LC (eds.), Plant Comparative Genomics, Methods in Molecular Biology, vol. 2512, https://doi.org/10.1007/978-1-0716-2429-6_15
+
 ---
 
 ## Competitive Grants & External Research Funding
