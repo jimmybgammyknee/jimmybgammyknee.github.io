@@ -69,10 +69,10 @@ Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Al
 Rezaei N, Bayati M, Tahaei MS, Khorasani S, Hamidi N, Lovell N, **Breen J**, Rabiee H & Alinejad Rokny H. (2022). Somatic point mutations are enriched in long non-coding RNAs with possible regulatory function in breast cancer. _Communications Biology_. Accepted 23/03/2022
 
 Bogias KJ, Pederson SM, Leemaqz S, Smith MD, McAninch D, Jankovic-Karasoulos T, McCullough D, Wan Q, Bianco-Miotto T, **Breen J** & Roberts CT. (2022). Placental transcription profiling in 6-23 weeks' gestation reveals differential transcript usage in early development. _International Journal of Molecular Sciences_. Accepted 13/04/2021.  
-- Preprint version: *medRxiv* [doi:10.1101/2022.03.03.22271882](https://doi.org/10.1101/2022.03.03.22271882).
+<u>Preprint version:</u> *medRxiv* [doi:10.1101/2022.03.03.22271882](https://doi.org/10.1101/2022.03.03.22271882).
 
 **Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2022). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. _International Journal of Molecular Sciences_. Accepted 03/03/2021.  
-- Preprint version: *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477). 
+<u>Preprint version:</u> *bioRxiv* [http://biorxiv.org/content/early/2016/08/26/059477](http://biorxiv.org/content/early/2016/08/26/059477). 
 
 Mullany S, Marshall H, Zhou T, Thomson D, Schmidt JM, Qassim A, Knight LSW, Hollitt G, Berry EC, Nguyen T, To M-S, Dimasi D, Kuot A, Dubowsky J, Fogarty R, Sun M, Chehade L, Kuruvilla S, Supramaniam D, Hussey M, **Breen J**, Sharma S, Landers J, Lake S, Mills RA, Hassall MM, Chan WO, Klebe S, Souzeau E, Siggs OM & Craig JE. (2022). RNA sequencing of lens capsular epithelium implicates novel pathways in pseudoexfoliation syndrome. _Investigative Ophthalmology & Visual Science_. Accepted 2/3/2022
 
