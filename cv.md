@@ -64,13 +64,16 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
-Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, Breen J, Roberts CT, Pillman KA. (2022). DraculR: A web based application for in silico haemolysis detection in high throughput small RNA sequencing data. _medRxiv_. [doi:10.1101/2022.03.27.22273019](https://doi.org/10.1101/2022.03.27.22273019). **PREPRINT**
+Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _International Journal of Molecular Sciences_. 23(9), 4574. [doi:10.3390/ijms23094574](https://doi.org/10.3390/ijms23094574).  
+<u>Preprint version:</u> _medRxiv_. [doi:10.1101/2022.02.17.22270919v1](https://www.medrxiv.org/content/10.1101/2022.02.17.22270919v1).
 
-Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2020). Integrative analysis of mutated genes and mutational processes reveals seven colorectal cancer subtypes. _BMC Bioinformatics_. Accepted 24/03/2022  
+Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, **Breen J**, Roberts CT, Pillman KA. (2022). DraculR: A web based application for in silico haemolysis detection in high throughput small RNA sequencing data. _medRxiv_. [doi:10.1101/2022.03.27.22273019](https://doi.org/10.1101/2022.03.27.22273019). **PREPRINT**
+
+Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2022). Integrative analysis of mutated genes and mutational processes reveals novel mutational biomarkers in colorectal cancer. _BMC Bioinformatics_. 23, 138. [doi:10.1186/s12859-022-04652-8](https://doi.org/10.1186/s12859-022-04652-8).
 
 Rezaei N, Bayati M, Tahaei MS, Khorasani S, Hamidi N, Lovell N, **Breen J**, Rabiee H & Alinejad Rokny H. (2022). Somatic point mutations are enriched in long non-coding RNAs with possible regulatory function in breast cancer. _Communications Biology_. Accepted 23/03/2022
 
-Bogias KJ, Pederson SM, Leemaqz S, Smith MD, McAninch D, Jankovic-Karasoulos T, McCullough D, Wan Q, Bianco-Miotto T, **Breen J** & Roberts CT. (2022). Placental transcription profiling in 6-23 weeks' gestation reveals differential transcript usage in early development. _International Journal of Molecular Sciences_. Accepted 13/04/2021.  
+Bogias KJ, Pederson SM, Leemaqz S, Smith MD, McAninch D, Jankovic-Karasoulos T, McCullough D, Wan Q, Bianco-Miotto T, **Breen J** & Roberts CT. (2022). Placental transcription profiling in 6-23 weeks' gestation reveals differential transcript usage in early development. _International Journal of Molecular Sciences_. 23(9), 4506. [doi:10.3390/ijms23094506](https://doi.org/10.3390/ijms23094506).  
 <u>Preprint version:</u> *medRxiv* [doi:10.1101/2022.03.03.22271882](https://doi.org/10.1101/2022.03.03.22271882).
 
 **Breen J**, Mur LAJ, Sivakumaran A, Akinyemi A, Wilkinson MJ & Rodriguez Lopez CM. (2022). *Botrytis cinerea* loss and restoration of virulence during in vitro culture follows flux in global DNA methylation. _International Journal of Molecular Sciences_. Accepted 03/03/2021.  
@@ -83,8 +86,6 @@ Kimura S, Montefiori L, Iacobucci I, Zhao Y, Gao Q, Paietta EM, Haferlach C, Lai
 Okada T, McIlfatrick S, Hin N, Aryamanesh N, **Breen J** & St. John JC. (2022). Mitochondrial supplementation of Sus scrofa metaphase II oocytes alters DNA methylation and gene expression profiles of blastocysts. _Epigenetics & Chromatin_. Accepted 22/02/2022
 
 Arthurs AL, Smith MD, Hintural MD, **Breen J**, McCullough D, Thornton F, Leemaqz S, Dekker GA, Jankovic-Karasoulos T & Roberts CT. (2022). Parturition: the end of tolerance in pregnancy. _Frontiers in Immunology_. 13: Online 25 Mar 2022 [doi:10.3389/fimmu.2022.807750](https://doi.org/10.3389/fimmu.2022.807750)
-
-Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _medRxiv_. [doi:10.1101/2022.02.17.22270919](https://doi.org/10.1101/2022.02.17.22270919). **PREPRINT**
 
 #### 2021
 
