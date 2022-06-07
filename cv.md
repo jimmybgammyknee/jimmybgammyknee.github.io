@@ -64,6 +64,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2022). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _Epigenetics & Chromatin_. Accepted 6/6/2022.  
+<u>Preprint version:</u> _bioRxiv_.  doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). 
+
 Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _International Journal of Molecular Sciences_. 23(9), 4574. [doi:10.3390/ijms23094574](https://doi.org/10.3390/ijms23094574).  
 <u>Preprint version:</u> _medRxiv_. [doi:10.1101/2022.02.17.22270919v1](https://www.medrxiv.org/content/10.1101/2022.02.17.22270919v1).
 
@@ -117,8 +120,6 @@ Dini P, Kalbfleisch T, Carossino M, El-Sheikh Ali H, Loux SC, Esteller-Vico A, N
 Tangseefa P, Martin SK, Chin PY, **Breen J**, Mah CY, Baldock PA, Wittert GA, Page AJ, Proud CG, Fitter S & Zannettino ACW. (2021). The mTORC1 complex in pre-osteoblasts regulates whole-body energy metabolism independently of osteocalcin. _Bone Research_ 9:10. [doi:10.1038/s41413-020-00123-z](https://doi.org/10.1038/s41413-020-00123-z)
 
 #### 2020
-
-Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2020). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _bioRxiv_. doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). **PREPRINT** 
 
 Hng CH, Camp E, Anderson P, **Breen J**, Zannettino A & Gronthos S. (2020). HOPX regulates bone marrow-derived mesenchymal stromal cell fate determination via suppression of adipogenic gene pathways. _Scientific Reports_. 10:11345. doi:[10.1038/s41598-020-68261-2](https://doi.org/10.1038/s41598-020-68261-2).
 
