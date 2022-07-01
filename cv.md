@@ -64,7 +64,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
-Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2022). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _Epigenetics & Chromatin_. Accepted 6/6/2022.  
+Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2022). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _Epigenetics & Chromatin_. 15,24. doi[10.1186/s13072-022-00456-5](https://doi.org/10.1186/s13072-022-00456-5).  
 <u>Preprint version:</u> _bioRxiv_.  doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). 
 
 Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _International Journal of Molecular Sciences_. 23(9), 4574. [doi:10.3390/ijms23094574](https://doi.org/10.3390/ijms23094574).  
