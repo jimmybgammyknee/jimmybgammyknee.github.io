@@ -70,7 +70,8 @@ Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2022). 3DFAACTS-
 Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _International Journal of Molecular Sciences_. 23(9), 4574. [doi:10.3390/ijms23094574](https://doi.org/10.3390/ijms23094574).  
 <u>Preprint version:</u> _medRxiv_. [doi:10.1101/2022.02.17.22270919v1](https://www.medrxiv.org/content/10.1101/2022.02.17.22270919v1).
 
-Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, **Breen J**, Roberts CT, Pillman KA. (2022). DraculR: A web based application for in silico haemolysis detection in high throughput small RNA sequencing data. _medRxiv_. [doi:10.1101/2022.03.27.22273019](https://doi.org/10.1101/2022.03.27.22273019). **PREPRINT**
+Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, **Breen J**, Roberts CT, Pillman KA. (2022). DraculR: A web based application for in silico haemolysis detection in high throughput small RNA sequencing data. _Genes_. Accepted 01/07/2022.  
+<u>Preprint version:</u> _medRxiv_. [doi:10.1101/2022.03.27.22273019](https://doi.org/10.1101/2022.03.27.22273019). **PREPRINT**
 
 Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2022). Integrative analysis of mutated genes and mutational processes reveals novel mutational biomarkers in colorectal cancer. _BMC Bioinformatics_. 23, 138. [doi:10.1186/s12859-022-04652-8](https://doi.org/10.1186/s12859-022-04652-8).
 
