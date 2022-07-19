@@ -64,6 +64,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+Souzeau E, Siggs O, Mullany S, Schmidt J, Hassall M, Dubowsky A, Chappell A, **Breen J**, Bae H, Nicholl J, Hadler J, Kearns L, Staffieri S, Hewitt A, Mackey D, Gupta A, Burdon K, Klebe S, Craig J & Mills R. (2021). Diagnostic yield of candidate genes in an Australian corneal dystrophy cohort. _Molecular Genetics & Genomic Medicine_. Accepted 19/7/2021
+
 Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2022). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _Epigenetics & Chromatin_. 15,24. doi[10.1186/s13072-022-00456-5](https://doi.org/10.1186/s13072-022-00456-5).  
 <u>Preprint version:</u> _bioRxiv_.  doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). 
 
