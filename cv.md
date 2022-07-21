@@ -64,6 +64,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McAninch D, McCullough D, Breen J, Roberts CT, Pillman KA. (2022). Haemolysis Detection in MicroRNA-seq from Clinical Plasma Samples. _Genes._ 13(7):1288. [doi:10.3390/genes13071288](https://doi.org/10.3390/genes13071288)
+
 Souzeau E, Siggs O, Mullany S, Schmidt J, Hassall M, Dubowsky A, Chappell A, **Breen J**, Bae H, Nicholl J, Hadler J, Kearns L, Staffieri S, Hewitt A, Mackey D, Gupta A, Burdon K, Klebe S, Craig J & Mills R. (2021). Diagnostic yield of candidate genes in an Australian corneal dystrophy cohort. _Molecular Genetics & Genomic Medicine_. Accepted 19/7/2021
 
 Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2022). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _Epigenetics & Chromatin_. 15,24. doi[10.1186/s13072-022-00456-5](https://doi.org/10.1186/s13072-022-00456-5).  
@@ -72,8 +74,7 @@ Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2022). 3DFAACTS-
 Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _International Journal of Molecular Sciences_. 23(9), 4574. [doi:10.3390/ijms23094574](https://doi.org/10.3390/ijms23094574).  
 <u>Preprint version:</u> _medRxiv_. [doi:10.1101/2022.02.17.22270919v1](https://www.medrxiv.org/content/10.1101/2022.02.17.22270919v1).
 
-Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, **Breen J**, Roberts CT, Pillman KA. (2022). DraculR: A web based application for in silico haemolysis detection in high throughput small RNA sequencing data. _Genes_. Accepted 01/07/2022.  
-<u>Preprint version:</u> _medRxiv_. [doi:10.1101/2022.03.27.22273019](https://doi.org/10.1101/2022.03.27.22273019). **PREPRINT**
+Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, **Breen J**, Roberts CT, Pillman KA. (2022). DraculR: A web based application for in silico haemolysis detection in high throughput small RNA sequencing data. <u>Preprint version:</u> _medRxiv_. [doi:10.1101/2022.03.27.22273019](https://doi.org/10.1101/2022.03.27.22273019). **PREPRINT**
 
 Dashti H, Dehzangi A, Bayati M, **Breen J**, Lovell N, Ebrahimi D, Rabiee HR, Alinejad-Rokny H. (2022). Integrative analysis of mutated genes and mutational processes reveals novel mutational biomarkers in colorectal cancer. _BMC Bioinformatics_. 23, 138. [doi:10.1186/s12859-022-04652-8](https://doi.org/10.1186/s12859-022-04652-8).
 
