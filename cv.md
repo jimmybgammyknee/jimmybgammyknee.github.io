@@ -64,7 +64,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
-Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McAninch D, McCullough D, Breen J, Roberts CT, Pillman KA. (2022). Haemolysis Detection in MicroRNA-seq from Clinical Plasma Samples. _Genes._ 13(7):1288. [doi:10.3390/genes13071288](https://doi.org/10.3390/genes13071288)
+Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McAninch D, McCullough D, **Breen J**, Roberts CT, Pillman KA. (2022). Haemolysis Detection in MicroRNA-seq from Clinical Plasma Samples. _Genes._ 13(7):1288. [doi:10.3390/genes13071288](https://doi.org/10.3390/genes13071288)
 
 Souzeau E, Siggs O, Mullany S, Schmidt J, Hassall M, Dubowsky A, Chappell A, **Breen J**, Bae H, Nicholl J, Hadler J, Kearns L, Staffieri S, Hewitt A, Mackey D, Gupta A, Burdon K, Klebe S, Craig J & Mills R. (2021). Diagnostic yield of candidate genes in an Australian corneal dystrophy cohort. _Molecular Genetics & Genomic Medicine_. Accepted 19/7/2021
 
