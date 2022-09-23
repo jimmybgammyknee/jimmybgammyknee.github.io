@@ -64,6 +64,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+Rehn J, Mayoh C, Heatley SL, McClure BJ, Eadie L, Schutz C, Yeung DT, Cowley M, **Breen J** & White DL. (2022). RaScALL: Rapid (Ra) screening (Sc) of RNA-seq data for prognostically significant genomic alterations in acute lymphoblastic leukaemia (ALL). _PLOS Genetics_. Accepted 23/09/2022. **Corresponding/Co-Senior Author**
+
 Richards SM, Li L, **Breen J**, Hovhannisyan N, Estrada O, Gasparyan B, Gilliham M, Smith A, Cooper A & Zhang H. (2021). Recovery of Chloroplast Genomes from Medieval Millet Grains Excavated from the Areni-1 Cave in Southern Armenia. _Scientific Reports_. Accepted 04/08/2022  
 <ins> Preprint</ins>: _Research Square_. [doi:10.21203/rs.3.rs-959635/v1](https://doi.org/10.21203/rs.3.rs-959635/v1).
 
@@ -71,7 +73,7 @@ Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McAninch D, McCullough D, **Breen J
 
 Souzeau E, Siggs O, Mullany S, Schmidt J, Hassall M, Dubowsky A, Chappell A, **Breen J**, Bae H, Nicholl J, Hadler J, Kearns L, Staffieri S, Hewitt A, Mackey D, Gupta A, Burdon K, Klebe S, Craig J & Mills R. (2021). Diagnostic yield of candidate genes in an Australian corneal dystrophy cohort. _Molecular Genetics & Genomic Medicine_. Accepted 19/7/2021
 
-Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2022). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _Epigenetics & Chromatin_. 15,24. doi[10.1186/s13072-022-00456-5](https://doi.org/10.1186/s13072-022-00456-5).  
+Liu N, Sadlon T, Wong YY, Pederson SM, **Breen J** & Barry SC. (2022). 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. _Epigenetics & Chromatin_. 15,24. doi[10.1186/s13072-022-00456-5](https://doi.org/10.1186/s13072-022-00456-5).  **Corresponding/Co-Senior Author**
 <u>Preprint version:</u> _bioRxiv_.  doi:[10.1101/2020.09.04.279554](https://doi.org/10.1101/2020.09.04.279554). 
 
 Makinen VP, Rehn J, **Breen J**, Yeung D & White D. (2022). Multi-cohort transcriptomic subtyping of B-cell acute lymphoblastic leukemia. _International Journal of Molecular Sciences_. 23(9), 4574. [doi:10.3390/ijms23094574](https://doi.org/10.3390/ijms23094574).  
