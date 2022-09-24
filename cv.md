@@ -265,37 +265,43 @@ Estrada O, Richards SM & Breen J. (2021). Discovering the Secrets of Ancient Pla
 
 #### Current
 
-- Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **James Breen**. Medical Research Future Fund (MRFF). "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
+- Simon Barry, Ying Ying Wong, Timothy Sadlon, Megan Penno, Helena Oakey, **James Breen** and Jenny Couper. _JDRF Innovation Award_ (2-SRA-2022-1100-M-B). "Connecting genetic risk to genes: Turning targets into new interventions". $505,085 for 2 years 
 
-- Simon Barry, Ying Ying Wong, Timothy Sadlon, Megan Penno, Helena Oakey, **James Breen** and Jenny Couper. JDRF Innovation Award (2-SRA-2022-1100-M-B). "Connecting genetic risk to genes: Turning targets into new interventions". $505,085 for 2 years 
+- Lisa Nicholas, Louise Maple-Brown, Elizabeth Barr, **James Breen**. (2022). _The Hospital Research Foundation_ Women's Health Grant. "The role of epigenetics in mediating future metabolic risk in Aboriginal children exposed to gestational diabetes". $150,000 for 2 years
 
-- Lisa Nicholas, Louise Maple-Brown, Elizabeth Barr, **James Breen**. 2022 The Hospital Research Foundation Women's Health Grant. "The role of epigenetics in mediating future metabolic risk in Aboriginal children exposed to gestational diabetes". $150,000 for 2 years
+- Clara Chow, Steve Nicholls ... Alex Brown, **James Breen**... (2022). _MTPConnect: Targeted Translation Research Accelerator (TTRA)_. "The Australian Stroke and Heart Research Accelerator (ASHRA)". $10M
 
-- Clara Chow, Steve Nicholls ... Alex Brown, **James Breen**... 2022 MTPConnect: Targeted Translation Research Accelerator (TTRA). "The Australian Stroke and Heart Research Accelerator (ASHRA)". $10M
+- Raymond Thomas, Kelly Hawboldt (Co-Principal Investigators), Lord Abbey, Jacqueline Blundell, **Jimmy Breen**, Ken Carter, Mumtaz Cheema, Sukhinder Cheema, Leo DANA, Nicoletta Del Buono, Karen Doody, Flavia, Esposito, Lakshman Galagedara, Heather Hall, Bohdan Luhovyy, Stephanie MacQuarrie, Atsushi Miyawaki, William Newell, Christopher Parrish, Mery Perez, Matthew Rise, Javier Santander, Alexandros Tsoupras, Kelly Vodden, Svetlana Yurgel, Ioannis Zabetakis. (2020). _New Frontier Research Funding: Transformation_. "Repurposing Marine By-Products or raw Materials for the Development and Production of Functional Foods and Bioactives to Improve Human Health and Coastal Community Sustainability". $14,961,023 for 5 years
 
-- Raymond Thomas, Kelly Hawboldt (Co-Principal Investigators), Lord Abbey, Jacqueline Blundell, **Jimmy Breen**, Ken Carter, Mumtaz Cheema, Sukhinder Cheema, Leo DANA, Nicoletta Del Buono, Karen Doody, Flavia, Esposito, Lakshman Galagedara, Heather Hall, Bohdan Luhovyy, Stephanie MacQuarrie, Atsushi Miyawaki, William Newell, Christopher Parrish, Mery Perez, Matthew Rise, Javier Santander, Alexandros Tsoupras, Kelly Vodden, Svetlana Yurgel, Ioannis Zabetakis. 2020 New Frontier Research Funding: Transformation. "Repurposing Marine By-Products or raw Materials for the Development and Production of Functional Foods and Bioactives to Improve Human Health and Coastal Community Sustainability". $14,961,023 for 5 years
+- Stephen Nicholls, Kristen Bubb, James Breen, Adam Nelson, Timothy Sargeant, Roger Milne, Jake Shortt, Melissa Southey, Sophia Zoungas, Nitesh Nerlekar, Timothy Hughes. (2022. _MRFF Cardiovascular Health Mission 2021 Cardiovascular Health_. "Atheroma Progression in Clonal Haematopoiesis Investigation with Imaging, Biomarkers and Genomic Sequencing (ARCHIMEDES")". AU$996,384.68 (2 years)
+
+- Alex Brown,s Azure Hermes, Gregory Pratt, David Lynn, Kalinda Griffiths, Marcel Dinger, **James Breen**, Jodie Ingles, Rebecca D'Souza, Yassine Souilmi, Kristen Nowak, Julie McGaughran, Johanna Barclay, Shayne Bellingham, Daniel MacArthur, Glenn Pearson, Sharon Huebner, Stephen Simpson, Gareth Baynam, Nathan O'Callaghan, Odette Pearson, Louise Lyons, Raymond Lovett,  David Thomas, Jason Kovacic, Rebekah McWhirter, David Hansen, Maree Toombs, Mark Wenitong, Simone Reynolds, Ngiare Brown, Boe Rambaldini, Elina Hypponen, Graham Mann, Shivashankar Hiriyur Nagaraj, Kim Morey, Charlotte Slade, Hardip Patel, Karen Hawke, Sarah Medland, David James, Jean Yang, Bastien Llamas, Misty Jenkins, Clara Gaff, Vanessa Bryant, Timo Lassmann. (2022). _MRFF Genomics Health Futures Mission_. "Pathways to benefit for Indigenous Australians in Genomic Medicine". AU$4,986,948.70 for 2 years
+
+- Alex Brown, **James Breen**, Assam ElOsta, Natasha Howard, Scott Maxwell, Ishant Khurana, Boris Guennewig, Ryan Lister, Sam Buckberry. (2022). _MRFF Genomics Health Futures Mission_. "Establishing epigenetic biomarkers in Indigenous Australians for precision health". AU$991,506.00 for 2 years
 
 #### Completed
 
-- Alastair MacLennan, Jozef Gecz, Mark Corbett, Clare van Eyk, **James Breen**, Christopher Barnett, S MacLennan, J Rice, R Russo. ORG3921: Cerebral Palsy Foundation Research Grant. “The genetic origins of cerebral palsy”. 4 years
+- Mark Hutchinson, Kim Hemsley, Nicholas Smith, Kristina Elvidge, Cedric Bardy, **James Breen**. _Medical Research Future Fund (MRFF)_. "“Brain in a dish” – Development of a personalised medicine approach for Australian children", $2,490,949 for 3 years
 
-- Kate Sanders, Bruno Fonseca Simoes, **James Breen (CI),** David Hunt, Belinda Chang, Davide Pisani, Mark Hutchinson, Emma Teeling. 2018 ARC Discovery Grant (DP180101688) **Cat. 1 Funding**. "How are visual gene pathways lost and restored during reptile evolution?"
+- Alastair MacLennan, Jozef Gecz, Mark Corbett, Clare van Eyk, **James Breen**, Christopher Barnett, S MacLennan, J Rice, R Russo. ORG3921: _Cerebral Palsy Foundation_ Research Grant. “The genetic origins of cerebral palsy”. 4 years
 
-- Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen (CIF)**. 2017 NHRMC Project Grant (APP1120543) **Cat. 1 Funding**. "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
+- Kate Sanders, Bruno Fonseca Simoes, **James Breen** David Hunt, Belinda Chang, Davide Pisani, Mark Hutchinson, Emma Teeling. (2018). _ARC Discovery Grant_ (DP180101688). "How are visual gene pathways lost and restored during reptile evolution?"
 
-- D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, USA CF Foundation Grant. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,491 for 2 years
+- Simon Barry, Marc Beyer, Alistair Forrest, Joachim Schultze, Jennifer Couper, **James Breen**. (2017). _NHRMC Project Grant_ (APP1120543). "Identification of the conformation dependant targets of autoimmune disease linked variation in human regulatory T-cells"
 
-- Sarah Robertson, John Schjenken, Emilie Rissman, Lachlan Moldenhauer & **James Breen**. 2018 Channel 7 CRF - Research Grant. “Impact of Phthalate exposure in fathers on programming of offspring neurological phenotype”. 2 years
+- D. Parsons, M. Donnelley, M. Kitchen, K. Morgan, G. Zosky, **J. Breen**, _Cystic Fibrosis Foundation Grant_. “Lentiviral CFTR gene-addition in CF rat lungs: Effect of PA infection, safety and efficacy”, $282,491 for 2 years
 
-- Claire Roberts, Gus Dekker, Tina Bianco-Miotto & **James Breen (Co-I)**. 2017 NIH/NIHCD Project Grant (R01): Using Omics to Define Human Placental Development and Function Across Pregnancy. "Maternal molecular profiles reflect placental function and development across gestation"
+- Sarah Robertson, John Schjenken, Emilie Rissman, Lachlan Moldenhauer & **James Breen**. (2018). _Channel 7 CRF - Research Grant_. “Impact of Phthalate exposure in fathers on programming of offspring neurological phenotype”. 2 years
 
-- Cassandra Collins, Carlos Rodriguez Lopez, Roberta De Bei, **James Breen (PI)**, Timothy Cavagnaro, Matthew Gilliham & Andrew Metcalfe. 2015 AGRF Pilot program in Genomics for Agriculture and Environmental Sectors **Cat 2 Funding**. "The eco-genomics of wine terroir"
+- Claire Roberts, Gus Dekker, Tina Bianco-Miotto & **James Breen**. (2017). _NIH/NIHCD Project Grant (R01)_: Using Omics to Define Human Placental Development and Function Across Pregnancy. "Maternal molecular profiles reflect placental function and development across gestation"
 
-- Michael J Wilkinson, **James Breen (CI)**, Thomas F Higham & Ron Pinhasi. 2013-2015 ARC Discovery Grant (DP130104227) **Cat. 1 Funding**. "Reconstructing wheat evolution using ancient DNA"
+- Cassandra Collins, Carlos Rodriguez Lopez, Roberta De Bei, **James Breen**, Timothy Cavagnaro, Matthew Gilliham & Andrew Metcalfe. 2015 AGRF Pilot program in Genomics for Agriculture and Environmental Sectors. "The eco-genomics of wine terroir"
 
-- Cassandra Collins, Roberta De Bei, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 Waite Research Institute Platform Technologies. "We prefer them old: Epigenetic control of wine quality in response to grapevine age"
+- Michael J Wilkinson, **James Breen**, Thomas F Higham & Ron Pinhasi. (2013). _ARC Discovery Grant_ (DP130104227). "Reconstructing wheat evolution using ancient DNA". 3 years
 
-- Iain Searle, Cassandra Collins, Carlos Marcelino Rodriguez Lopez & **James Breen (PI)**. 2013 University of Adelaide Interdisciplinary Research Funding (IRF). "RNA directed epigenetics in grapevines- a paradigm sh¡ft for plant and animal breeding"
+- Cassandra Collins, Roberta De Bei, Carlos Marcelino Rodriguez Lopez & **James Breen**. (2013). _Waite Research Institute Platform Technologies_. "We prefer them old: Epigenetic control of wine quality in response to grapevine age"
+
+- Iain Searle, Cassandra Collins, Carlos Marcelino Rodriguez Lopez & **James Breen**. (2013). _University of Adelaide Interdisciplinary Research Funding (IRF)_. "RNA directed epigenetics in grapevines- a paradigm sh¡ft for plant and animal breeding"
 
 ---
 
