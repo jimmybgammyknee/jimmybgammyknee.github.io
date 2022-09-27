@@ -9,13 +9,17 @@ title: |
 
 <center>
 
-<span style="font-family:Arial; font-size:3em;">James Breen</span> 
+<span style="font-family:Arial; font-size:3em;">James Breen</span>
+
 <br> 
+
 <span style="font-family:Arial; font-size:1em;"> 
 Genomics and Bioinformatics Researcher
 </span>
 
-<img src="https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7951.jpeg" width="200"></img>
+<img src="https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7951.jpeg" width="200">
+
+<br> 
 
 [:mailbox:](mailto:jimmymbreen@gmail.com)
 | 
