@@ -19,6 +19,49 @@ Bioinformatics & Genomics Researcher
 <span class="fab fa-scholar fa-xs"></span> <a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en">Google Schoolar</a>
 </div>
 
+- [Dr James (Jimmy) Breen](#dr-james-jimmy-breen)
+  - [Academic & Professional Positions](#academic--professional-positions)
+    - [Current](#current)
+    - [Former](#former)
+  - [Education](#education)
+  - [Publications](#publications)
+    - [Journal Articles](#journal-articles)
+      - [2022](#2022)
+      - [2021](#2021)
+      - [2020](#2020)
+      - [2019](#2019)
+      - [2018](#2018)
+      - [2017](#2017)
+      - [2016](#2016)
+      - [2015](#2015)
+      - [2014](#2014)
+      - [2013](#2013)
+      - [2012](#2012)
+      - [2011](#2011)
+      - [2010](#2010)
+      - [2009](#2009)
+      - [2008](#2008)
+      - [2007](#2007)
+    - [Consortium papers](#consortium-papers)
+    - [Book chapters](#book-chapters)
+  - [Competitive Grants & External Research Funding](#competitive-grants--external-research-funding)
+      - [Current](#current-1)
+      - [Completed](#completed)
+  - [Professional Associations & Committees](#professional-associations--committees)
+    - [Conference Proceeding](#conference-proceeding)
+    - [Conference submissions (as presenting author)](#conference-submissions-as-presenting-author)
+  - [Invited Presentations](#invited-presentations)
+  - [Other Media](#other-media)
+  - [Student Supervision](#student-supervision)
+    - [PhD](#phd)
+      - [Current](#current-2)
+      - [Completed](#completed-1)
+    - [MSc Biotechnology (All Primary Supervised)](#msc-biotechnology-all-primary-supervised)
+      - [Completed](#completed-2)
+    - [BSc (honours)](#bsc-honours)
+      - [Completed](#completed-3)
+  - [Awards](#awards)
+
 ## Academic & Professional Positions
 
 ### Current
@@ -265,19 +308,21 @@ Estrada O, Richards SM & Breen J. (2021). Discovering the Secrets of Ancient Pla
 
 #### Current
 
-- Simon Barry, Ying Ying Wong, Timothy Sadlon, Megan Penno, Helena Oakey, **James Breen** and Jenny Couper. _JDRF Innovation Award_ (2-SRA-2022-1100-M-B). "Connecting genetic risk to genes: Turning targets into new interventions". $505,085 for 2 years 
+- Stephen Nicholls, Kristen Bubb, James Breen, Adam Nelson, Timothy Sargeant, Roger Milne, Jake Shortt, Melissa Southey, Sophia Zoungas, Nitesh Nerlekar, Timothy Hughes. (2022. _MRFF Cardiovascular Health Mission 2021 Cardiovascular Health_. "Atheroma Progression in Clonal Haematopoiesis Investigation with Imaging, Biomarkers and Genomic Sequencing (ARCHIMEDES")". AU$996,384.68 (2 years)
+
+- Alex Brown, Azure Hermes, Gregory Pratt, David Lynn, Kalinda Griffiths, Marcel Dinger, **James Breen**, Jodie Ingles, Rebecca D'Souza, Yassine Souilmi, Kristen Nowak, Julie McGaughran, Johanna Barclay, Shayne Bellingham, Daniel MacArthur, Glenn Pearson, Sharon Huebner, Stephen Simpson, Gareth Baynam, Nathan O'Callaghan, Odette Pearson, Louise Lyons, Raymond Lovett,  David Thomas, Jason Kovacic, Rebekah McWhirter, David Hansen, Maree Toombs, Mark Wenitong, Simone Reynolds, Ngiare Brown, Boe Rambaldini, Elina Hypponen, Graham Mann, Shivashankar Hiriyur Nagaraj, Kim Morey, Charlotte Slade, Hardip Patel, Karen Hawke, Sarah Medland, David James, Jean Yang, Bastien Llamas, Misty Jenkins, Clara Gaff, Vanessa Bryant, Timo Lassmann. (2022). _MRFF Genomics Health Futures Mission_. "Pathways to benefit for Indigenous Australians in Genomic Medicine". AU$4,986,948.70 for 2 years
+
+- Alex Brown, **James Breen**, Assam ElOsta, Natasha Howard, Scott Maxwell, Ishant Khurana, Boris Guennewig, Ryan Lister, Sam Buckberry. (2022). _MRFF Genomics Health Futures Mission_. "Establishing epigenetic biomarkers in Indigenous Australians for precision health". AU$991,506.00 for 2 years
+
+- Simon Barry, Ying Ying Wong, Timothy Sadlon, Megan Penno, Helena Oakey, **James Breen** and Jenny Couper. (2022) _JDRF Innovation Award_ (2-SRA-2022-1100-M-B). "Connecting genetic risk to genes: Turning targets into new interventions". $505,085 for 2 years 
+
+- Lisa Nicholas, Louise Maple-Brown, Elizabeth Barr, **James Breen**. (2022). _Diabetes SA_ Research grant. "Defining the contribution of epigenetics to the intergenerational cycle of type 2 diabetes in Aboriginal people". $99,995 for 2 years
 
 - Lisa Nicholas, Louise Maple-Brown, Elizabeth Barr, **James Breen**. (2022). _The Hospital Research Foundation_ Women's Health Grant. "The role of epigenetics in mediating future metabolic risk in Aboriginal children exposed to gestational diabetes". $150,000 for 2 years
 
 - Clara Chow, Steve Nicholls ... Alex Brown, **James Breen**... (2022). _MTPConnect: Targeted Translation Research Accelerator (TTRA)_. "The Australian Stroke and Heart Research Accelerator (ASHRA)". $10M
 
 - Raymond Thomas, Kelly Hawboldt (Co-Principal Investigators), Lord Abbey, Jacqueline Blundell, **Jimmy Breen**, Ken Carter, Mumtaz Cheema, Sukhinder Cheema, Leo DANA, Nicoletta Del Buono, Karen Doody, Flavia, Esposito, Lakshman Galagedara, Heather Hall, Bohdan Luhovyy, Stephanie MacQuarrie, Atsushi Miyawaki, William Newell, Christopher Parrish, Mery Perez, Matthew Rise, Javier Santander, Alexandros Tsoupras, Kelly Vodden, Svetlana Yurgel, Ioannis Zabetakis. (2020). _New Frontier Research Funding: Transformation_. "Repurposing Marine By-Products or raw Materials for the Development and Production of Functional Foods and Bioactives to Improve Human Health and Coastal Community Sustainability". $14,961,023 for 5 years
-
-- Stephen Nicholls, Kristen Bubb, James Breen, Adam Nelson, Timothy Sargeant, Roger Milne, Jake Shortt, Melissa Southey, Sophia Zoungas, Nitesh Nerlekar, Timothy Hughes. (2022. _MRFF Cardiovascular Health Mission 2021 Cardiovascular Health_. "Atheroma Progression in Clonal Haematopoiesis Investigation with Imaging, Biomarkers and Genomic Sequencing (ARCHIMEDES")". AU$996,384.68 (2 years)
-
-- Alex Brown,s Azure Hermes, Gregory Pratt, David Lynn, Kalinda Griffiths, Marcel Dinger, **James Breen**, Jodie Ingles, Rebecca D'Souza, Yassine Souilmi, Kristen Nowak, Julie McGaughran, Johanna Barclay, Shayne Bellingham, Daniel MacArthur, Glenn Pearson, Sharon Huebner, Stephen Simpson, Gareth Baynam, Nathan O'Callaghan, Odette Pearson, Louise Lyons, Raymond Lovett,  David Thomas, Jason Kovacic, Rebekah McWhirter, David Hansen, Maree Toombs, Mark Wenitong, Simone Reynolds, Ngiare Brown, Boe Rambaldini, Elina Hypponen, Graham Mann, Shivashankar Hiriyur Nagaraj, Kim Morey, Charlotte Slade, Hardip Patel, Karen Hawke, Sarah Medland, David James, Jean Yang, Bastien Llamas, Misty Jenkins, Clara Gaff, Vanessa Bryant, Timo Lassmann. (2022). _MRFF Genomics Health Futures Mission_. "Pathways to benefit for Indigenous Australians in Genomic Medicine". AU$4,986,948.70 for 2 years
-
-- Alex Brown, **James Breen**, Assam ElOsta, Natasha Howard, Scott Maxwell, Ishant Khurana, Boris Guennewig, Ryan Lister, Sam Buckberry. (2022). _MRFF Genomics Health Futures Mission_. "Establishing epigenetic biomarkers in Indigenous Australians for precision health". AU$991,506.00 for 2 years
 
 #### Completed
 
