@@ -2,64 +2,79 @@
 layout: default
 title: CV
 geometry: margin=1cm
+title: |
+    | Dr James (Jimmy) Breen 
+    | Bioinformatics & Genomics Researcher
 ---
 
-<span style="font-size:larger;">Dr James (Jimmy) Breen</span>
-Bioinformatics & Genomics Researcher
+<center>
 
-<div id="webaddress">
-<a href="mailto:jimmymbreen@gmail.com">jimmymbreen@gmail.com</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/jimmybgammyknee">jimmybgammyknee</a>
-|
-<i class="fa fa-twitter"></i> <a href="https://twitter.com/wessidepraxis">wessidepraxis</a>
-|
-<i class="fa fa-bitbucket"></i> <a href="https://bitbucket.org/gammyknee">gammyknee</a>
-|
-<span class="fab fa-scholar fa-xs"></span> <a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en">Google Schoolar</a>
-</div>
+<span style="font-family:Arial; font-size:3em;">James Breen</span> 
+<br> 
+<span style="font-family:Arial; font-size:1em;"> 
+Genomics and Bioinformatics Researcher
+</span>
 
-- [Academic & Professional Positions](#academic--professional-positions)
-  - [Current](#current)
-  - [Former](#former)
-- [Education](#education)
-- [Publications](#publications)
-  - [Journal Articles](#journal-articles)
-    - [2022](#2022)
-    - [2021](#2021)
-    - [2020](#2020)
-    - [2019](#2019)
-    - [2018](#2018)
-    - [2017](#2017)
-    - [2016](#2016)
-    - [2015](#2015)
-    - [2014](#2014)
-    - [2013](#2013)
-    - [2012](#2012)
-    - [2011](#2011)
-    - [2010](#2010)
-    - [2009](#2009)
-    - [2008](#2008)
-    - [2007](#2007)
-  - [Consortium papers](#consortium-papers)
-  - [Book chapters](#book-chapters)
-- [Competitive Grants & External Research Funding](#competitive-grants--external-research-funding)
-    - [Current](#current-1)
-    - [Completed](#completed)
-- [Professional Associations & Committees](#professional-associations--committees)
-  - [Conference Proceeding](#conference-proceeding)
-  - [Conference submissions (as presenting author)](#conference-submissions-as-presenting-author)
-- [Invited Presentations](#invited-presentations)
-- [Other Media](#other-media)
-- [Student Supervision](#student-supervision)
-  - [PhD](#phd)
-    - [Current](#current-2)
-    - [Completed](#completed-1)
-  - [MSc Biotechnology (All Primary Supervised)](#msc-biotechnology-all-primary-supervised)
-    - [Completed](#completed-2)
-  - [BSc (honours)](#bsc-honours)
-    - [Completed](#completed-3)
-- [Awards](#awards)
+<img src="https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7951.jpeg" width="200"></img>
+
+[:mailbox:](mailto:jimmymbreen@gmail.com)
+| 
+[:computer:](http://github.com/jimmybgammyknee)
+|
+[:speech_balloon:](https://twitter.com/wessidepraxis)
+|
+[:books:](https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en")
+
+</center>
+
+
+<br>
+<br>
+<br>
+
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+  - [Academic & Professional Positions](#academic--professional-positions)
+    - [Current](#current)
+    - [Former](#former)
+  - [Education](#education)
+  - [Publications](#publications)
+    - [Journal Articles](#journal-articles)
+      - [2022](#2022)
+      - [2021](#2021)
+      - [2020](#2020)
+      - [2019](#2019)
+      - [2018](#2018)
+      - [2017](#2017)
+      - [2016](#2016)
+      - [2015](#2015)
+      - [2014](#2014)
+      - [2013](#2013)
+      - [2012](#2012)
+      - [2011](#2011)
+      - [2010](#2010)
+      - [2009](#2009)
+      - [2008](#2008)
+      - [2007](#2007)
+    - [Consortium papers](#consortium-papers)
+    - [Book chapters](#book-chapters)
+  - [Competitive Grants & External Research Funding](#competitive-grants--external-research-funding)
+      - [Current](#current-1)
+      - [Completed](#completed)
+  - [Professional Associations & Committees](#professional-associations--committees)
+    - [Conference Proceeding](#conference-proceeding)
+    - [Conference submissions (as presenting author)](#conference-submissions-as-presenting-author)
+  - [Invited Presentations](#invited-presentations)
+  - [Other Media](#other-media)
+  - [Student Supervision](#student-supervision)
+    - [PhD](#phd)
+      - [Current](#current-2)
+      - [Completed](#completed-1)
+    - [MSc Biotechnology (All Primary Supervised)](#msc-biotechnology-all-primary-supervised)
+      - [Completed](#completed-2)
+    - [BSc (honours)](#bsc-honours)
+      - [Completed](#completed-3)
+  - [Awards](#awards)
 
 ## Academic & Professional Positions
 
