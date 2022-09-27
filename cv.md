@@ -17,17 +17,19 @@ title: |
 Genomics and Bioinformatics Researcher
 </span>
 
+<br>
+
 <img src="https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7951.jpeg" width="200">
 
 <br> 
 
-[:mailbox:](mailto:jimmymbreen@gmail.com)
+[Email](mailto:jimmymbreen@gmail.com)
 | 
-[:computer:](http://github.com/jimmybgammyknee)
+[Website](http://github.com/jimmybgammyknee)
 |
-[:speech_balloon:](https://twitter.com/wessidepraxis)
+[Twitter](https://twitter.com/wessidepraxis)
 |
-[:books:](https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en")
+[Scholar](https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en")
 
 </center>
 
