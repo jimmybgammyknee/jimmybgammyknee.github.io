@@ -25,4 +25,4 @@ social:
    email: jimmymbreen@gmail.com
 
 plugins:
-  - jemoji
+  - jekyll-openmoji
