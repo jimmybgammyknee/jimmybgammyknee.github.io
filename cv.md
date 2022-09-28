@@ -4,35 +4,22 @@ title: CV
 geometry: margin=1cm
 ---
 
-<center>
+# James Breen
 
-<span style="font-family:Arial; font-size:3em;">James Breen</span>
-
-<br> 
-
-<span style="font-family:Arial; font-size:1em;"> 
 Genomics and Bioinformatics Researcher
-</span>
-
-<br>
 
 <img src="https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7951.jpeg" width="200">
 
-<br> 
 
-[Email: jimmymbreen at gmail dot com](mailto:jimmymbreen@gmail.com)  
-[twitter: wessidepraxis](https://twitter.com/wessidepraxis)  
-[github: jimmybgammyknee](http://github.com/jimmybgammyknee)  
-[Google Scholar: Jimmy Breen](https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en)  
+[Email: jimmymbreen at gmail dot com](mailto:jimmymbreen@gmail.com)<br>
+[twitter: wessidepraxis](https://twitter.com/wessidepraxis)<br>
+[github: jimmybgammyknee](http://github.com/jimmybgammyknee)<br>
+[Google Scholar: Jimmy Breen](https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en)<br>
 
-</center>
-
-
-<br>
-<br>
 <br>
 
 # Table of Contents
+- [James Breen](#james-breen)
 - [Table of Contents](#table-of-contents)
   - [Academic & Professional Positions](#academic--professional-positions)
     - [Current](#current)
