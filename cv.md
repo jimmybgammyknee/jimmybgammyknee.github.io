@@ -2,9 +2,6 @@
 layout: default
 title: CV
 geometry: margin=1cm
-title: |
-    | Dr James (Jimmy) Breen 
-    | Bioinformatics & Genomics Researcher
 ---
 
 <center>
@@ -22,6 +19,8 @@ Genomics and Bioinformatics Researcher
 <img src="https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7951.jpeg" width="200">
 
 <br> 
+
+[:email:](mailto:jimmymbreen@gmail.com)
 
 <a href="mailto:jimmymbreen@gmail.com"><span style=’font-size:120px;’>&#128235;</span></a>
 <a href="http://github.com/jimmybgammyknee"><span style=’font-size:120px;’>&#128421;</span></a>
