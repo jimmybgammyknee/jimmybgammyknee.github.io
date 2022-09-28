@@ -20,13 +20,10 @@ Genomics and Bioinformatics Researcher
 
 <br> 
 
-[:email:](mailto:jimmymbreen@gmail.com)
-
-<a href="mailto:jimmymbreen@gmail.com"><span style=’font-size:120px;’>&#128235;</span></a>
-<a href="http://github.com/jimmybgammyknee"><span style=’font-size:120px;’>&#128421;</span></a>
-<a href="https://twitter.com/wessidepraxis"><span style=’font-size:120px;’>&#128172;</span></a>
-<a href="https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en"><span style=’font-size:120px;’>&#127891;</span></a>
-
+[Email: jimmymbreen at gmail dot com](mailto:jimmymbreen@gmail.com)  
+[twitter: wessidepraxis](https://twitter.com/wessidepraxis)  
+[github: jimmybgammyknee](http://github.com/jimmybgammyknee)  
+[Google Scholar: Jimmy Breen](https://scholar.google.com.au/citations?user=gYMeouMAAAAJ&hl=en)  
 
 </center>
 
