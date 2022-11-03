@@ -108,6 +108,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2022
 
+Lim CK, Romeo O, Chilver AP, Tran BM, Flanagan DJ, Kirby EN, **Breen J**, Vincan E, Warner N, McCartney EM, Van Der Hoek MB, Ruszkiewicz A, Tse E, Beard MR. (2022). Human Liver Organoids as a Patient-derived Model for HBV Infection and Cellular Response. _bioRxiv_ 2022.10.20.513112 [doi:10.1101/2022.10.20.513112](https://doi.org/10.1101/2022.10.20.513112). 
+
 Rehn J, Mayoh C, Heatley SL, McClure BJ, Eadie L, Schutz C, Yeung DT, Cowley M, **Breen J** & White DL. (2022). RaScALL: Rapid (Ra) screening (Sc) of RNA-seq data for prognostically significant genomic alterations in acute lymphoblastic leukaemia (ALL). _PLOS Genetics_. Accepted 23/09/2022. **Corresponding/Co-Senior Author**
 
 Richards SM, Li L, **Breen J**, Hovhannisyan N, Estrada O, Gasparyan B, Gilliham M, Smith A, Cooper A & Zhang H. (2021). Recovery of Chloroplast Genomes from Medieval Millet Grains Excavated from the Areni-1 Cave in Southern Armenia. _Scientific Reports_. Accepted 04/08/2022  
