@@ -27,22 +27,6 @@ Genomics and Bioinformatics Researcher
   - [Education](#education)
   - [Publications](#publications)
     - [Journal Articles](#journal-articles)
-      - [2022](#2022)
-      - [2021](#2021)
-      - [2020](#2020)
-      - [2019](#2019)
-      - [2018](#2018)
-      - [2017](#2017)
-      - [2016](#2016)
-      - [2015](#2015)
-      - [2014](#2014)
-      - [2013](#2013)
-      - [2012](#2012)
-      - [2011](#2011)
-      - [2010](#2010)
-      - [2009](#2009)
-      - [2008](#2008)
-      - [2007](#2007)
     - [Consortium papers](#consortium-papers)
     - [Book chapters](#book-chapters)
   - [Competitive Grants & External Research Funding](#competitive-grants--external-research-funding)
@@ -68,9 +52,11 @@ Genomics and Bioinformatics Researcher
 ### Current
 
 `2022-` <br>
-Chief Data Scientist (Indigenous Genomics), <br>
-__Telethon Kids Institute - Adelaide Node__ (Adelaide, SA, Australia) & <br>
-__Australian National University__, Canberra
+Chief Data Scientist, Black Ochre Data Labs (Indigenous Genomics), <br>
+__Telethon Kids Institute__ (Adelaide, SA, Australia)
+
+Associate Professor (Indigenous Genomics), <br>
+__Australian National University__ (Canberra, ACT, Australia)
 
 <p float="center">
   <img src="https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg" width="150" alt="" hspace="30" />
@@ -463,8 +449,7 @@ Primary supervised in **bold**
 - Justin Bogias (PhD, Robinson Research Institute, University of Adelaide)
 - Alastair Lundington (PhD, University of Adelaide)
 - Sam Godwin (PhD, University of Adelaide)
-- Rebecca Simpson (PhD, University of Adelaide)
-- Madyson Colton (PhD, SAHMRI & University of Adelaide)
+- Rebecca Simpson (PhD, Australian National University)
 - Ashlee Thompson (MPhil, SAHMRI & University of Adelaide & SAHMRI)
   
 #### Completed
