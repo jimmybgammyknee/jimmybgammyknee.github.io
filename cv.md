@@ -92,6 +92,12 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Journal Articles
 
+#### 2023
+
+Eadie LN, Rehn JA, **Breen J**, Osborn MP, Jessop S, Downes CEJ, Heatley SL, McClure BJ, Yeung DT, Revesz T, Saxon B & White DL. (2023).  Case Report: Rare IKZF1 gene fusions identified in neonate with congenital KMT2A-rearranged Acute Lymphoblastic Leukemia. _Genes_. Accepted 16/01/2023
+
+
+
 #### 2022
 
 Lim CK, Romeo O, Chilver AP, Tran BM, Flanagan DJ, Kirby EN, **Breen J**, Vincan E, Warner N, McCartney EM, Van Der Hoek MB, Ruszkiewicz A, Tse E, Beard MR. (2022). Human Liver Organoids as a Patient-derived Model for HBV Infection and Cellular Response. _bioRxiv_ 2022.10.20.513112 [doi:10.1101/2022.10.20.513112](https://doi.org/10.1101/2022.10.20.513112). **PREPRINT**
