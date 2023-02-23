@@ -94,9 +94,11 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2023
 
-Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, Arthurs AL, **Breen J**, Roberts CT & Pillman KA. (2023). DraculR: A web-based application for in silico haemolysis detection in high throughput microRNA sequencing data. _Genes_. Accepted 01/02/2023
+Aldersey JE, Liu N, Tearle R, **Breen J**, Williams JL & Bottema CDK. (2023). Topologically associating domains in the POLLED region are the same for haplotype-resolved Hi-C reads from Angus x Brahman F1 hybrid fetal tissue. _Animal Genetics_. Accepted 24/02/2023
 
-Eadie LN, Rehn JA, **Breen J**, Osborn MP, Jessop S, Downes CEJ, Heatley SL, McClure BJ, Yeung DT, Revesz T, Saxon B & White DL. (2023).  Case Report: Rare IKZF1 gene fusions identified in neonate with congenital KMT2A-rearranged Acute Lymphoblastic Leukemia. _Genes_. Accepted 16/01/2023
+Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, Arthurs AL, **Breen J**, Roberts CT & Pillman KA. (2023). DraculR: A web-based application for in silico haemolysis detection in high throughput microRNA sequencing data. _Genes_. 14(2): 448. [doi:10.3390/genes14020448](https://doi.org/10.3390/genes14020448).
+
+Eadie LN, Rehn JA, **Breen J**, Osborn MP, Jessop S, Downes CEJ, Heatley SL, McClure BJ, Yeung DT, Revesz T, Saxon B & White DL. (2023).  Case Report: Rare IKZF1 gene fusions identified in neonate with congenital KMT2A-rearranged Acute Lymphoblastic Leukemia. _Genes_. 14(2): 264, [doi:10.3390/genes14020264](https://doi.org/10.3390/genes14020264).
 
 #### 2022
 
