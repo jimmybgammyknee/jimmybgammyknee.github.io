@@ -94,6 +94,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2023
 
+Wong YY, Harbison JE, Hope CM, Gundsambuu B, Brown KA, Wong SW, Brown C, Couper JJ, Breen J, Liu N, Pederson SM, Köhne M, Klee K, Schultze J, Beyer M, Sadlon T & Barry SC. (2023). Parallel recovery of chromatin accessibility and gene expression dynamics from frozen human Regulatory T cells. _Scientific Reports_. Accepted 25/03/2023
+
 Aldersey JE, Liu N, Tearle R, **Breen J**, Williams JL & Bottema CDK. (2023). Topologically associating domains in the POLLED region are the same for haplotype-resolved Hi-C reads from Angus x Brahman F1 hybrid fetal tissue. _Animal Genetics_. Accepted 24/02/2023
 
 Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, Arthurs AL, **Breen J**, Roberts CT & Pillman KA. (2023). DraculR: A web-based application for in silico haemolysis detection in high throughput microRNA sequencing data. _Genes_. 14(2): 448. [doi:10.3390/genes14020448](https://doi.org/10.3390/genes14020448).
