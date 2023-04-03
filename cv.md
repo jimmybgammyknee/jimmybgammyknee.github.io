@@ -94,7 +94,10 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2023
 
-Wong YY, Harbison JE, Hope CM, Gundsambuu B, Brown KA, Wong SW, Brown C, Couper JJ, Breen J, Liu N, Pederson SM, Köhne M, Klee K, Schultze J, Beyer M, Sadlon T & Barry SC. (2023). Parallel recovery of chromatin accessibility and gene expression dynamics from frozen human Regulatory T cells. _Scientific Reports_. Accepted 25/03/2023
+Dinh DT, **Breen J**, Nicol B, Bersten D, Emery A, Smith KM, Nicholls M, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor mediates ovulatory transcription through RUNX transcription factor interactions and chromatin remodelling. _Nucleic Acids Research_. Accepted 01/04/2023.  
+<ins> Preprint</ins>: _bioRxiv_. [doi:10.1101/2021.06.17.448908](https://doi.org/10.1101/2021.06.17.448908). 
+
+Wong YY, Harbison JE, Hope CM, Gundsambuu B, Brown KA, Wong SW, Brown C, Couper JJ, **Breen J**, Liu N, Pederson SM, Köhne M, Klee K, Schultze J, Beyer M, Sadlon T & Barry SC. (2023). Parallel recovery of chromatin accessibility and gene expression dynamics from frozen human Regulatory T cells. _Scientific Reports_. Accepted 25/03/2023
 
 Aldersey JE, Liu N, Tearle R, **Breen J**, Williams JL & Bottema CDK. (2023). Topologically associating domains in the POLLED region are the same for haplotype-resolved Hi-C reads from Angus x Brahman F1 hybrid fetal tissue. _Animal Genetics_. Accepted 24/02/2023
 
@@ -146,8 +149,6 @@ Arthurs AL, Smith MD, Hintural MD, **Breen J**, McCullough D, Thornton F, Leemaq
 McClure BJ, Pal M, Heatley SL, Rehn J, Schutz C, **Breen J**, Venn NC, Sutton R, Khaw SL, Yeung DT & White DL. (2021). Two novel cases of NUTM1-rearranged B-cell acute lymphoblastic leukemia presenting with high-risk features. _British Journal of Haematology_. 196(6): 1407-1411 [doi:10.1111/bjh.17995](https://doi.org/10.1111/bjh.17995).
 
 Paule SG, Heng S, Samarajeewa N, Li Y, Wang Y, Webb AI, Young SL, Lessey BA, Hull ML, **Breen J**, Van de Velde H, Scelwyn M, Vollenhoven B, Rombauts LK & Nie G. (2021). Podocalyxin governs the barrier function of human endometrial epithelium and critically regulates receptivity for embryo implantation. _Scientific Reports_. 11, 24016. [doi:10.1038/s41598-021-03425-2](https://doi.org/10.1038/s41598-021-03425-2).
-
-Dinh DT, **Breen J**, Nicol B, Smith KM, Nicholls M, Emery A, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor-A isoform interaction with RUNX transcription factors controls chromatin remodelling at promoters during ovulation. _bioRxiv_. [doi:10.1101/2021.06.17.448908](https://doi.org/10.1101/2021.06.17.448908). **PREPRINT** 
 
 Skerrett-Byrne DA, Nixon B, Bromfield EG, **Breen J**, Trigg NA, Stanger SJ, Bernstein IR, Anderson AL, Lord T, Aitken RJ, Roman SD, Robertson SA & Schjenken JE. (2021). Transcriptomic analysis of the seminal vesicle response to the reproductive toxicant acrylamide. _BMC Genomics_ 22:728. [doi:10.1186/s12864-021-07951-1](https://doi.org/10.1186/s12864-021-07951-1).
 
