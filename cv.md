@@ -8,9 +8,6 @@ geometry: margin=1cm
 
 Genomics and Bioinformatics Researcher
 
-<img src="https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7951.jpeg" width="200">
-
-
 [Email: jimmymbreen at gmail dot com](mailto:jimmymbreen@gmail.com)<br>
 [twitter: wessidepraxis](https://twitter.com/wessidepraxis)<br>
 [github: jimmybgammyknee](http://github.com/jimmybgammyknee)<br>
@@ -94,12 +91,12 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2023
 
-Dinh DT, **Breen J**, Nicol B, Bersten D, Emery A, Smith KM, Nicholls M, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor mediates ovulatory transcription through RUNX transcription factor interactions and chromatin remodelling. _Nucleic Acids Research_. Accepted 01/04/2023.  
+Dinh DT, **Breen J**, Nicol B, Bersten D, Emery A, Smith KM, Nicholls M, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor mediates ovulatory transcription through RUNX transcription factor interactions and chromatin remodelling. _Nucleic Acids Research_. gkad271. [doi:10.1093/nar/gkad271](https://doi.org/10.1093/nar/gkad271).  
 <ins> Preprint</ins>: _bioRxiv_. [doi:10.1101/2021.06.17.448908](https://doi.org/10.1101/2021.06.17.448908). 
 
-Wong YY, Harbison JE, Hope CM, Gundsambuu B, Brown KA, Wong SW, Brown C, Couper JJ, **Breen J**, Liu N, Pederson SM, Köhne M, Klee K, Schultze J, Beyer M, Sadlon T & Barry SC. (2023). Parallel recovery of chromatin accessibility and gene expression dynamics from frozen human Regulatory T cells. _Scientific Reports_. Accepted 25/03/2023
+Wong YY, Harbison JE, Hope CM, Gundsambuu B, Brown KA, Wong SW, Brown C, Couper JJ, **Breen J**, Liu N, Pederson SM, Köhne M, Klee K, Schultze J, Beyer M, Sadlon T & Barry SC. (2023). Parallel recovery of chromatin accessibility and gene expression dynamics from frozen human Regulatory T cells. _Scientific Reports_. 13(1):5506. [doi:10.1038/s41598-023-32256-6](https://doi.org/10.1038/s41598-023-32256-6).
 
-Aldersey JE, Liu N, Tearle R, **Breen J**, Williams JL & Bottema CDK. (2023). Topologically associating domains in the POLLED region are the same for haplotype-resolved Hi-C reads from Angus x Brahman F1 hybrid fetal tissue. _Animal Genetics_. Accepted 24/02/2023
+Aldersey JE, Liu N, Tearle R, **Breen J**, Williams JL & Bottema CDK. (2023). Topologically associating domains in the POLLED region are the same for haplotype-resolved Hi-C reads from Angus x Brahman F1 hybrid fetal tissue. _Animal Genetics_. Accepted 24/02/2023. [doi:10.1111/age.13322](https://doi.org/10.1111/age.13322).
 
 Smith MD, Leemaqz SY, Jankovic-Karasoulos T, McCullough D, McAninch D, Arthurs AL, **Breen J**, Roberts CT & Pillman KA. (2023). DraculR: A web-based application for in silico haemolysis detection in high throughput microRNA sequencing data. _Genes_. 14(2): 448. [doi:10.3390/genes14020448](https://doi.org/10.3390/genes14020448).
 
