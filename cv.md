@@ -91,7 +91,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2023
 
-Dinh DT, **Breen J**, Nicol B, Bersten D, Emery A, Smith KM, Nicholls M, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2021). Progesterone receptor mediates ovulatory transcription through RUNX transcription factor interactions and chromatin remodelling. _Nucleic Acids Research_. gkad271. [doi:10.1093/nar/gkad271](https://doi.org/10.1093/nar/gkad271).  
+Buckberry S, Liu X, Poppe D, Tan JP, Sun G, Chen J, Nguyen TV, de Mendoza A, Pflueger J, Frazer T, Vargas-Landín DB, Paynter JM, Smits N, Liu N, Ouyang JF, Rossello FJ, Chy HS, Rackham OJL, Laslett AL, **Breen J**, Faulkner GJ, Nefzger CM, Polo JM & Lister R. (2023). Transient naive reprogramming corrects hiPS cells functionally and epigenetically. _Nature_ 1–10. [doi:10.1038/s41586-023-06424-7](https://doi.org/10.1038/s41586-023-06424-7).
+
+Dinh DT, **Breen J**, Nicol B, Bersten D, Emery A, Smith KM, Nicholls M, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2023). Progesterone receptor mediates ovulatory transcription through RUNX transcription factor interactions and chromatin remodelling. _Nucleic Acids Research_. gkad271. [doi:10.1093/nar/gkad271](https://doi.org/10.1093/nar/gkad271).  
 <ins> Preprint</ins>: _bioRxiv_. [doi:10.1101/2021.06.17.448908](https://doi.org/10.1101/2021.06.17.448908). 
 
 Wong YY, Harbison JE, Hope CM, Gundsambuu B, Brown KA, Wong SW, Brown C, Couper JJ, **Breen J**, Liu N, Pederson SM, Köhne M, Klee K, Schultze J, Beyer M, Sadlon T & Barry SC. (2023). Parallel recovery of chromatin accessibility and gene expression dynamics from frozen human Regulatory T cells. _Scientific Reports_. 13(1):5506. [doi:10.1038/s41598-023-32256-6](https://doi.org/10.1038/s41598-023-32256-6).
