@@ -91,6 +91,10 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2023
 
+Thomson AJ, Rehn JA, Heatley SL, Eadie LN, Page EC, Schutz C, McClure BJ, Sutton R, Dalla-Pozza L, Moore AS, Greenwood M, Kotecha RS, Fong C, Yong ASM, Yeung DT, **Breen J** & White DL. (2023). Reproducible bioinformatics analysis workflows for detecting IGH gene fusions in B-cell acute lymphoblastic leukaemia patients. _Cancers_. Accepted 22/09/2023. _Co-senior/co-corresponding author_
+
+Khurana I, Howard NJ, Maxwell S, Du Preez A, Kaipananickal H, **Breen J**, Buckberry S, Okabe J, Al-Hasani K, Nakasatien S, Himathongkam T, Cooper ME, Maple-Brown L, Thewjitcharoen Y, Brown A & El-Osta A. (2023). Circulating epigenomic biomarkers correspond with diabetic kidney disease susceptibility in high-risk populations with type 2 diabetes. _Diabetes Research and Clinical Practice_. Accepted 21/09/2023
+
 Buckberry S, Liu X, Poppe D, Tan JP, Sun G, Chen J, Nguyen TV, de Mendoza A, Pflueger J, Frazer T, Vargas-Landín DB, Paynter JM, Smits N, Liu N, Ouyang JF, Rossello FJ, Chy HS, Rackham OJL, Laslett AL, **Breen J**, Faulkner GJ, Nefzger CM, Polo JM & Lister R. (2023). Transient naive reprogramming corrects hiPS cells functionally and epigenetically. _Nature_ 1–10. [doi:10.1038/s41586-023-06424-7](https://doi.org/10.1038/s41586-023-06424-7).
 
 Dinh DT, **Breen J**, Nicol B, Bersten D, Emery A, Smith KM, Nicholls M, Wong YY, Barry SC, Yao HH-C, Robker RL & Russell DL. (2023). Progesterone receptor mediates ovulatory transcription through RUNX transcription factor interactions and chromatin remodelling. _Nucleic Acids Research_. gkad271. [doi:10.1093/nar/gkad271](https://doi.org/10.1093/nar/gkad271).  
