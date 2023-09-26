@@ -15,35 +15,6 @@ Genomics and Bioinformatics Researcher
 
 <br>
 
-# Table of Contents
-- [James Breen](#james-breen)
-- [Table of Contents](#table-of-contents)
-  - [Academic & Professional Positions](#academic--professional-positions)
-    - [Current](#current)
-    - [Former](#former)
-  - [Education](#education)
-  - [Publications](#publications)
-    - [Journal Articles](#journal-articles)
-    - [Consortium papers](#consortium-papers)
-    - [Book chapters](#book-chapters)
-  - [Competitive Grants & External Research Funding](#competitive-grants--external-research-funding)
-      - [Current](#current-1)
-      - [Completed](#completed)
-  - [Professional Associations & Committees](#professional-associations--committees)
-    - [Conference Proceeding](#conference-proceeding)
-    - [Conference submissions (as presenting author)](#conference-submissions-as-presenting-author)
-  - [Invited Presentations](#invited-presentations)
-  - [Other Media](#other-media)
-  - [Student Supervision](#student-supervision)
-    - [PhD](#phd)
-      - [Current](#current-2)
-      - [Completed](#completed-1)
-    - [MSc Biotechnology (All Primary Supervised)](#msc-biotechnology-all-primary-supervised)
-      - [Completed](#completed-2)
-    - [BSc (honours)](#bsc-honours)
-      - [Completed](#completed-3)
-  - [Awards](#awards)
-
 ## Academic & Professional Positions
 
 ### Current
@@ -95,7 +66,7 @@ Chan HY, Tran HM, **Breen J**, Schjenken JE. & Robertson SA. (2023). The endomet
 
 Thomson AJ, Rehn JA, Heatley SL, Eadie LN, Page EC, Schutz C, McClure BJ, Sutton R, Dalla-Pozza L, Moore AS, Greenwood M, Kotecha RS, Fong C, Yong ASM, Yeung DT, **Breen J** & White DL. (2023). Reproducible bioinformatics analysis workflows for detecting IGH gene fusions in B-cell acute lymphoblastic leukaemia patients. _Cancers_. Accepted 22/09/2023. _Co-senior/co-corresponding author_
 
-Khurana I, Howard NJ, Maxwell S, Du Preez A, Kaipananickal H, **Breen J**, Buckberry S, Okabe J, Al-Hasani K, Nakasatien S, Himathongkam T, Cooper ME, Maple-Brown L, Thewjitcharoen Y, Brown A & El-Osta A. (2023). Circulating epigenomic biomarkers correspond with diabetic kidney disease susceptibility in high-risk populations with type 2 diabetes. _Diabetes Research and Clinical Practice_. Accepted 21/09/2023
+Khurana I, Howard NJ, Maxwell S, Du Preez A, Kaipananickal H, **Breen J**, Buckberry S, Okabe J, Al-Hasani K, Nakasatien S, Himathongkam T, Cooper ME, Maple-Brown L, Thewjitcharoen Y, Brown A & El-Osta A. (2023). Circulating epigenomic biomarkers correspond with diabetic kidney disease susceptibility in high-risk populations with type 2 diabetes. _Diabetes Research and Clinical Practice_. Accepted 21/09/2023. [doi:10.1016/j.diabres.2023.110918](https://doi.org/10.1016/j.diabres.2023.110918)
 
 Buckberry S, Liu X, Poppe D, Tan JP, Sun G, Chen J, Nguyen TV, de Mendoza A, Pflueger J, Frazer T, Vargas-Landín DB, Paynter JM, Smits N, Liu N, Ouyang JF, Rossello FJ, Chy HS, Rackham OJL, Laslett AL, **Breen J**, Faulkner GJ, Nefzger CM, Polo JM & Lister R. (2023). Transient naive reprogramming corrects hiPS cells functionally and epigenetically. _Nature_ 1–10. [doi:10.1038/s41586-023-06424-7](https://doi.org/10.1038/s41586-023-06424-7).
 
