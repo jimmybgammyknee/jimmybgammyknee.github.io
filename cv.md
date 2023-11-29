@@ -62,9 +62,12 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2023
 
-Chan HY, Tran HM, **Breen J**, Schjenken JE. & Robertson SA. (2023). The endometrial transcriptome transition preceding receptivity to embryo implantation in mice. _BMC Genomics_. Accepted 23/09/2023
+Ludington AJ, Hammond JM, **Breen J**, Deveson IW & Sanders KL. (2023). New chromosome-scale genomes provide insights into marine adaptations of sea snakes (Hydrophis: Elapidae). _BMC Biology_. Accepted 25/11/2023. [doi:10.1186/s12915-023-01772-2](https://doi.org/10.1186/s12915-023-01772-2).
 
-Thomson AJ, Rehn JA, Heatley SL, Eadie LN, Page EC, Schutz C, McClure BJ, Sutton R, Dalla-Pozza L, Moore AS, Greenwood M, Kotecha RS, Fong C, Yong ASM, Yeung DT, **Breen J** & White DL. (2023). Reproducible bioinformatics analysis workflows for detecting IGH gene fusions in B-cell acute lymphoblastic leukaemia patients. _Cancers_. Accepted 22/09/2023. _Co-senior/co-corresponding author_
+Chan HY, Tran HM, **Breen J**, Schjenken JE. & Robertson SA. (2023). The endometrial transcriptome transition preceding receptivity to embryo implantation in mice. _BMC Genomics_. 24:590. [doi:10.1186/s12864-023-09698-3](https://doi.org/10.1186/s12864-023-09698-3).
+
+Thomson AJ, Rehn JA, Heatley SL, Eadie LN, Page EC, Schutz C, McClure BJ, Sutton R, Dalla-Pozza L, Moore AS, Greenwood M, Kotecha RS, Fong C, Yong ASM, Yeung DT, **Breen J** & White DL. (2023). Reproducible bioinformatics analysis workflows for detecting IGH gene fusions in B-cell acute lymphoblastic leukaemia patients. _Cancers_. 15(19): 4731.
+[doi:10.3390/cancers15194731](https://doi.org/10.3390%2Fcancers15194731). _Co-senior/co-corresponding author_
 
 Khurana I, Howard NJ, Maxwell S, Du Preez A, Kaipananickal H, **Breen J**, Buckberry S, Okabe J, Al-Hasani K, Nakasatien S, Himathongkam T, Cooper ME, Maple-Brown L, Thewjitcharoen Y, Brown A & El-Osta A. (2023). Circulating epigenomic biomarkers correspond with diabetic kidney disease susceptibility in high-risk populations with type 2 diabetes. _Diabetes Research and Clinical Practice_. Accepted 21/09/2023. [doi:10.1016/j.diabres.2023.110918](https://doi.org/10.1016/j.diabres.2023.110918)
 
