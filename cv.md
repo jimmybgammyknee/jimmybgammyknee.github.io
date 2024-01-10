@@ -60,6 +60,10 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Journal Articles
 
+#### 2024
+
+Gancheva MR, Kremer K, **Breen J**, Arthur A, Hamilton-Bruce A, Thomas P, Gronthos S & Koblara S. (2024). Effect of Octamer-binding transcription factor 4 overexpression on the neural induction of human dental pulp stem cells. _Stem Cell Reviews and Reports_. _Accepted 10/01/2024_
+
 #### 2023
 
 Ludington AJ, Hammond JM, **Breen J**, Deveson IW & Sanders KL. (2023). New chromosome-scale genomes provide insights into marine adaptations of sea snakes (Hydrophis: Elapidae). _BMC Biology_. Accepted 25/11/2023. [doi:10.1186/s12915-023-01772-2](https://doi.org/10.1186/s12915-023-01772-2).
