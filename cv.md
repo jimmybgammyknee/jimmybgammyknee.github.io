@@ -439,15 +439,17 @@ CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 
 Primary supervised in **bold**
 
-- **Jacqueline Rehn (PhD, SAHMRI & University of Adelaide)**
-- Justin Bogias (PhD, Robinson Research Institute, University of Adelaide)
-- Alastair Lundington (PhD, University of Adelaide)
-- Sam Godwin (PhD, University of Adelaide)
+- Justin Bogias (PhD, University of Adelaide)
+- Sam Godwin (PhD, Australian National University)
 - Rebecca Simpson (PhD, Australian National University)
-- Ashlee Thompson (MPhil, SAHMRI & University of Adelaide & SAHMRI)
+- Ashlee Thompson (PhD, SAHMRI & University of Adelaide & SAHMRI)
+- **Holly Massacci (PhD, Australian National University)**
   
 #### Completed
-
+- Alastair Luddington (PhD, University of Adelaide)
+    - Now working as a Postdoc at the University of Adelaide and Bioinformatics Engineer for Telethon Kids Institute
+- **Jacqueline Rehn (PhD, SAHMRI & University of Adelaide)**
+    - Now working as a Postdoc at SAHMRI  
 - **Melanie Smith (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
     - Now working as a Postdoc at Flinders University, Adelaide, Australia
     - Conferral February 2022
