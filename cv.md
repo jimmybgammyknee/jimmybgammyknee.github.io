@@ -62,6 +62,8 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 #### 2024
 
+Oliva A, Kaphle A, Reguant R, Sng LMF, Twine NA, Malakar Y, Wickramarachchi A, Keller M, Ranbaduge T, Chan EKF, **Breen J**, Buckberry S, Guennewig B, Haas M, Brown A, Cowley MJ, Thorne N, Jain Y & Bauer D. (2024). Future-proofing genomic data and consent management: a comprehensive review of technology innovations. _GigaScience_. Accepted 10/04/2024
+
 Gancheva MR, Kremer K, **Breen J**, Arthur A, Hamilton-Bruce A, Thomas P, Gronthos S & Koblara S. (2024). Effect of Octamer-binding transcription factor 4 overexpression on the neural induction of human dental pulp stem cells. _Stem Cell Reviews and Reports_. _Accepted 10/01/2024_
 
 #### 2023
