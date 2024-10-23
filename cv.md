@@ -28,6 +28,8 @@ Genomics and Bioinformatics Researcher
 - [Student Supervision](#student-supervision)
 - [Awards](#awards)
 
+---
+
 ## Academic and Professional Positions
 
 ### Current
@@ -396,6 +398,8 @@ Mayne BT, Leemaqz S, Buckberry S, Rodriguez Lopez CM, Roberts CT, Bianco-Miotto 
 
 **Breen J**, Appels R & Bellgard M. (2006). Wheat BAC sequencing of chromosome 3B. *Molecular Plant Breeding Co-operative Research Centre (MPB-CRC) Annual Research Meeting* Fremantle, WA Australia. Presentation
 
+---
+
 ## Invited Presentations
 
 `2024`
@@ -453,6 +457,7 @@ CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 `2013` Talking Research: Dr. James Breen. _Harvest: Radio Adelaide_
 ([radio.adelaide.edu.au/talking-research-dr-james-breen](https://radio.adelaide.edu.au/talking-research-dr-james-breen/))
 
+---
 
 ## Student Supervision
 
@@ -522,6 +527,8 @@ Primary supervised in **bold**
 - 4 Honours students in 2014 in the Faculty of Engineering, University of Adelaide for a group project on Microbial buildup in fire-water pipe systems
 - Alastair Lundington (BSc hons, Robinson Research Institute, University of Adelaide)
     - Now working at the SAHMRI Bioinformatics Core
+
+---
 
 ## Awards
 
