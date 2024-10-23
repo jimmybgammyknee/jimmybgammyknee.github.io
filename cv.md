@@ -15,7 +15,20 @@ Genomics and Bioinformatics Researcher
 
 <br>
 
-## Academic & Professional Positions
+## Table of Contents
+
+- [Academic & Professional Positions](#academic-and-professional-positions)
+- [Education](#education)
+- [Publications](#publications)
+- [Grant Funding](#grant-funding)
+- [Professional Associations and Committees](#professional-associations-and-committees)
+- [Conferences Publications](#conferences-publications)
+- [Invited Presentations](#invited-presentations)
+- [Other Media](#other-media)
+- [Student Supervision](#student-supervision)
+- [Awards](#awards)
+
+## Academic and Professional Positions
 
 ### Current
 
@@ -291,7 +304,7 @@ Estrada O, Richards SM & Breen J. (2021). Discovering the Secrets of Ancient Pla
 
 ---
 
-## Competitive Grants & External Research Funding
+## Grant Funding
 
 #### Current
 
@@ -337,7 +350,7 @@ Estrada O, Richards SM & Breen J. (2021). Discovering the Secrets of Ancient Pla
 
 ---
 
-## Professional Associations & Committees
+## Professional Associations and Committees
 
 * President of the Australian Bioinformatics & Computational Biology Society (ABACBS) - Elected December 2019
 * Member (& Former Secretary) of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
@@ -347,7 +360,7 @@ Estrada O, Richards SM & Breen J. (2021). Discovering the Secrets of Ancient Pla
 
 ---
 
-### Conference Proceeding
+## Conferences Publications
 
 **Breen J**, Smith MD, McAninch D, Jankovic-Karasoulos T, McCullough D, Pederson SM, Bogias KJ, Wan Q, Bianco-Miotto T & Roberts CT. (2020). Defining Co-expression Patterns and Molecular Pathways of the Placenta During Early Pregnancy. REPRODUCTIVE SCIENCES 27 (SUPPL 1), 251A-251A
 
