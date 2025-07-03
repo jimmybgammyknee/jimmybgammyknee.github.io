@@ -75,13 +75,19 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Journal Articles
 
+#### 2025
+
+Villani RM, Terrill B, Tudini E, McKenzie ME, Cliffe CC, Hahn CN, Lundie B, Mattiske T, Matotek E, McEwen AE, Nickerson SL, **Breen J**, Fowler DM, Christodoulou J, Starita L, Rubin AF & Spurdle AB. (2025). Consultation informs strategies for improving the use of functional evidence in variant classification. _American Journal of Human Genetics_. 112(6): 1489-1495. [doi:10.1016/j.ajhg.2025.05.003](https://doi.org/10.1016/j.ajhg.2025.05.003)
+
+Thomson A, Rehn J, Yeung D, **Breen J** & White DH. (2025). Deciphering IGH rearrangement complexity and detection strategies in acute lymphoblastic leukaemia. _npj Precision Oncology_. 9:99. [doi:10.1038/s41698-025-00887-9](https://doi.org/10.1038/s41698-025-00887-9)
+
 #### 2024
 
-Panir K, Schjenken JE, **Breen J**, Chan HY, Greaves E, Robertson S & Hull ML. (2024). RNA sequencing reveals novel molecular mechanisms of endometriosis lesion development in a mouse model. _Disease Models & Mechanisms_. Accepted 01/10/2024.
+Panir K, Schjenken JE, **Breen J**, Chan HY, Greaves E, Robertson S & Hull ML. (2024). RNA sequencing reveals novel molecular mechanisms of endometriosis lesion development in a mouse model. _Disease Models & Mechanisms_. 17(10):dmm050566. [doi:10.1242/dmm.050566](https://doi.org/10.1242/dmm.050566).
 
-Oliva A, Kaphle A, Reguant R, Sng LMF, Twine NA, Malakar Y, Wickramarachchi A, Keller M, Ranbaduge T, Chan EKF, **Breen J**, Buckberry S, Guennewig B, Haas M, Brown A, Cowley MJ, Thorne N, Jain Y & Bauer D. (2024). Future-proofing genomic data and consent management: a comprehensive review of technology innovations. _GigaScience_. Accepted 10/04/2024.
+Oliva A, Kaphle A, Reguant R, Sng LMF, Twine NA, Malakar Y, Wickramarachchi A, Keller M, Ranbaduge T, Chan EKF, **Breen J**, Buckberry S, Guennewig B, Haas M, Brown A, Cowley MJ, Thorne N, Jain Y & Bauer D. (2024). Future-proofing genomic data and consent management: a comprehensive review of technology innovations. _GigaScience_. 13:giae021, [doi:10.1093/gigascience/giae021](https://doi.org/10.1093/gigascience/giae021)
 
-Gancheva MR, Kremer K, **Breen J**, Arthur A, Hamilton-Bruce A, Thomas P, Gronthos S & Koblara S. (2024). Effect of Octamer-binding transcription factor 4 overexpression on the neural induction of human dental pulp stem cells. _Stem Cell Reviews and Reports_. Accepted 10/01/2024.
+Gancheva MR, Kremer K, **Breen J**, Arthur A, Hamilton-Bruce A, Thomas P, Gronthos S & Koblara S. (2024). Effect of Octamer-binding transcription factor 4 overexpression on the neural induction of human dental pulp stem cells. _Stem Cell Reviews and Reports_. 20(3):797-815. [doi:10.1007/s12015-024-10678-7](https://doi.org/10.1007/s12015-024-10678-7). 
 
 #### 2023
 
@@ -354,11 +360,15 @@ Estrada O, Richards SM & Breen J. (2021). Discovering the Secrets of Ancient Pla
 
 ## Professional Associations and Committees
 
-* President of the Australian Bioinformatics & Computational Biology Society (ABACBS) - Elected December 2019
-* Member (& Former Secretary) of the <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
-* Member of the [BioinfoSummer 2016 Conference Committee](http://amsi.org.au/events/event/bioinfosummer-2016/)
-* Member of the [2017 COMBINE Symposium](https://combine.org.au/symposium-2017/) organisation committee
-* Member of the [Australian and New Zealand Placental Research Association (ANZPRA)](https://www.anzpra.org/)
+- Past-President, Australian Bioinformatics & Computational Biology Society (ABACBS)
+  - Elected National Exec Committee member (2019-), Vice-President (2020), President (2021-2025)
+  - Conference co-convener, ABACBS 2025
+  - Conference committee member, ABACBS 2024
+- Member, Precision Medicine Flagship, Australian Cardiovascular Disease Alliance (ACvA)
+- Member (& Former Secretary), <a href="http://www.epicsa.org.au">Epigenetics Consortium of South Australia (EpiCSA)</a>
+- Member, [BioinfoSummer 2016 Conference Committee](http://amsi.org.au/events/event/bioinfosummer-2016/)
+- Member, [2017 COMBINE Symposium](https://combine.org.au/symposium-2017/) organisation committee
+- Member, [Australian and New Zealand Placental Research Association (ANZPRA)](https://www.anzpra.org/)
 
 ---
 
