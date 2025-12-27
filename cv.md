@@ -79,7 +79,7 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 Bersten DC, McDougal DP, Sullivan AE, **Breen J**, Fitzsimmons RL, Muscat GEO, Pederson S, Bruning JB, Fan C-M, Thomas PQ, Russell DL, Peet DJ & Whitelaw ML. (2025). Multimodal bHLH-PAS DNA binding controls specificity and drives obesity. _Nucleic Acids Research_. Accepted 6/11/2025
 
-Smith MD, Plaisier S, **Breen J**,  Bogias JK, Jankovic-Karasoulos T, McCullough D, McAninch D, Arthurs AL, Wilson MA, Pillman KA & Roberts CT. (2025). Sex-specific placental transcriptome alterations in late-onset preeclampsia reveal male-biased immune and metabolic dysregulation. _Biolgy of Sex Differences_. [doi:10.1186/s13293-025-00781-w](https://doi.org/10.1186/s13293-025-00781-w). 
+Smith MD, Plaisier S, **Breen J**,  Bogias JK, Jankovic-Karasoulos T, McCullough D, McAninch D, Arthurs AL, Wilson MA, Pillman KA & Roberts CT. (2025). Sex-specific placental transcriptome alterations in late-onset preeclampsia reveal male-biased immune and metabolic dysregulation. _Biology of Sex Differences_. [doi:10.1186/s13293-025-00781-w](https://doi.org/10.1186/s13293-025-00781-w). 
 
 Foyle KL, Chan HY, Tran HM, **Breen J**, Schjenken JE & Robertson SA. (2025). Seminal fluid expands the uterine gamma/delta T cell pool during early pregnancy in mice. _Mucosal Immunology_. Nov 20:S1933-0219(25)00126-6. [doi:10.1016/j.mucimm.2025.11.009](https://doi.org/10.1016/j.mucimm.2025.11.009).
 
