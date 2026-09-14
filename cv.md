@@ -479,50 +479,46 @@ CSIRO Plant Industries, Canberra, Australia (host: Wolfgang Spielmeyer)<br>
 
 ### PhD
 
-#### Current
+#### Current (6 - 2 Advisor Roles)
 
 Primary supervised in **bold**
 
-- Sam Godwin (PhD, Australian National University)
-- Rebecca Simpson (PhD, Australian National University)
 - Ashlee Thompson (PhD, University of Adelaide & SAHMRI)
+  - Submitted August 2026
 - **Holly Massacci (PhD, Australian National University)**
 - **Sehaj Dhariwal (PhD, Adelaide University)**
 - **Allison Foster (PhD, Australian National University)**
+- Sarah Jackson (PhD, Adelaide University)
+- Bridie Moy (PhD, Adelaide University)
 - Grace Callahan (PhD, University of Western Ontario, Canada - Academic Advisor)
 - Chiara Folland (PhD, University of Western Australia - Academic Advisor)
   
-#### Completed
+#### Completed (13)
 
+- Sam Godwin (PhD, Australian National University)
+  - Now working as a Postdoc at Black Ochre Data Labs (Indigenous Genomics), The Kids Research Institute Australia
 - Justin Bogias (PhD, University of Adelaide)
 - Alastair Luddington (PhD, University of Adelaide)
-    - Now working as a Postdoc at the University of Adelaide and Bioinformatics Engineer for Telethon Kids Institute
+  - Now working as a Postdoc at the University of Adelaide and Bioinformatics Engineer for Black Ochre Data Labs (Indigenous Genomics), The Kids Research Institute Australia
 - **Jacqueline Rehn (PhD, SAHMRI & University of Adelaide)**
-    - Now working as a Postdoc at SAHMRI  
+  - Now working as a Postdoc at SAHMRI  
 - **Melanie Smith (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
-    - Now working as a Postdoc at Flinders University, Adelaide, Australia
-    - Conferral February 2022
+  - Now working as a Postdoc at Flinders University, Adelaide, Australia
+  - Conferral February 2022
 - **Ning Liu (PhD, SAHMRI & Robinson Research Institute, University of Adelaide)**
-    - Now working as a Postdoc at the Walter and Eliza Hall Institute of Medical Research (WEHI) Melbourne, Australia
-    - Submitted May 2021
+  - Now working as a Postdoc at the Walter and Eliza Hall Institute of Medical Research (WEHI) Melbourne, Australia
 - Christopher Ward (PhD, Biological Sciences, University of Adelaide)
-    - Now working at the Australian Wine Research Institute (AWRI)
-    - Submitted May 2021
+  - Now working at the Australian Wine Research Institute (AWRI)
 - Ayub Qassium MD (PhD, Flinders University/SA Pathology)
-    - Clinical resident
 - Qianhui Wan (PhD, Robinson Research Institute, University of Adelaide)
-    - Now working at Flinders University
 - Doan Thao Dinh (PhD, Robinson Research Institute, University of Adelaide)
-    - Now working at the University of Adelaide Medical School
 - Oscar Santamaria (PhD, Australian Centre for Ancient DNA, University of Adelaide)
-    - Currently Postdoc at Laboratoire AMIS CNRS UMR 5288, University of Toulouse, France
 - Ben Mayne (PhD, Robinson Research Institute, University of Adelaide)
-    - Formerly SAHMRI Bioinformatics Offer, now working as a postdoc at CSIRO in Western Australia
 - Tim Rabanus-Wallace (PhD, Australian Centre for Ancient DNA, University of Adelaide)
-    - Currently staff scientist at Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben, Germany
 
 ### MSc Biotechnology (All Primary Supervised)
-#### Completed
+
+#### Completed (7)
 
 - Holly Martin (MSc Bioinformatics, University of Adelaide)
 - Karan Kariat (MSc Bioinformatics, University of Adelaide)
@@ -539,7 +535,7 @@ Primary supervised in **bold**
 
 ### BSc (honours)
 
-#### Completed
+#### Completed (7)
 
 - Awais Choudhry (BSc hons, Robinson Research Institute, University of Adelaide)
     - Now working in industry
