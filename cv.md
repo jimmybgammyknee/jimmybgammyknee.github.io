@@ -79,7 +79,9 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 Maxwell S, Khurana I, Buckberry S, Kaipananickal H, **Breen J**, Howard NJ, Okabe J, Birkelund S, Olshansky M, Zimmet PZ, Cooper ME, Brown A & El-Osta A. (2026). Blood DNA methylation profiling identifies candidate diabetic kidney disease risk signatures in the PROPHECY Aboriginal Diabetes Study. _Communications Medicine_. 1–18. [doi:10.1038/s43856-026-01959-y](https://doi.org/10.1038/s43856-026-01959-y)
 
-Folland C, Monahan G, **Breen J**, Johari M, Patel HR & Ravenscroft G. (2026). Rare disease genomics in an era of human pangenomics and telomere-to-telomere genome references. _European Journal of Human Genetics_. 34:1033 – 1046. [doi:10.1038/s41431-026-02125-7](https://doi.org/10.1038/s41431-026-02125-7)
+Folland C, Monahan G, **Breen J**, Johari M, Patel HR & Ravenscroft G. (2026). Rare disease genomics in an era of human pangenomics and telomere-to-telomere genome references. _European Journal of Human Genetics_. 34:1033 – 1046. [doi:10.1038/s41431-026-02125-7](https://doi.org/10.1038/s41431-026-02125-7).
+
+Wong YY, Harbison JE, Hassan D, Gundsambuu B, Hope CM, Wong SW, Couper JJ, Gummow JA, **Breen J**, Liu N, Pederson SM, Kohne M, Händler K, Picelli S, Beyer M, Schultze J, Sadlon T & Barry SC. (2026). Integrative epigenomic and transcriptomic profiling reveals dysregulated T cell regulatory networks in Stage 3 Type 1 diabetes. Research Square, **PREPRINT** (Version 1). PPR1174673. [doi:10.21203/rs.3.rs-9142251](https://doi.org/10.21203/rs.3.rs-9142251/v1).
 
 Thomson-Roberts A, Rehn J, McClure B, Eadie L, Page E, Schutz C, Heatley S, Yeung D, **Breen J** & White D. (2026). Improving Genomic Alignment Accuracy and Variant Detection for Acute Lymphoblastic Leukaemia Patients: A Pan-Genome Graph Approach. _Research Square_ **PREPRINT** (Version 1) available at Research Square [doi:10.21203/rs.3.rs-9098983](https://doi.org/10.21203/rs.3.rs-9098983/v1)
 
