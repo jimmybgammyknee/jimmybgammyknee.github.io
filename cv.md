@@ -75,9 +75,18 @@ Supervisors: Matthew Bellgard & Rudi Appels <br>
 
 ### Journal Articles
 
-#### 2025
+#### 2026
 
-Bersten DC, McDougal DP, Sullivan AE, **Breen J**, Fitzsimmons RL, Muscat GEO, Pederson S, Bruning JB, Fan C-M, Thomas PQ, Russell DL, Peet DJ & Whitelaw ML. (2025). Multimodal bHLH-PAS DNA binding controls specificity and drives obesity. _Nucleic Acids Research_. Accepted 6/11/2025
+Maxwell S, Khurana I, Buckberry S, Kaipananickal H, **Breen J**, Howard NJ, Okabe J, Birkelund S, Olshansky M, Zimmet PZ, Cooper ME, Brown A & El-Osta A. (2026). Blood DNA methylation profiling identifies candidate diabetic kidney disease risk signatures in the PROPHECY Aboriginal Diabetes Study. _Communications Medicine_. 1–18. [doi:10.1038/s43856-026-01959-y](https://doi.org/10.1038/s43856-026-01959-y)
+
+Folland C, Monahan G, **Breen J**, Johari M, Patel HR & Ravenscroft G. (2026). Rare disease genomics in an era of human pangenomics and telomere-to-telomere genome references. _European Journal of Human Genetics_. 34:1033 – 1046. [doi:10.1038/s41431-026-02125-7](https://doi.org/10.1038/s41431-026-02125-7)
+
+Thomson-Roberts A, Rehn J, McClure B, Eadie L, Page E, Schutz C, Heatley S, Yeung D, **Breen J** & White D. (2026). Improving Genomic Alignment Accuracy and Variant Detection for Acute Lymphoblastic Leukaemia Patients: A Pan-Genome Graph Approach. _Research Square_ **PREPRINT** (Version 1) available at Research Square [doi:10.21203/rs.3.rs-9098983](https://doi.org/10.21203/rs.3.rs-9098983/v1)
+
+Bersten DC, McDougal DP, Sullivan AE, **Breen J**, Fitzsimmons RL, Muscat GEO, Pederson S, Bruning JB, Fan C-M, Thomas PQ, Russell DL, Peet DJ & Whitelaw ML. (2026). Multimodal bHLH-PAS DNA binding controls specificity and drives obesity. _Nucleic Acids Research_. 54 (1), gkaf1352. [doi:10.1093/nar/gkaf1352](https://doi.org/10.1093/nar/gkaf1352)
+
+
+#### 2025
 
 Smith MD, Plaisier S, **Breen J**,  Bogias JK, Jankovic-Karasoulos T, McCullough D, McAninch D, Arthurs AL, Wilson MA, Pillman KA & Roberts CT. (2025). Sex-specific placental transcriptome alterations in late-onset preeclampsia reveal male-biased immune and metabolic dysregulation. _Biology of Sex Differences_. [doi:10.1186/s13293-025-00781-w](https://doi.org/10.1186/s13293-025-00781-w). 
 
